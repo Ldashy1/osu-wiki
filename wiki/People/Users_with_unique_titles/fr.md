@@ -143,7 +143,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)[^mao-note]
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -159,8 +159,6 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
-
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) a reçu le titre de **Elite Mapper II** pour avoir réussi à obtenir le titre d'Elite Mapper par deux moyens différents : La victoire au concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) et le dépassement du seuil de 6 points dans le nouveau système [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ## Elite Nominators
 
@@ -182,7 +180,7 @@ Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_
 
 Les gagnants du concours de mapping Aspire proposent une variante spéciale du titre Elite Mapper appelée **Elite Mapper : Aspirant** comme prix.
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)[^charles445-note]
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
@@ -191,20 +189,16 @@ Les gagnants du concours de mapping Aspire proposent une variante spéciale du t
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) a reçu le titre **Elite Mapper II : Aspirant** pour avoir remporté le [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) et le [Monthly Beatmapping Contest : Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
-
 ## Gagnants du concours osu!remix
 
 Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 
-- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
+- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)[^billiummoto-note]
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
-
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté le [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
 ## Gagnants actuels du concours osu!trivium Quiz
 
-Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre de **osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
+Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre d'**osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
 
 - ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
@@ -322,6 +316,12 @@ Ces utilisateurs ont reçu leurs titres respectifs pour des raisons diverses.
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
+## Notes
+
+[^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) a reçu le titre de **Elite Mapper II** pour avoir réussi à obtenir le titre d'Elite Mapper par deux moyens différents : La victoire au concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) et le dépassement du seuil de 6 points dans le nouveau système [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
+[^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) a reçu le titre **Elite Mapper II : Aspirant** pour avoir remporté le [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) et le [Monthly Beatmapping Contest : Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
+[^billiummoto-note]: ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté l'[osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
@@ -354,6 +354,6 @@ Ces utilisateurs ont reçu leurs titres respectifs pour des raisons diverses.
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_SH]: /wiki/shared/flag/SH.gif "Sainte-Hélène"
-[flag_TN]: /wiki/shared/flag/TU.gif "Tunisie"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

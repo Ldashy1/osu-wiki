@@ -332,6 +332,18 @@ Exemple :
 
 Par extension, les [mises en valeur](/wiki/Article_styling_criteria/Formatting#mise-en-valeur), les [liens](/wiki/Article_styling_criteria/Formatting#liens) et les parenthèses doivent suivre les mêmes règles de ponctuation (qu'elles englobent une phrase entière ou seulement une partie de celle-ci).
 
+### Bloc de citation
+
+Lorsque vous citez le texte de quelqu'un, précisez la personne citée après la [citation en bloc](/wiki/Article_styling_criteria/Formatting#citations-en-bloc) avec un tiret long (`—`). Si la citation originale provient d'une source non anglophone, précisez-la entre parenthèses.
+
+```markdown
+> svp profitez du jeu
+
+—rrtyui (traduit de {langue})
+```
+
+En général, la source de la citation doit être précisée au-dessus de celle-ci. Voir la [section ci-dessus](#citations) pour un exemple. Lorsque vous citez un article écrit ou autre, et pas nécessairement une personne spécifique, il n'est pas nécessaire de préciser l'auteur sous la citation.
+
 ## Prononciation
 
 La prononciation écrite doit utiliser l'[Alphabet phonétique international](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international).

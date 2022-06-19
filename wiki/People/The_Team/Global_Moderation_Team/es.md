@@ -110,7 +110,7 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Moderación del chat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonés | Moderación del chat |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderación de la comunidad de mapping/modding |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Árabe, malayo | Moderación del chat |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Malayo | Moderación del chat |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Español | Moderación del chat |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Alemán | Moderación del foro |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Coreano | Moderación del chat |
@@ -136,7 +136,7 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 
 | Canal | Subforo | Moderadores |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |
@@ -155,7 +155,7 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
-| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419), ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419), ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |

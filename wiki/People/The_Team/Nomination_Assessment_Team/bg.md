@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 no_native_review: true
 tags:
@@ -84,8 +84,6 @@ NAT държи потенциалните NAT членове в списъка �
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Оценка |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Арабски, Френски | Оценка |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Оценка |
-
-<!-- last update: 2021-11-06 04:00 added Capu and radar to osu!taiko, removed Agatsu and Kibbleru from osu! -->
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Белгия"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
