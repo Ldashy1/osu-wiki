@@ -46,13 +46,13 @@ The Springtime osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Mappool selector | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/4693052)  |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_US] [RhymesWithMash](https://osu.ppy.sh/users/18834550), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/18834550), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959), ![][flag_US] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Streamer | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_US] [RhymesWithMash](https://osu.ppy.sh/users/18834550) |
-| Commentator | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_SG] [Eliminate 2](https://osu.ppy.sh/users/12297375), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959), ![][flag_PH] [Steeeven](https://osu.ppy.sh/users/15503384), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Designer | ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918) |
-| Statistician | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) |
+| Host | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Mappool selector | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/4693052)  |
+| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [-Sparky-](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [StartAndSelect](https://osu.ppy.sh/users/8720555), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Streamer | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=BE }:: [Mortelspawn\_](https://osu.ppy.sh/users/5331420), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550) |
+| Commentator | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=SG }:: [Eliminate 2](https://osu.ppy.sh/users/12297375), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [-Sparky-](https://osu.ppy.sh/users/3187959), ::{ flag=PH }:: [Steeeven](https://osu.ppy.sh/users/15503384), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Designer | ::{ flag=MX }:: [-Candy-](https://osu.ppy.sh/users/3964918) |
+| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) |
 
 ## Links
 
@@ -98,8 +98,8 @@ The Springtime osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 - After the qualification round, the remaining players will be divided into 4 different groups based on their qualification seeds. Each group will have a different set of protocols to follow.
   - **1st-16th seeds**: The top 16 seeds of the qualification stage will advance directly into Group Stage of the tournament. They do not need to participate in any matches during Playoff Stage.
   - **17th-32nd seeds**: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player from the 97th-128th seed group. Players who win their matches in this stage will advance to Group Stage.
-  - **33rd-96th seeds**: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player in the 33rd to 96th seed group—more specifically, `(129 - the player's seed)`. Players who win their match in this stage will advance to Group Stage.
-  - **97th-128th seeds**: Players within this group will participate in **two matches** during Playoff Stage. Their first opponent will be a player in the 97th-128th seed group—more specifically, `(225 - the player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th-32nd seed group. Players who win both of their matches in this stage will advance to Group Stage.
+  - **33rd-96th seeds**: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player in the 33rd to 96th seed group — more specifically, `(129 - the player's seed)`. Players who win their match in this stage will advance to Group Stage.
+  - **97th-128th seeds**: Players within this group will participate in **two matches** during Playoff Stage. Their first opponent will be a player in the 97th-128th seed group — more specifically, `(225 - the player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th-32nd seed group. Players who win both of their matches in this stage will advance to Group Stage.
 
 #### Group stage
 
@@ -173,17 +173,3 @@ The Springtime osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 - Matches will have a two-disconnection limit. Upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two-minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in the [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

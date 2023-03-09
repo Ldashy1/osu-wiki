@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated_since: 1834ccd496bf810403e12761b11dbf6ed360f82e
+outdated_translation: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -40,7 +42,7 @@ no_native_review: true
 
 [遊戲模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Gameplay/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Gameplay/Multiplayer)
+[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Gameplay/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -132,7 +134,7 @@ no_native_review: true
 
 如同這裡幾乎所有的一切，osu! wiki 也是由志願者撰寫並維護的。歡迎在 [osu-wiki GitHub 儲存庫](https://github.com/ppy/osu-wiki)提出建議、回報問題、甚至自行撰寫文章。
     
-[osu! 歷史](/wiki/History_of_osu!) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製譜及 Modding 時間線](/wiki/Mapping_and_Modding_Timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
+[osu! 歷史](/wiki/History_of_osu!) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製譜及 Modding 時間線](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
 
 [網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki/Contribution_guide) • [文章風格標準](/wiki/Article_styling_criteria) • [新聞稿風格標準](/wiki/News_styling_criteria)
 

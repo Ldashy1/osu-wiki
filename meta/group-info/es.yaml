@@ -1,17 +1,13 @@
-outdated_since: dca16aabefecc2b5ab512b49881308b8ac0077b8
-outdated_translation: true # missing languages.be and languages.uk
-
-# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
-    academy: fundador de osu!academy
-    admin: administración
+    academy: fundador de la osu!academy
+    admin: administador
     chat: moderador del chat
     dev: osu!dev
     media: creador de osu!media
     support: equipo de soporte
-    tournaments: torneos
+    tournaments: gestor de torneos
 gmt:
   all_mods: todos los moderadores
   areas:
@@ -19,53 +15,15 @@ gmt:
     chat: moderación del chat
     forum: moderación del foro
     team: presencia oficial del equipo
-    dev: desarrollador de osu!
+    dev: desarrollo de osu!
     player: soporte al jugador
     support: soporte técnico
-    tournaments: torneos
+    tournaments: gestión de torneos
     wiki: administración de la wiki
     mapping: moderación de la comunidad de mapping/modding
 nat:
-  areas:
-    communication: comunicación
-    evaluation: evaluación
-    moderation: moderación
-    structural: estructural
+  subgroups:
+    advisor: asesor
+    evaluator: evaluador
 languages:
   partial: algo de <language>
-  ar: árabe
-  bg: búlgaro
-  bn: bengalí
-  ca: catalán
-  da: danés
-  de: alemán
-  el: griego
-  es: español
-  et: estonio
-  fi: finlandés
-  fil: filipino
-  fr: francés
-  gl: gallego
-  hr: croata
-  hu: húngaro
-  id: indonesio
-  it: italiano
-  ja: japonés
-  ko: coreano
-  lt: lituano
-  ms: malayo
-  nl: holandés
-  no: noruego
-  pl: polaco
-  pt: portugués
-  ro: rumano
-  ru: ruso
-  sr: serbio
-  sv: sueco
-  te: telugu
-  th: tailandés
-  tr: turco
-  ur: urdu
-  vi: vietnamita
-  yue: cantonés
-  zh: chino

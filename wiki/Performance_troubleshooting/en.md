@@ -10,6 +10,7 @@ Unfortunately, due to the scope of hardware which osu! runs on, it's very hard t
 - Is your frame limiter set to `Unlimited`? Set it to `Optimal` and see if it helps. See [its section below](#unlimited) for more information on why `Unlimited` is usually not the best choice.
 - Are you running windowed? Switch to fullscreen.
 - Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
+- Does your PC use an NVIDIA Optimus or similar hybrid graphics setup? If so, try forcing the game to run on each of the GPUs to compare performance. It is quite common for the integrated GPU to provide more consistent performance for games like osu!. Search for “Graphics settings” in Windows and set osu! to either “Power Saving” or “High Performance” to experiment.
 
 ## The types of "lag"
 
@@ -96,8 +97,7 @@ Even so, if heat generation and potentially overworking your hardware is not con
 
 ### Custom
 
-*Notice to Cutting Edge users: changing the value of `CustomFrameLimit` to any number above 999, will be reverted to 999; on Stable, you can set the value above 1000 with no issues.*
-
+*Notice to Cutting Edge users: changing the value of `CustomFrameLimit` to any number above 999, will be reverted to 999; on Stable, you can set the value above 1000 with no issues.*\
 *Caution: you cannot switch into this setting with the `F7` shortcut in-game, even if you do the steps below: you'll need to switch to `Custom` in the Settings before quitting the game so it'll be available the next time osu! runs. Otherwise, you'll have to change the `FrameSync` manually again.*
 
 This frame limiter attempts to keep a frame rate equal to your custom preference; however, this is a setting that cannot be changed to within the in-game menu by default.

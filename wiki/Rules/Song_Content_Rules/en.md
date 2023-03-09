@@ -4,7 +4,8 @@ With a wide variety of music available, most tracks will be fine for use in osu!
 
 - Heavily political
 - Promoting racial tension or division
-- Extremely and unbearably loud or excessively clipped
+- Extremely and unbearably loud
+- Modified to contain audible clipping or distortion unintended by the artist
 
 Please note that songs with explicit content are [covered by different regulations](/wiki/Rules/Explicit_Content).
 
@@ -12,7 +13,7 @@ Please note that songs with explicit content are [covered by different regulatio
 
 In the interests of keeping a game about rhythm strictly about rhythm and in accordance with [community rule](/wiki/Rules#community-rules) #3, content which is deemed excessively political by the administration is disallowed.
 
-We adhere to no one particular "end" of a political spectrum—osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or squabble over politics.
+We adhere to no one particular "end" of a political spectrum — osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or squabble over politics.
 
 ## What happens if my track isn't okay?
 

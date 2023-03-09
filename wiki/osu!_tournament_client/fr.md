@@ -42,10 +42,6 @@ Par défaut, le client du tournoi osu!(lazer) fournit des drapeaux intégrés po
 
 Pour les drapeaux personnalisés, les fichiers `.jpg` et `.png` sont acceptés. Les images de drapeaux doivent être d'au moins 140x94, en conservant un rapport d'aspect proche de cette spécification pour de meilleurs résultats.
 
-Ce drapeau de l'Australie est un exemple de drapeau utilisant les spécifications correctes :
-
-![][flag_AU]
-
 Les drapeaux doivent être placés dans`<your-tournament>/Flags`. Les drapeaux peuvent ensuite être référencés dans l'éditeur d'équipe par leur nom de fichier sans l'extension de fichier.
 
 ### Mods
@@ -78,5 +74,3 @@ Les fichiers vidéo doivent être placés dans le dossier `<your-tournament>/Vid
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"

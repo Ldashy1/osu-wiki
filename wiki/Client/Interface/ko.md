@@ -18,7 +18,7 @@ no_native_review: true
 - \[3\] Edit(`E`)을 누르면 편집 모드의 곡 선택 화면으로 이동합니다.
 - \[4\] Options (`O`)을 누르면 설정 화면이 왼쪽에서 튀어나옵니다.
 - \[5\] Exit(`Esc`) 를 누르면 osu!를 종료합니다.
-- \[6\] 무작위하게 뽑힌 팁이 메뉴 아래에 나타납니다.
+- \[6\] 무작위하게 뽑힌 [팁이](/wiki/Client/Menu_tips) 메뉴 아래에 나타납니다.
 - \[7\] 좌측 하단에는 osu! 홈페이지 링크와 저작권 정보가 있으며, 클릭하면 홈페이지로 이동합니다.
 - \[8\] [Bancho](/wiki/Bancho_(server))와의 연결 작업 현황을 나타냅니다. 이 사진에는 보이지 않지만 연결 중일 때는 체인 아이콘이 표시됩니다.
 - \[9\] 우측 하단에는 확장 [채팅 인터페이스](/wiki/Client/Interface/Chat_console) (`Online Users`라고 적힌 버튼)과 일반 채팅 창을 띄울 수 있는 버튼이 있습니다. (각각 단축키 `F9`와 `F8`를 사용해 띄울 수 있음)
@@ -48,12 +48,12 @@ no_native_review: true
 ![](img/play-menu.jpg "플레이 메뉴")
 
 - Solo(`P`)를 누르면 혼자서 플레이 할 수 있습니다.
-- Multi(`M`)를 누르면 다른 사람과 멀티 플레이를 즐길 수 있습니다. [멀티 플레이](/wiki/Gameplay/Multiplayer) 로비로 넘어갑니다.
+- Multi(`M`)를 누르면 다른 사람과 멀티 플레이를 즐길 수 있습니다. [멀티 플레이](/wiki/Client/Interface/Multiplayer) 로비로 넘어갑니다.
 - Back(`Esc`)을 누르면 메인 메뉴로 돌아갑니다.
 
 ## 멀티 플레이 로비
 
-*본문: [멀티 플레이](/wiki/Gameplay/Multiplayer)*
+*본문: [멀티 플레이](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby.jpg "멀티 플레이 로비")
 

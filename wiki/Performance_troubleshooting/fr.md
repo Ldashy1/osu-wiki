@@ -10,6 +10,7 @@ Malheureusement, en raison de l'étendue du matériel sur lequel fonctionne osu!
 - Votre limiteur d'images est-il réglé sur `Illimité` ? Réglez-le sur `Optimal` et voyez si cela vous aide. Voir [sa section ci-dessous](#illimité) pour plus d'informations sur les raisons pour lesquelles `Illimité` n'est généralement pas le meilleur choix.
 - Vous êtes en mode fenêtré ? Passez en mode plein écran.
 - Avez-vous mis à jour vos pilotes (en particulier le GPU) ? Essayez de le faire et voyez si les choses s'améliorent. Sinon, si vous les avez récemment mis à jour, essayez de revenir en arrière.
+- Votre PC utilise-t-il NVIDIA Optimus ou toute autre configuration graphique hybride similaire ? Si c'est le cas, essayez de forcer le jeu à s'exécuter sur chacun des GPU afin de comparer les performances. Les GPU intégrés fournissent souvent des performances plus constantes sur des jeux comme osu!. Recherchez les "Paramètres graphiques" dans Windows et définissez la préférence graphique d'osu! sur "Économie d'énergie" ou sur "Performances élevées" afin de trouver ce qui fonctionne le mieux.
 
 ## Les types de "lags"
 
@@ -96,8 +97,7 @@ Néanmoins, si la production de chaleur et la surcharge potentielle de votre mat
 
 ### Personnalisé
 
-*Avis aux utilisateurs de Cutting Edge : si vous changez la valeur de `CustomFrameLimit` pour un nombre supérieur à 999, elle sera ramenée à 999 ; sur Stable, vous pouvez fixer la valeur au-dessus de 1000 sans problème.*
-
+*Avis aux utilisateurs de Cutting Edge : si vous changez la valeur de `CustomFrameLimit` pour un nombre supérieur à 999, elle sera ramenée à 999 ; sur Stable, vous pouvez fixer la valeur au-dessus de 1000 sans problème.*\
 *Attention : vous ne pouvez pas activer ce paramètre avec le raccourci `F7` dans le jeu, même si vous suivez les étapes ci-dessous : vous devez passer à `Personnalisée` dans les options avant de quitter le jeu pour qu'il soit disponible à la prochaine exécution d'osu!. Sinon, vous devrez à nouveau modifier manuellement le paramètre `FrameSync`.*
 
 Ce limiteur d'images tente de maintenir une fréquence d'images égale à vos préférences. Cependant, il s'agit d'un paramètre qui ne peut être modifié par défaut dans le menu du jeu.

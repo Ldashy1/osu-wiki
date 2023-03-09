@@ -53,7 +53,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | :-- | :-- | :-- |
 | `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline)) |
 | `DistanceSpacing` | Decimal | [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) multiplier |
-| `BeatDivisor` | Decimal | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `BeatDivisor` | Integer | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Integer | [Grid size](/wiki/Grid_snapping) |
 | `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline)) |
 
@@ -330,7 +330,7 @@ The third object is a slider:
 - At the position (100,100)
 - At 12.6 seconds
 - Starting a new combo
-- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Hit_object/Slider_anchor). 
+- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Hit_object/Slider_anchor).
 - Repeating once
 - 310.123 osu! pixels long
 - With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end

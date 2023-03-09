@@ -11,8 +11,7 @@ tags:
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
-*For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*
-
+*For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*\
 *For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*
 
 ## About
@@ -52,7 +51,7 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider ve
 
 *Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the value of the OD.*
 
-Unlike the other game modes, using the Easy mod in osu!taiko reduces note score requirement to gain health in osu!taiko makes the life bar fill up much more quickly to replace the two additional "lives" as it impossible to fail in the middle of a song in taiko.
+Unlike in other game modes, using the Easy mod in osu!taiko reduces note score requirement to gain health, making the life bar fill up much more quickly instead of adding two additional "lives", as it is impossible to fail in the middle of a song in taiko.
 
 ### osu!catch
 
@@ -69,7 +68,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the effects are the same as in osu!ta
 ## Trivia
 
 - When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_modifier/No_Fail) mod on.
-- In [Multi](/wiki/Gameplay/Multiplayer) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) team mode.
+- In [Multi](/wiki/Client/Interface/Multiplayer) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) team mode.
 - The Easy mod will cancel out the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod, and vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -17,7 +17,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 - \[3\] Düzenleyici modu şarkı seçim ekranına geçmek için Edit'e (`E`) tıklayın.
 - \[4\] Ayarlar ekranına gitmek için Options'a (`O`) tıklayın.
 - \[5\] osu!'dan çıkmak için Exit'e (`Esc`) tıklayın.
-- \[6\] Menünün alt kısmında işe yarar rastgele bir tavsiye görüntülenir.
+- \[6\] Menünün alt kısmında işe yarar rastgele bir [tavsiye](/wiki/Client/Menu_tips) görüntülenir.
 - \[7\] Sol-alt kısımda osu! web sayfasına bir link, aynı zamanda telif hakkı bilgisi bulunur.
 - \[8\] [Bancho](/wiki/Bancho_(server))'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
 - \[9\] Sağ-alt kısımda genişletilmiş [sohbet penceresi](/wiki/Client/Interface/Chat_console) (burada "Player List" olarak geçiyor) ve sıradan sohbet penceresi (sırasıyla `F9` & `F8`) için sohbet kontrolleri bulunur.
@@ -47,12 +47,12 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 ![](img/play-menu.jpg "Oynama Menüsü")
 
 - Yalnız oynamak için `Solo` butonuna (`P`) tıklayın.
-- Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Gameplay/Multiplayer) Lobisine yönlendirileceksiniz (aşağıda).
+- Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Client/Interface/Multiplayer) Lobisine yönlendirileceksiniz (aşağıda).
 - Ana menüye geri dönmek için `Back` butonuna tıklayın.
 
 ## Çoklu Lobisi
 
-*Ana sayfa: [Çoklu](/wiki/Gameplay/Multiplayer)*
+*Ana sayfa: [Çoklu](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby.jpg "Çoklu Lobisi")
 

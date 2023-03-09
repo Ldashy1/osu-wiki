@@ -1,5 +1,5 @@
-outdated_since: dca16aabefecc2b5ab512b49881308b8ac0077b8
-outdated_translation: true # missing languages.be and languages.uk
+outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
+outdated_translation: true
 
 separator: ", "
 alumni:
@@ -32,39 +32,3 @@ nat:
     structural: yapısal
 languages:
   partial: biraz <language>
-  ar: Arapça
-  bg: Bulgarca
-  bn: Bengalce
-  ca: Katalanca
-  da: Danca
-  de: Almanca
-  el: Yunanca
-  es: İspanyolca
-  et: Estçe
-  fi: Fince
-  fil: Filipince
-  fr: Fransızca
-  gl: Galiçyaca
-  hr: Hırvatça
-  hu: Macarca
-  id: Endonezce
-  it: İtalyanca
-  ja: Japonca
-  ko: Korece
-  lt: Litvanca
-  ms: Malay dili
-  nl: Flemenkçe
-  no: Norveççe
-  pl: Lehçe
-  pt: Portekizce
-  ro: Romence
-  ru: Rusça
-  sr: Sırpça
-  sv: İsveççe
-  te: Teluguca
-  th: Tay dili
-  tr: Türkçe
-  ur: Urduca
-  vi: Vietnamca
-  yue: Kantonca
-  zh: Çince

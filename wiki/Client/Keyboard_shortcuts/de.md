@@ -12,7 +12,7 @@ tags:
 
 In osu! gibt es viele Tastenkürzel (auch *Hotkeys*), die in den Menüs oder im Spiel verwendet werden können. In der folgenden Liste sind sie mit ihren Funktionen aufgeführt.
 
-*Tipp: Dieser Artikel listet alle Standardtastaturkürzel auf. Du kannst einige davon in den [Einstellungen](/wiki/Client/Options) ändern.*
+*Anmerkung: Dieser Artikel listet alle Standardtastaturkürzel auf. Du kannst einige davon in den [Einstellungen](/wiki/Client/Options) ändern.*
 
 ## Überall im Spiel
 
@@ -43,7 +43,7 @@ Diese Kürzel können überall verwendet werden:
 | `Esc` | Zurückgehen oder Aktion abbrechen. |
 | `P`, `E` oder `O` | Öffne das Spielmenü. |
 | `P` dreimal | Betrete den Einzelspielermodus. |
-| `P` zweimal, dann `M` | Betrete den [Mehrspielermodus](/wiki/Gameplay/Multiplayer). |
+| `P` zweimal, dann `M` | Betrete den [Mehrspielermodus](/wiki/Client/Interface/Multiplayer). |
 | `E` zweimal | Betrete den Editiermodus. |
 | `O` | Öffne die Optionen-Seitenleiste. |
 | `Q` | Zeigt die Aufforderung zum Verlassen an. |
@@ -64,7 +64,7 @@ Diese Kürzel können überall verwendet werden:
 
 ## Songauswahl
 
-*Tipp: Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Gameplay/Multiplayer).*
+*Anmerkung: Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Client/Interface/Multiplayer).*
 
 | Kürzel | Aktion |
 | :-- | :-- |
@@ -94,8 +94,8 @@ Diese Kürzel können überall verwendet werden:
 ### Spielmodifikationen
 
 *Hauptseite: [Spielmodifikationen](/wiki/Game_modifier)*
-*Tipp: Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.*\
-*Tipp: Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.*
+*Anmerkung: Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.*\
+*Anmerkung: Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.*
 
 | Kürzel | Mod |
 | :-- | :-- |
@@ -280,7 +280,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `Strg` + `Y` | Wiederholen. |
 | `Strg` + `X` | Schneide die ausgewählte Ebene aus. |
 | `Strg` + `C` | Kopiere die ausgewählte Ebene. |
-| `Strg` + `V` | Füge die ausgewählte Ebene an der aktuellen Stelle ein. *Tipp: Eingefügte Ebenen werden erst nach Speichern und Neuladen der Beatmap in der Liste angezeigt.* |
+| `Strg` + `V` | Füge die ausgewählte Ebene an der aktuellen Stelle ein. *Anmerkung: Eingefügte Ebenen werden erst nach Speichern und Neuladen der Beatmap in der Liste angezeigt.* |
 | `Entf` | Lösche die ausgewählte Ebene. |
 | `W`, `A`, `S`, `D` | Schiebe die ausgewählte Ebene um einen [osu!pixel](/wiki/osupixel) nach oben, unten, links bzw. rechts. |
 

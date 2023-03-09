@@ -1,19 +1,54 @@
-#!/bin/bash
+#!/bin/sh
 
-FIRST_COMMIT_HASH=$1
-LAST_COMMIT_HASH=$2
+set -e
+set -u
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
-function echo_grey () { printf "\e[0;90m$1\e[m\n"; }
+NOTICE_PREFIX="\033[0;90mNotice:\033[m "
+REPORTER=vfile-reporter-position
 
-# xargs is ran with -d '\n' to properly handle single and double quotes
-# stdout is discarded (remark prints files being checked there)
-git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} '*.md' | tr \\n \\0 | xargs -0 npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
-
-EXIT=$?
-
-if [[ ${EXIT} -eq 0 ]]; then
-  printf "$( echo_grey 'Notice:' ) No errors detected.\n"
+if test "${GITHUB_ACTIONS:-}"; then
+  NOTICE_PREFIX=::notice::
+  REPORTER=vfile-reporter-github-action
 fi
 
-exit ${EXIT}
+function print_help() {
+  echo "Usage:"
+  echo "  $0 <first-commit> [<last-commit>]"
+  echo "  $0 --target file1 [file2 ...]"
+}
+
+function main() {
+  if test $# -lt 1; then
+    print_help
+    exit 1
+  fi
+
+  case $1 in
+    -h|--help) print_help; exit 1 ;;
+    -t|--target) TARGET_FILES="${@: 2}" ;;
+    *)    
+      if test $# -gt 2; then
+        print_help
+        exit 1
+      fi
+
+      FIRST_COMMIT_HASH="$1"
+      LAST_COMMIT_HASH="${2:-"$FIRST_COMMIT_HASH"}"
+      TARGET_FILES=$( git diff --diff-filter=d --name-only --no-renames "$FIRST_COMMIT_HASH"^ "$LAST_COMMIT_HASH" -- '*.md' )
+  esac
+
+  EXIT=0  
+  if test -n "${TARGET_FILES}"; then
+    npx remark -qf --color --no-stdout --report="$REPORTER" --silently-ignore ${TARGET_FILES}
+    EXIT=$?
+  fi
+
+  if test $EXIT -eq 0; then
+    echo "${NOTICE_PREFIX}No errors detected." >&2
+  fi
+
+  exit $EXIT
+}
+
+main "$@"

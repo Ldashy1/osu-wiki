@@ -1,43 +1,43 @@
 ---
+no_native_review: true
 tags:
   - BN
   - BNG
-no_native_review: true
-outdated_translation: true
-outdated_since: deb9ce772b8229d869cc469cb7d39c007e3e55c9
 ---
 
 # Beatmap Nominators
 
-*Vea también: [Reglas de los Beatmap Nominators](Rules), [Información general para Beatmap Nominators](General_Information), y [Convertiéndose en un Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Véase también: [Reglas de los Beatmap Nominators](Rules), [Expectativas para los Beatmap Nominators](Expectations), [Información general para los Beatmap Nominators](General_Information), y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Ellos tienen un nombre morado en los foros y en discuciones de beatmaps.
+Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Ellos tienen un nombre morado en los foros y en las [discusiones de beatmaps](/wiki/Beatmap_discussion).
 
-## Roles y Responsabilidades
+## Roles y responsabilidades
 
-Los miembros de los Beatmap Nominators son principalmente responsables de [modear](/wiki/Modding) y aprobar los [beatmaps pendientes](/wiki/Beatmap) en el ciclo de ranking. Los Beatmap Nominators son las personas a las que acudir para cualquier ayuda necesitada en cuanto al mapeo y al modeo. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si sienten que el mapa nominado tiene complicaciones que deben ser arreglados, las cuales no son violaciones directas del Criterio de Ranking.
+Los miembros de los Beatmap Nominators son principalmente responsables de [modear](/wiki/Modding) y aprobar los [beatmaps pendientes](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) en el ciclo de clasificación. Los Beatmap Nominators son las personas a las que hay que acudir para pedir consejos o solicitudes sobre cualquier cosa relacionada con mapping y modding. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si sienten que el mapa nominado tiene complicaciones que deben ser arreglados, las cuales no son violaciones directas de los criterios de clasificación.
+
+Además, se espera que todos los Beatmap Nominators se adhieran a un conjunto flexible de ideales centrados en el servicio a la comunidad en general dirigiendo su atención a una amplia variedad de mapas y mappers, y esforzándose por mejorar constantemente su oficio, como se describe en [el artículo de expectativas para los Beatmap Nominators](Expectations).
 
 Los miembros de los Beatmap Nominators están divididos en dos grupos: miembros completos y miembros provisionales.
 
 ## Beatmap Nominators completos
 
-Además del modeo y rankeo regular de beatmaps, miembros completos de los Beatmap Nominators son los responsables de descalificar los mapas en la sección de calificados que presenten problemas. Los Beatmap Nominators completos también tienen la oportunidad de participar en la evaluación de la aplicación de nuevos miembros al grupo de manera ocasional si es que están interesados en unirse al [Nomination Assesment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en un futuro.
+Además del modding y clasificación regular de beatmaps, miembros completos de los Beatmap Nominators son los responsables de descalificar los mapas en la sección de calificados que presenten problemas. Los Beatmap Nominators completos también tienen la oportunidad de participar en la evaluación de la aplicación de nuevos miembros al grupo de manera ocasional si es que están interesados en unirse al Nomination Assesment Team en un futuro.
 
-Aproximadamente cada tres meses, a los Beatmap Nominators completos se les evalúa la conducta y la actividad/calidad de nominación por el Nomination Assesment Team. Si se les rechazan las nominaciones frecuentemente por razones considerables o su conducta  es inaceptable, pueden ser desplazados al subgrupo de miembros de prueba.
+Aproximadamente cada tres meses, a los Beatmap Nominators completos se les evalúa la conducta y la actividad/calidad de nominación por el Nomination Assesment Team. Si se les rechazan las nominaciones frecuentemente por razones considerables o su conducta es inaceptable, pueden ser desplazados al subgrupo de miembros de prueba.
 
 Los Beatmap Nominators completos que presenten una actividad menor a la mínima en cuanto a nominaciones, no serán puestos en el grupo provisional, sin embargo, si no mejoran su actividad, serán removidos del grupo.
 
 ## Beatmap Nominators provisionales
 
-La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para los Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de rankeo. Por lo menos un nominador completo debe de estar envuelto en el proceso de rankeo para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales. Ellos tampoco pueden nominar sets de beatmaps híbridos.
+La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para los Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de clasificación. Por lo menos un nominador completo debe de estar envuelto en el proceso de clasificación para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
+Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una [evaluación](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
 
-Cuando un Beatmap Nominator es puesto a prueba, no pueden ser puestos nuevamente a prueba por al misma razón. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será removido de los Beatmap Nominators si presentan el mismo mal comportamiento de nuevo, incluso si es que son Beatmap Nominators completos en su segunda infracción.
+Cuando un Beatmap Nominator es puesto a prueba, no puede ser puesto a prueba de nuevo por la misma razón durante aproximadamente un año. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será eliminado de los Beatmap Nominators si vuelve a mostrar el mismo mal comportamiento recientemente, incluso si es un Beatmap Nominator completo durante la segunda infracción.
 
 ## Miembros del equipo
 
-Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Provisionales)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
+Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
 
 Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominator hablan Inglés en adición al(a los) idioma(s) listado(s) debajo a menos que se especifique otra cosa.*
 
@@ -47,144 +47,153 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
-| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesio |
-| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian, ruso |
-| ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
-| ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Coreano |
-| ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
-| ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) | |
-| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
-| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chino |
-| ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | Coreano |
-| ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | Portugués |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chino |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Español |
-| ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_BE] [Enneya](https://osu.ppy.sh/users/10959501) | Holandés |
-| ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ![][flag_FI] [finnish bn](https://osu.ppy.sh/users/11077540) | Finlandés |
-| ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Noruego |
-| ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | Chino |
-| ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Ruso |
-| ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | Alemán |
-| ![][flag_FR] [Gweon Sua](https://osu.ppy.sh/users/13466351) | Francés |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio |
-| ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
-| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chino, algo de francés |
-| ![][flag_SG] [Kotoha](https://osu.ppy.sh/users/7823498) |  |
-| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | Chino, cantonés |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemán |
-| ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | Coreano |
-| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
-| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
-| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
-| ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
-| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Alemán |
-| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Danés |
-| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Ruso |
-| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Francés |
-| ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italiano |
-| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Francés |
-| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Ruso |
-| ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino |
-| ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | Chino, cantonés, algo de japonés |
-| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Francés |
-| ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Ruso |
-| ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Ruso |
-| ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) | Francés |
-| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemán |
-| ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finlandés |
-| ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
-| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
-| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
-| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
-| ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) | |
-| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | Francés |
-| ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
-| ![][flag_US] [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
-| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Chino, japonés |
+| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesio |
+| ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Ruso, bielorruso |
+| ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
+| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
+| ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polaco |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Coreano |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Español |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Alemán |
+| ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Español |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chino |
+| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
+| ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
+| ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chino, algo de francés |
+| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Coreano |
+| ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | Español |
+| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Francés |
+| ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Chino, cantonés |
+| ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Coreano |
+| ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
+| ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
+| ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | Danés |
+| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Ruso |
+| ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chino |
+| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francés |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán |
+| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino |
+| ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Chino, cantonés, algo de japonés |
+| ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | Francés |
+| ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugués |
+| ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Ruso |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Ruso |
+| ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
+| ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
+| ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Francés |
+| ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Neerlandés |
+| ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
+| ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
+| ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
+| ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chino, japonés |
+| ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italiano |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Sueco |
 
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | Español |
-| ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | Chino, cantonés |
-| ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
-| ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | Japonés |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chino, cantonés |
-| ![][flag_BR] [D0UG](https://osu.ppy.sh/users/13806900) | Portugués |
-| ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | Español |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
-| ![][flag_GB] [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Español |
-| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
-| ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano |
-| ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandés |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonés, cantonés, chino |
-| ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
-| ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
-| ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Ruso |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Portugués |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
+| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Finés, algo de sueco |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chino |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chino, cantonés |
+| ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turco |
+| ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chino, cantonés |
+| ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Español |
+| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
+| ::{ flag=BR }:: [DOUG](https://osu.ppy.sh/users/13806900) | Portugués |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
+| ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
+| ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
+| ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | Neerlandés |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Chino, cantonés |
+| ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |
+| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Japonés, cantonés, chino |
+| ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027) |  |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |  |
+| ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
+| ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chino |
+| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) |  |
+| ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japonés |
+| ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandés |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
+| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | Polaco |
 
 #### osu!catch
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Tailandés |
-| ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Coreano |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Cantonés |
-| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
-| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Holandés |
-| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Holandés |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
-| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Griego |
-| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
-| ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) |  |
-| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | Portugués |
+| ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Cantonés |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chino, cantonés |
+| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Neerlandés |
+| ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polaco |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
+| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portugués |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Español |
+| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Afrikáans, neerlandés |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
-| ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Chino |
-| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesio |
-| ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
-| ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Coreano |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chino |
-| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
-| ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
-| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chino |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Coreano |
-| ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
-| ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
-| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
-| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Holandés |
-| ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Español |
-| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
-| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Coreano |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
-| ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
-| ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesio |
+| ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | Chino |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Coreano |
+| ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
+| ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Chino |
+| ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chino |
+| ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonesio |
+| ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesio |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español |
+| ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Coreano |
+| ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Coreano |
+| ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ::{ flag=US }:: [Crisper](https://osu.ppy.sh/users/16482505) |  |
+| ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | Malayo |
+| ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Coreano |
+| ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
+| ::{ flag=KR }:: [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesio |
+| ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Alemán |
+| ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | Chino |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
+| ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesio |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Chino, cantonés |
+| ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
+| ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Coreano |
+| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Chino |
+| ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
+| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Neerlandés |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Español, portugués, gallego, italiano, japonés |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Español |
+| ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
+| ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesio |
+| ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
+| ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Coreano |
+| ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
+| ::{ flag=KR }:: [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
+| ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Indonesio |
+| ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesio |
+| ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | Chino |
+| ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesio |
 
 ### Beatmap Nominators provisionales
 
@@ -192,81 +201,37 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
-| ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | Español |
-| ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Español |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Francés |
-| ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Coreano |
-| ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemán |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
-| ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | Chino |
+| ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Japonés |
+| ::{ flag=ID }:: [Creamy Candy](https://osu.ppy.sh/users/9769199) | Indonesio |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) |  |
+| ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
+| ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Ruso |
+| ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) |  |
 
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandés, algo de sueco |
-| ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonés |
-| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | Japonés |
-| ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Finlandés |
-| ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | Indonesio |
-| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | Polaco |
+| ::{flag=US}:: [maxie](https://osu.ppy.sh/users/6447505) |  |
 
 #### osu!catch
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Francés |
+| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Español |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chino |
+| ::{ flag= US}:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
+| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
 
 ## Historia
 
-- Los Beatmap Nominators fueron previamente llamados *Beatmap Appreciation Team* (BAT).
+- Los Beatmap Nominators fueron previamente llamados los [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (BAT).
 - El 22 de Agosto, 2014, el BAT dejó de ser considerado parte del personal del equipo. Esto revocó su habilidad para poder moderar el chat y su nombre rojo de los foros y dentro del juego.
 - El 1ro de Febrero, 2015, el equipo cambió de ser *Beatmap Appreciation Team* a *Beatmap Nomination Group*, luego fue ajustado a los Beatmap Nominators que conocemos hoy en día.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
-[flag_BY]: /wiki/shared/flag/BY.gif "Bielorrusia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
-[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
-[flag_ES]: /wiki/shared/flag/ES.gif "España"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
-[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_GR]: /wiki/shared/flag/GR.gif "Grecia"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Irlanda"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corea del Sur"
-[flag_KZ]: /wiki/shared/flag/KZ.gif "Kazajistán"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lituania"
-[flag_MX]: /wiki/shared/flag/MX.gif "México"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
-[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
-[flag_TN]: /wiki/shared/flag/TN.gif "Túnez"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ucrania"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

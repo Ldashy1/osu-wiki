@@ -8,6 +8,8 @@ tags:
   - mod
   - game modifier
   - playing with a friend
+outdated_translation: true
+outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 ---
 
 # Co-op (mod)
@@ -15,7 +17,7 @@ tags:
 ![Ikon mod Co-op](/wiki/shared/mods/CP.png "Ikon mod Co-op (CO)")
 
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*\
-*Berbeda konteks dengan [Multiplayer](/wiki/Gameplay/Multiplayer).*
+*Berbeda konteks dengan [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 ## Tentang
 

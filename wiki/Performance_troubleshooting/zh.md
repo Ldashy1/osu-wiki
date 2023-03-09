@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e4e31b7b5983646161932fea4a20b98232ea8e8
+---
+
 # osu! 性能问题检查
 
 osu! 会尽最大努力以合理的默认设置运行，并在你做某些会导致游戏性能下降的事情时主动提醒您。
@@ -96,8 +101,7 @@ osu! 提供多个帧数限制设置，每个设置都有好处和坏处。但是
 
 ### Custom
 
-*Cutting Edge 用户注意：`CustomFrameLimit` 的值设置超过 999 会重调回 999；在 Stable 中，此值可正常设置大于 1000。*
-
+*Cutting Edge 用户注意：`CustomFrameLimit` 的值设置超过 999 会重调回 999；在 Stable 中，此值可正常设置大于 1000。*\
 *注意：你无法在游戏中使用 `F7`。调整至这个设置：你需要在设定中调为 `Custom` 然后重启。否则，你需要再次手动调整 `FrameSync` 的值。*
 
 这个帧数限制设置将试图保持帧数在你设定的值；然而，默认下这个设置不可选。

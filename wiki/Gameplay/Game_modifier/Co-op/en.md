@@ -15,7 +15,7 @@ tags:
 ![Co-op mod icon](/wiki/shared/mods/CP.png "Co-op (CO) mod icon")
 
 *For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*\
-*Not to be confused with [Multiplayer](/wiki/Gameplay/Multiplayer).*
+*Not to be confused with [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 ## About
 
@@ -48,7 +48,7 @@ The following table only affects beatmaps converted from [osu!](/wiki/Game_mode/
 
 *Note: The Co-op mod gives no penalty on osu!mania-specific beatmaps.*
 
-A detailed explanation about the second playfield can be found in the [osu!mania page under "Co-op"](/wiki/Game_mode/osu!mania#co-op).
+A detailed explanation about the second playfield can be found under [Game mode/osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
 
 ### Trivia
 

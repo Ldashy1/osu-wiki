@@ -1,8 +1,12 @@
-# osu!taiko ranking criteria
+---
+no_native_review: true
+---
 
-**osu!taiko Ranking Criteria** 是一系列关于创建 osu!taiko 模式谱面的规定和准则。为了使 osu!taiko 模式谱面被 ranked，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而在例外情况下可以违反准则。这些例外情况必须能够详细解释，说明违反准则的原因，以及不违反准则将如何影响谱面的整体质量。
+# osu!taiko 上架标准
 
-新提出的规定与准则会在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87) 内讨论。这里会列出所有经过探讨并得到了社区认可的规定与准则，它们已在各自的讨论帖中意见达成一致。
+***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
+
+若要将 [osu!taiko](/wiki/Game_mode/osu!taiko) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!taiko 上架标准 (osu!taiko Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
 
 ## 术语
 

@@ -73,7 +73,7 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 ### Outdated translations
 
-Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor wording, grammar changes, and the like, that do not affect the meaning of the article.
+Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
 
 ```yaml
 outdated_translation: true
@@ -298,7 +298,7 @@ The first occurrence of an abbreviation, acronym, or initialism may be italicise
 
 Italics may also be used to provide emphasis or help with readability.
 
-Names of work or video games should be italicised. osu!—the game—is exempt from this.
+Names of work or video games should be italicised. osu! — the game — is exempt from this.
 
 As an example, when referring to songs in the format of `{artist} - {title}`, the whole part is a reference to the work and should therefore be italicised:
 
@@ -338,8 +338,7 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 ### Titles
 
-*See also: [Article naming](#article-naming)*
-
+*See also: [Article naming](#article-naming)*\
 *Caution: Titles are parsed as plain text; they must not be escaped.*
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.
@@ -602,7 +601,7 @@ The URL from the address bar of your web browser should be copied as it is when 
 
 All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent throughout the entire article for all usernames. If it is difficult to determine the user's id, it may be skipped over.
 
-When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username})`) to get the user's id.
+When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username}`) to get the user's id.
 
 The link text of the user link should be the user's current name.
 
@@ -668,6 +667,8 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
+All block images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes on mobile devices<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+
 ### Alternative and title text
 
 The text in the first pair of square brackets (*alternative text*) should describe the image literally. It is used by screen readers or when the image fails to load. It can be omitted if it is identical to the title text or if the image is included only for decorative purposes.
@@ -678,9 +679,9 @@ The text in the quotation marks (*title text*) should give additional context to
 
 If an image is the sole content of a paragraph, it displays as a centred block. Otherwise, it flows with the surrounding inline text.
 
-Block images with title text display the title text as a caption below the image.
+Block images with title text display the title text as a caption below the image. Avoid adding [HTML comment](#comments) or any other text on the same line as the image, as this will cause the caption not to be rendered.
 
-Block images are commonly paired with infobox<!-- TODO: link me! --> formatting to reduce their initial size and float them to the side of other content:
+Block images are commonly paired with [infobox](#infoboxes) formatting to reduce their initial size and float them to the side of other content:
 
 ```markdown
 ::: Infobox
@@ -762,25 +763,15 @@ You must set these settings before taking a screenshot of the game client (setti
 
 Images must not be part of a link text.
 
-Flag icons next to user links must be separate from the link text. See the following example:
+## Flag icons
+
+The flag icons use the two letter code (in all capital letters) to match a certain territory. When adding a flag inline, use this format:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag=XX }::
 ```
 
-### Flag icons
-
-*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
-
-The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
-
-```markdown
-![](/wiki/shared/flag/xx.gif)
-```
-
-Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
-
-The full country name should be added in the title text. The country code in the alternate text is optional, but must be applied to all flag icons in the article.
+Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 ## Tables
 
@@ -808,13 +799,40 @@ The following is an example of what a table should look like:
 | Maria | No Contest | Mocha |  |
 ```
 
+## Infoboxes
+
+An infobox is a fixed-width block which is aligned to the right side of the article. It may contain a relevant image, which explains the surrounding text, or a block of navigation that links to other articles from the same category.
+
+Example use, rendered on the right (or above, on narrow displays):
+
+<!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
+
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+
+```markdown
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+```
+
+Infoboxes should be used with caution in the following cases:
+
+- Short sections: the next section's heading appears below any infoboxes, leaving a large gap after the text.
+- Several images at once: instead, use individual infoboxes for better design.
+
+Only heading levels 4 and 5 are allowed inside an infobox. These do not appear in the table of contents and anything lower is too large. Any [CI check errors](/wiki/osu!_wiki/Maintenance#ci-checks) may need to be bypassed because of this.
+
 ## Footnotes
 
 Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
 
-In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
+In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. Translations must not modify identifiers of footnotes.
 
 Footnote references are placed directly after the words, phrases, or sentences they explain, with no space in between. These references must be placed after punctuation, except for parentheses, when they pertain to the contents inside, and dashes.<!-- Taken from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
 
 Correct usage examples:
 
@@ -832,15 +850,19 @@ The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-f
 
 Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
 
-Example:
+References should whenever applicable specify author, date, service/platform, and title. The exact format may vary depending on the referenced material with a preference for brevity.
+
+Examples:
 
 ```markdown
-The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise] A new version of API, released several years later, contains many more capabilities.[^api-v2-2020] Endpoint versioning is common among web APIs.[^web-api]
 
 ## References
 
-[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: [Forum thread by peppy (2013-07-02) "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Forum post by Menchi (2013-11-02) in "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet by @ppy (2020-03-20)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" on Wikipedia](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Notes

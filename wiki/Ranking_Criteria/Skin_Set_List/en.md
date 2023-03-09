@@ -2,11 +2,13 @@
 
 The following tables contain skin sets that are used in user-specific and beatmap-specific skins. When skinning gameplay elements in beatmap-specific skins, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.
 
-Filenames containing `(-n)` can be animated. For example, hitcircleoverlay(-n).png can be skinned as a single image (hitcircleoverlay.png), or multiple images that would be animated in a loop (hitcircleoveray-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.).
+Filenames containing `{-n}` or `{n}`, excluding combobursts, can be animated. For example, hitcircleoverlay{-n}.png can be skinned as a single image (hitcircleoverlay.png), or multiple images that would be animated in a loop (hitcircleoveray-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.). Comboburst images follow the same naming format, but instead of being animated, one image will display at a time per comboburst.
 
 [Download the skin sets template](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar) for a simpler view of the tables.
 
 ## osu!
+
+Skin element list: [Skinning osu!](/wiki/Skinning/osu!)
 
 ### Cursor set
 
@@ -25,13 +27,13 @@ The entirety of this skin set is gameplay relevant.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| hit0(-n).png | should be clearly distinguishable from all other hitbursts | required | - |
-| hit50(-n).png | should be clearly distinguishable from all other hitbursts | required | - |
-| hit100(-n).png | should be clearly distinguishable from all other hitbursts | required | - |
-| hit100k(-n).png | should be clearly distinguishable from all other hitbursts | required | - |
-| hit300(-n).png | should be clearly distinguishable from all other hitbursts | required | - |
-| hit300g(-n).png | should be clearly distinguishable from all other hitbursts | required | - |
-| hit300k(-n).png | should be clearly distinguishable from all other hitbursts | required | - |
+| hit0{-n}.png | should be clearly distinguishable from all other hitbursts | required | - |
+| hit50{-n}.png | should be clearly distinguishable from all other hitbursts | required | - |
+| hit100{-n}.png | should be clearly distinguishable from all other hitbursts | required | - |
+| hit100k{-n}.png | should be clearly distinguishable from all other hitbursts | required | - |
+| hit300{-n}.png | should be clearly distinguishable from all other hitbursts | required | - |
+| hit300g{-n}.png | should be clearly distinguishable from all other hitbursts | required | - |
+| hit300k{-n}.png | should be clearly distinguishable from all other hitbursts | required | - |
 | particle50.png | should be included together with all other particles; will only work if custom hitbursts are included | optional | 7x7px |
 | particle100.png | should be included together with all other particles; will only work if custom hitbursts are included | optional | 7x7px |
 | particle300.png | should be included together with all other particles; will only work if custom hitbursts are included | optional | 7x7px |
@@ -55,12 +57,12 @@ The entirety of this skin set is gameplay relevant.
 | approachcircle.png | - | required | 126x126px |
 | followpoint.png | - | required | - |
 | hitcircle.png | used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned | required | 118x118px (circle) 128x128px (whole file) |
-| hitcircleoverlay(-n).png | used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned | required | 118x118px (circle) 128x128px (whole file) |
+| hitcircleoverlay{-n}.png | used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned | required | 118x118px (circle) 128x128px (whole file) |
 | reversearrow.png | should face right | required | - |
 | sliderendcircle.png | should always be included to avoid conflicting with user-specific skins | required | 118x118px (circle) 128x128px (whole file) |
-| sliderendcircleoverlay(-n).png | should always be included to avoid conflicting with user-specific skins | required | 118x118px (circle) 128x128px (whole file) |
+| sliderendcircleoverlay{-n}.png | should always be included to avoid conflicting with user-specific skins | required | 118x118px (circle) 128x128px (whole file) |
 | sliderstartcircle.png | should always be included to avoid conflicting with user-specific skins | required | 118x118px (circle) 128x128px (whole file) |
-| sliderstartcircleoverlay(-n).png | should always be included to avoid conflicting with user-specific skins | required | 118x118px (circle) / 128x128px (whole file) |
+| sliderstartcircleoverlay{-n}.png | should always be included to avoid conflicting with user-specific skins | required | 118x118px (circle) / 128x128px (whole file) |
 | hitcircleselect.png | only seen in the editor | optional | 118x118px (circle) 128x128px (whole file) |
 
 ### Slidertrack set
@@ -69,10 +71,10 @@ The entirety of this skin set is gameplay relevant.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| sliderb(n).png | - | required | 118x118px |
+| sliderb{n}.png | - | required | 118x118px |
 | sliderb-nd.png | should only be used if default skin is forced and no custom sliderb is used | optional | 118x118px |
 | sliderb-spec.png | should only be used if default skin is forced and no custom sliderb is used | optional | 118x118px |
-| sliderfollowcircle(-n).png | - | required | 256x256px |
+| sliderfollowcircle{-n}.png | - | required | 256x256px |
 | sliderscorepoint.png | also used in osu!taiko | required | - |
 
 ### Hitcircle number set
@@ -95,27 +97,47 @@ Please note that the recommended sizes for all elements in this set is handled v
 
 ### Spinner set
 
-All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labelled as "basic spinner style" in the notes, you **must not** include elements labelled as the "new spinner style".
+osu! has two spinner styles, only one of which can be used in a skin at the same time. Using exclusive elements from both of them is **not allowed**: if elements from both are present, the old style will take priority.
 
-This is because the basic spinner style will take priority over the new one if both styles are present. The new spinner style will only work if the user-specific skin does not use the basic spinner style and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
+The new spinner style will only work if the user-specific skin does not use the old one and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
+
+All elements in each set excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. 
+
+### Old spinner style set
+
+If using the old style set, you **must not** add elements noted as "exclusive to the new set".
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| spinner-background.png | basic spinner style | required | - |
-| spinner-circle.png | basic spinner style | required | 666x666px |
-| spinner-metre.png | basic spinner style | required | 1024x692px |
-| spinner-bottom.png | new spinner style | required | 667x667px |
-| spinner-glow.png | new spinner style | required | 852x852px |
-| spinner-middle.png | new spinner style | required | 689x689px |
-| spinner-middle2.png | new spinner style | required | 17x17px |
-| spinner-top.png | new spinner style | required | 667x667px |
-| spinner-approachcircle.png | used by both sets | required | 384x384px |
+| spinner-background.png | exclusive to the old set | required | - |
+| spinner-circle.png | exclusive to the old set | required | 666x666px |
+| spinner-metre.png | exclusive to the old set | required | 1024x692px |
+| spinner-approachcircle.png | - | required | 384x384px |
+| spinner-clear.png | - | required | - |
+| spinner-spin.png | - | required | - |
+| spinner-osu.png | will only work if an user-specific skin supports skin version 1 | optional | - |
+| spinner-rpm.png | should be included if both score number set and spinner set are skinned | optional | 280x56px |
+
+### New spinner style set
+
+If using the new style set, you **must not** add elements noted as "exclusive to the old set".
+
+| File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
+| --: | :-: | :-: | :-: |
+| spinner-bottom.png | exclusive to the new set | required | 667x667px |
+| spinner-glow.png | exclusive to the new set | required | 852x852px |
+| spinner-middle.png | exclusive to the new set | required | 689x689px |
+| spinner-middle2.png | exclusive to the new set | required | 17x17px |
+| spinner-top.png | exclusive to the new set | required | 667x667px |
+| spinner-approachcircle.png | - | required | 384x384px |
 | spinner-clear.png | - | required | - |
 | spinner-spin.png | - | required | - |
 | spinner-osu.png | will only work if an user-specific skin supports skin version 1 | optional | - |
 | spinner-rpm.png | should be included if both score number set and spinner set are skinned | optional | 280x56px |
 
 ## osu!taiko
+
+Skin element list: [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
 
 ### Hit object set
 
@@ -124,9 +146,9 @@ The entirety of this skin set is gameplay relevant.
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
 | taikobigcircle.png | - | required | 118x118px |
-| taikobigcircleoverlay(-n).png | - | required | 118x118px |
+| taikobigcircleoverlay{-n}.png | - | required | 118x118px |
 | taikohitcircle.png | - | required | 118x118px |
-| taikohitcircleoverlay(-n).png | - | required | 118x118px |
+| taikohitcircleoverlay{-n}.png | - | required | 118x118px |
 | sliderscorepoint.png | should only be used on beatmaps without osu! difficulties (shared image) | required | - |
 | taiko-roll-middle.png | gets stretched to fill the roll | required | 1x118px (line) 1x128px (whole file) |
 | taiko-roll-end.png | right half of a circle | required | 59x118px (half circle) 64x128px (whole file) |
@@ -138,11 +160,11 @@ The entirety of this skin set is gameplay relevant and all included hitbursts sh
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| taiko-hit0(-n).png | - | required | - |
-| taiko-hit100(-n).png | - | required | - |
-| taiko-hit100k(-n).png | - | required | - |
-| taiko-hit300(-n).png | - | required | - |
-| taiko-hit300k(-n).png | - | required | - |
+| taiko-hit0{-n}.png | - | required | - |
+| taiko-hit100{-n}.png | - | required | - |
+| taiko-hit100k{-n}.png | - | required | - |
+| taiko-hit300{-n}.png | - | required | - |
+| taiko-hit300k{-n}.png | - | required | - |
 
 ### Pippidon set
 
@@ -150,13 +172,15 @@ This skin set is not gameplay relevant.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| pippidonclear(n).png | - | required | - |
-| pippidonfail(n).png | - | required | - |
-| pippidonidle(n).png | - | required | - |
-| pippidonkiai(n).png | - | required | - |
-| taiko-flower-group(-n).png | combobursts in osu!taiko | optional | - |
+| pippidonclear{n}.png | - | required | - |
+| pippidonfail{n}.png | - | required | - |
+| pippidonidle{n}.png | - | required | - |
+| pippidonkiai{n}.png | - | required | - |
+| taiko-flower-group{-n}.png | combobursts in osu!taiko | optional | - |
 
 ## osu!catch
+
+Skin element list: [Skinning osu!catch](/wiki/Skinning/osu!catch)
 
 ### Fruits set
 
@@ -184,12 +208,14 @@ For catchers the plate must be perfectly centred and exactly 302px across in wid
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| fruit-catcher-fail(-n).png | should face right | required | minimum 302px wide |
-| fruit-catcher-idle(-n).png | should face right | required | minimum 302px wide |
-| fruit-catcher-kiai(-n).png | should face right | required | minimum 302px wide |
+| fruit-catcher-fail{-n}.png | should face right | required | minimum 302px wide |
+| fruit-catcher-idle{-n}.png | should face right | required | minimum 302px wide |
+| fruit-catcher-kiai{-n}.png | should face right | required | minimum 302px wide |
 | lighting.png | should only be used on beatmaps without osu! difficulties (shared image) | optional | - |
 
 ## Interface
+
+Skin element list: [Interface skinning](/wiki/Skinning/Interface)
 
 ### Scorebar set
 
@@ -197,8 +223,8 @@ The entirety of this skin set is gameplay relevant. Please note that the sizes o
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| scorebar-bg.png | should be included together with scorebar-colour(-n).png | required | - |
-| scorebar-colour(-n).png | should be included together with scorebar-bg.png | required | maximum 120px tall |
+| scorebar-bg.png | should be included together with scorebar-colour{-n}.png | required | - |
+| scorebar-colour{-n}.png | should be included together with scorebar-bg.png | required | maximum 120px tall |
 | scorebar-ki.png | - | required | - |
 | scorebar-kidanger.png | - | required | - |
 | scorebar-kidanger2.png | - | required | - |
@@ -265,12 +291,12 @@ The combobursts and star2.png included in this set are gameplay relevant and all
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| comboburst-fruits(-n).png | should face right, automatically flipped if shown on the right side | optional | max height: 768px |
-| comboburst-mania(-n).png | should face right, automatically flipped if shown on the right side | optional | max height: 768px |
-| comboburst(-n).png | should face right, automatically flipped if shown on the right side | optional | max height: 768px |
+| comboburst-fruits{-n}.png | should face right, automatically flipped if shown on the right side | optional | max height: 768px |
+| comboburst-mania{-n}.png | should face right, automatically flipped if shown on the right side | optional | max height: 768px |
+| comboburst{-n}.png | should face right, automatically flipped if shown on the right side | optional | max height: 768px |
 | menu-button-background.png | used for the leaderboard | optional | minimum resolution 690x85px |
 | multi-skipped.png | multiplayer: shows who skipped the intro | optional | - |
-| play-skip(-n).png | - | optional | - |
+| play-skip{-n}.png | - | optional | - |
 | play-unranked.png | - | optional | - |
 | star2.png | - | optional | - |
 

@@ -133,7 +133,7 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la va
 
 *Page principale : [overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
 
-![Tableau détaillé de l'OD](img/ODTable.png "Tableau détaillé de l'OD")
+![](/wiki/shared/ODTable.png "Comparaison des fenêtres de timing pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les 300, et seraient différentes pour les 100 et 50.")
 
 *Remarque : le tableau ci-dessus s'applique uniquement au mode de jeu osu!.*\
 *Remarque : Sur la page de la beatmap, l'overall difficulty est indiquée sous le nom de Précision.*
@@ -258,8 +258,7 @@ Les objets sont considérés comme appartenant à la même pile s'ils se trouven
 
 `Allowed Modes` est une liste déroulante pour confirmer que la beatmap ne peut être jouée que par le mode spécifié. Le paramètre par défaut est `All`, ce qui signifie que le créateur créera une beatmap du mode osu! qui pourra être converti dans les autres modes de jeu. Ce paramètre peut être modifié pour être spécifique à osu!taiko, osu!catch, ou osu!mania ; mais **gardez à l'esprit que ce changement supprimera tous les objets dans la beatmap**.
 
-*Remarque : décidez au moment de la création et confirmez d'abord le(s) mode(s) de jeu de la beatmap avant d'ajouter des objets pour éviter de gaspiller des efforts.*
-
+*Remarque : décidez au moment de la création et confirmez d'abord le(s) mode(s) de jeu de la beatmap avant d'ajouter des objets pour éviter de gaspiller des efforts.*\
 *Note : osu!mania possède son propre éditeur de beatmap qui est différent de l'éditeur de beatmap classique.*
 
 La case à cocher  `Use special style(N+1 style) for mania` ne fait rien, étant donné que le joueur peut définir une préférence personnelle spécifiquement dans les [Options](/wiki/Client/Options) en utilisant le bouton `osu!mania layout`.

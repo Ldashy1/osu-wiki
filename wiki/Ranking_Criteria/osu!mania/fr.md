@@ -1,8 +1,13 @@
+---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
+outdated_translation: true
+---
+
 # Critères de classement d'osu!mania
 
-Les **critères de classement d'osu!mania** sont des règles et des directives qui s'appliquent à la création des difficultés spécifiques à osu!mania. Pour qu'une difficulté spécifique à osu!mania soit classée, il est obligatoire que la création obéisse aux critères énumérés. Bien que **toutes les règles doivent être suivies en toute circonstance**, les directives peuvent être ignorées dans des circonstances exceptionnelles. Ces circonstances exceptionnelles doivent être justifiées par une explication exhaustive de la raison pour laquelle la directive a été ignorée et pourquoi le fait de ne pas l'ignorer nuira à la qualité globale de la création.
+***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
 
-Les propositions de règles ainsi que les suggestions sont discutées dans le [Sous-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Toute règle ayant fait l'objet d'une discussion et d'un processus d'approbation par la communauté est listée ici car elle a été approuvée dans le fil de discussion correspondant.
+Cette liste de **critères de classement d'osu!mania** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!mania](/wiki/Game_mode/osu!mania) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glossaire
 
@@ -60,7 +65,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 - **Il ne doit pas y avoir plus de 6 notes enfoncées à un moment donné dans les difficultés Insane ou inférieures.** L'utilisation de plus de 6 notes doit également respecter un écart raisonnable vers la difficulté inférieure suivante. Cette règle ne s'applique pas aux fins de long notes, car elles sont relâchées et non pressées.
 - **Les beatmaps ne peuvent utiliser que 4 à 10 touches.** Toute autre option n'est pas prise en charge pour la catégorie classée.
 - **Si plusieurs key modes sont présents dans une seule beatmap, le key mode doit être indiqué dans tous les noms de difficulté. Sinon, le key mode ne doit pas être indiqué.**
-- **Si le [drain time](/wiki/Gameplay/Drain_time) de chaque difficulté est...**
+- **Si le [drain time](/wiki/Beatmap/Drain_time) de chaque difficulté est...**
   - **...inférieur à 2:30**, la difficulté la plus faible de chaque key mode inclus ne peut pas être plus difficile qu'une Normal, **OU** chaque key mode doit offrir une répartition commençant au moins 3 niveaux de difficulté en dessous de la difficulté la plus élevée.
   - **...entre 2:30 et 3:15**, la difficulté la plus faible de chaque key mode inclus ne peut pas être plus difficile qu'une Hard, **OU** chaque key mode doit fournir une répartition commençant au moins 2 niveaux de difficulté en dessous de la difficulté la plus élevée.
   - **...entre 3:15 et 4:00**, la difficulté la plus faible de chaque key mode inclus ne peut pas être plus difficile qu'une Insane, **OU** chaque key mode doit fournir une répartition commençant au moins 1 niveau de difficulté en dessous de la difficulté la plus élevée.
@@ -153,6 +158,7 @@ Directives supplémentaires pour les difficultés *7 key Normal* :
 - **Les séries de long streams de 1/4 doivent inclure, au minimum, une demi-pause lorsqu'il est naturel de le faire après chaque phrase musicale.** Ceux-ci peuvent être trop exigeants physiquement pour les joueurs de ce niveau.
 - **Les chords à l'intérieur d'un quart de stream doivent être espacés d'au moins 1/1 temps les uns des autres.** Une utilisation plus dense des chords est trop difficile pour les joueurs de ce niveau de compétence.
 - **Évitez d'utiliser des chords au milieu des streams 1/6.** Toutefois, l'utilisation d'un chord au début ou à la fin d'un stream est acceptable.
+- **Évitez les anchors composés de cinq notes ou plus.** Bien qu'elles soient faciles à lire pour les joueurs, les anchors plus longs sont éprouvants.
 - **L'utilisation de 1/4 d'un jack est déconseillée.** Ceux-ci peuvent être trop exigeants physiquement pour les joueurs de ce niveau. Des minijacks entrecoupés d'un temps de repos suffisant peuvent être acceptés.
 - **Évitez d'utiliser plus de 9 notes consécutives dans un trill.** La coordination et l'équilibre des mains requis pour ce pattern sont trop difficiles pour les joueurs de ce niveau.
 - **Les long notes doivent être tenues pendant au moins 1/4 de temps.**
@@ -163,12 +169,10 @@ Directives supplémentaires pour les difficultés *7 key Normal* :
 Directives supplémentaires pour les difficultés *4 key Hard* :
 
 - **Évitez les chords de plus de 3 notes.** Cela inclut les longs patterns de notes qui impliquent des notes sur plus de trois colonnes.
-- **Évitez les anchors composés de cinq notes ou plus.** Bien qu'elles soient faciles à lire pour les joueurs, les anchors plus longs sont éprouvants.
 
 Directives supplémentaires pour les difficultés *7 key Hard* :
 
 - **Évitez les chords de plus de 4 notes.** Cela inclut les longs patterns de notes qui impliquent des notes sur plus de quatre colonnes.
-- **Évitez les anchors composés de cinq notes ou plus.** Bien qu'elles soient faciles à lire pour les joueurs, les anchors plus longs sont éprouvants.
 - **Maintenez la distance entre les chords dans un chordstream à un intervalle de 1/1 ou plus.** Tout ce qui est plus dense que cela peut nuire à la lisibilité.
 - **Les hands peuvent être utilisés occasionnellement dans les streams, à condition qu'ils soient séparés par au moins une mesure (4 temps).**
 

@@ -1,8 +1,8 @@
 # osu!mania ranking criteria
 
-The **osu!mania Ranking Criteria** are rules and guidelines that apply to the creation of osu!mania-specific difficulties. In order to get an osu!mania-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
+***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
-Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
+This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!mania](/wiki/Game_mode/osu!mania)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Glossary
 
@@ -60,7 +60,8 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 10 keys.** Anything else is not supported for the Ranked section.
 - **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
-- **If the [drain time](/wiki/Gameplay/Drain_time) of each difficulty is...**
+- **Beatmaps using the special N+1 style of mapping must be denoted as such under the `Advanced` tab of song setup in the editor and "N+1" must be added to the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+1 notation (e.g. using 7K+1 instead of 8K on difficulty names).**
+- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty of each included keymode cannot be harder than a Normal, **OR** each keymode must provide a spread starting at least 3 difficulty levels below the highest difficulty.
   - **...between 2:30 and 3:15**, the lowest difficulty of each included keymode cannot be harder than a Hard, **OR** each keymode must provide a spread starting at least 2 difficulty levels below the highest difficulty.
   - **...between 3:15 and 4:00**, the lowest difficulty of each included keymode cannot be harder than an Insane, **OR** each keymode must provide a spread starting at least 1 difficulty level below the highest difficulty.
@@ -153,6 +154,7 @@ Additional guidelines for *7 key Normal* difficulties:
 - **Long streams of 1/4 notes should include, at minimum, a 1/2 pause where natural to implement after every musical phrase.** These can be too physically demanding for players of this level.
 - **Chords within 1/4 streams should be at least 1/1 beat apart from each other.** More dense usage of chords is too difficult for players of this skill level.
 - **Avoid using chords in the middle of 1/6 streams.** However, Using a chord at the beginning or end of a stream is fine.
+- **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **1/4 Jack usage is discouraged.** These can be too physically demanding for players of this level. Minijacks with ample rest time in between may be acceptable.
 - **Avoid using more than 9 consecutive notes in a trill.** The coordination and hand balance required for this pattern is too difficult for players at this skill level.
 - **Long notes should be held for at least 1/4 of a beat.**
@@ -163,12 +165,10 @@ Additional guidelines for *7 key Normal* difficulties:
 Additional guidelines for *4 key Hard* difficulties:
 
 - **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
-- **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
 Additional guidelines for *7 key Hard* difficulties:
 
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
-- **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 

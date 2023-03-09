@@ -40,7 +40,7 @@ no_native_review: true
 
 [Видове игра](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Gameplay/Multiplayer)
+[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -132,7 +132,7 @@ osu! нямаше да съществува без всички потребит
 
 Както почти всичко тук, уикипедията на osu! се пише и поддържа от доброволци. Предложете подобрение, докладвайте грешка, дори напишете своя собствена страница в [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! Уики в GitHub").
 
-[История на osu!](/wiki/History_of_osu!) • [История на osu! уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/Mapping_and_Modding_Timeline) • [Априлски шеги](/wiki/History_of_osu!/April_Fools)
+[История на osu!](/wiki/History_of_osu!) • [История на osu! уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Априлски шеги](/wiki/History_of_osu!/April_Fools)
 
 [Карта на сайт](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на страница](/wiki/Article_styling_criteria) • [Критерии за оформяне на новини](/wiki/News_styling_criteria)
 
