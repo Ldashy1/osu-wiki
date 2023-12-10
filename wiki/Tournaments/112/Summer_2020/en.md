@@ -9,7 +9,7 @@ tags:
 
 ![112ST2020 banner](img/banner.png)
 
-The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth instalment of 112's Tournaments series.
+The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470) and ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -40,15 +40,15 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Mappool selector | ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CA] [Clara\_uwu](https://osu.ppy.sh/users/10257493), ![][flag_TR] [Cyberia950](https://osu.ppy.sh/users/9143539), ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311) |
-| Referee | ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [Fanduil](https://osu.ppy.sh/users/6118485), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852), ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| Streamer | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Designer | ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Website developer | ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Statistician | ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333) |
-| Wiki editor | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| Organizer | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Mappool selector | ::{ flag=TR }:: [-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=CA }:: [Clara\_uwu](https://osu.ppy.sh/users/10257493), ::{ flag=TR }:: [Cyberia950](https://osu.ppy.sh/users/9143539), ::{ flag=CA }:: [dqwed](https://osu.ppy.sh/users/9977100), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311) |
+| Referee | ::{ flag=TR }:: [-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311), ::{ flag=TR }:: [Fanduil](https://osu.ppy.sh/users/6118485), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852), ::{ flag=TR }:: [Tsuda-](https://osu.ppy.sh/users/6713666) |
+| Streamer | ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Commentator | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333), ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Designer | ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Website developer | ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Statistician | ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333) |
+| Wiki editor | ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) |
 
 ## Links
 
@@ -62,34 +62,34 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 | Ranking | Player | Qualifier points |
 | :-- | :-- | :-- |
-| #1 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | 3 |
-| #2 | ![][flag_TR] [CutieDemon](https://osu.ppy.sh/users/6440158) | 4.55 |
-| #3 | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) | 6 |
-| #4 | ![][flag_TR] [Ruushin](https://osu.ppy.sh/users/4696304) | 6.66 |
-| #5 | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027) | 7.55 |
-| #6 | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642) | 8.88 |
-| #7 | ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407) | 9.44 |
-| #8 | ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) | 10.66 |
-| #9 | ![][flag_TR] [Chickes](https://osu.ppy.sh/users/5341891) | 11 |
-| #10 | ![][flag_BE] [iblue](https://osu.ppy.sh/users/9184180) | 11.66 |
-| #11 | ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026) | 11.77 |
-| #12 | ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) | 12.11 |
-| #13 | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690) | 12.66 |
-| #14 | ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) | 13.11 |
-| #15 | ![][flag_TR] [emptypudding](https://osu.ppy.sh/users/11003085) | 13.66 |
-| #16 | ![][flag_TR] [huckmen444](https://osu.ppy.sh/users/5019334) | 13.88 |
-| #17 | ![][flag_TR] [Wixax](https://osu.ppy.sh/users/6207181) | 14.66 |
-| #18 | ![][flag_TR] [AuroraSolaris](https://osu.ppy.sh/users/9319605) | 14.77 |
-| #19 | ![][flag_TR] [mirayno](https://osu.ppy.sh/users/11593174) | 16.33 |
-| #20 | ![][flag_TR] [TheEnd](https://osu.ppy.sh/users/7349993) | 16.44 |
-| #21 | ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) | 19.88 |
-| #22 | ![][flag_TR] [ElucidatorGG](https://osu.ppy.sh/users/9624711) | 21.22 |
-| #23 | ![][flag_TR] [Belif0226](https://osu.ppy.sh/users/10585565) | 21.66 |
-| #24 | ![][flag_DE] [Skellexon](https://osu.ppy.sh/users/11268328) | 21.77 |
-| #25 | ![][flag_NL] [QuadroKiller](https://osu.ppy.sh/users/7552072) | 24.55 |
-| #26 | ![][flag_TR] [cANITIN](https://osu.ppy.sh/users/11717778) | 25 |
-| #27 | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537) | 25.55 |
-| #28 | ![][flag_TR] [selimax](https://osu.ppy.sh/users/13525233) | 27.44 |
+| #1 | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | 3 |
+| #2 | ::{ flag=TR }:: [CutieDemon](https://osu.ppy.sh/users/6440158) | 4.55 |
+| #3 | ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) | 6 |
+| #4 | ::{ flag=TR }:: [Ruushin](https://osu.ppy.sh/users/4696304) | 6.66 |
+| #5 | ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027) | 7.55 |
+| #6 | ::{ flag=TR }:: [Mikatsu](https://osu.ppy.sh/users/6612642) | 8.88 |
+| #7 | ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407) | 9.44 |
+| #8 | ::{ flag=TR }:: [sentez](https://osu.ppy.sh/users/8816305) | 10.66 |
+| #9 | ::{ flag=TR }:: [Chickes](https://osu.ppy.sh/users/5341891) | 11 |
+| #10 | ::{ flag=BE }:: [iblue](https://osu.ppy.sh/users/9184180) | 11.66 |
+| #11 | ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) | 11.77 |
+| #12 | ::{ flag=TR }:: [empirasu](https://osu.ppy.sh/users/12500084) | 12.11 |
+| #13 | ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690) | 12.66 |
+| #14 | ::{ flag=TR }:: [We0l](https://osu.ppy.sh/users/13196066) | 13.11 |
+| #15 | ::{ flag=TR }:: [emptypudding](https://osu.ppy.sh/users/11003085) | 13.66 |
+| #16 | ::{ flag=TR }:: [huckmen444](https://osu.ppy.sh/users/5019334) | 13.88 |
+| #17 | ::{ flag=TR }:: [Wixax](https://osu.ppy.sh/users/6207181) | 14.66 |
+| #18 | ::{ flag=TR }:: [AuroraSolaris](https://osu.ppy.sh/users/9319605) | 14.77 |
+| #19 | ::{ flag=TR }:: [mirayno](https://osu.ppy.sh/users/11593174) | 16.33 |
+| #20 | ::{ flag=TR }:: [TheEnd](https://osu.ppy.sh/users/7349993) | 16.44 |
+| #21 | ::{ flag=TR }:: [HakoFixed](https://osu.ppy.sh/users/7188447) | 19.88 |
+| #22 | ::{ flag=TR }:: [ElucidatorGG](https://osu.ppy.sh/users/9624711) | 21.22 |
+| #23 | ::{ flag=TR }:: [Belif0226](https://osu.ppy.sh/users/10585565) | 21.66 |
+| #24 | ::{ flag=DE }:: [Skellexon](https://osu.ppy.sh/users/11268328) | 21.77 |
+| #25 | ::{ flag=NL }:: [QuadroKiller](https://osu.ppy.sh/users/7552072) | 24.55 |
+| #26 | ::{ flag=TR }:: [cANITIN](https://osu.ppy.sh/users/11717778) | 25 |
+| #27 | ::{ flag=TR }:: [nitromehmet](https://osu.ppy.sh/users/9909537) | 25.55 |
+| #28 | ::{ flag=TR }:: [selimax](https://osu.ppy.sh/users/13525233) | 27.44 |
 
 ## Podium
 
@@ -153,7 +153,7 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 ### Semifinals
 
-- NoMod 
+- NoMod
   1. [Harada Hitomi - Kyoumei no True Force (Kibbleru) \[Ex\]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
   2. [xi - Ascension to Heaven (-Tynamo) \[BoshyMan's Extra\]](https://osu.ppy.sh/beatmapsets/968656#osu/2547374)
   3. [Umeboshi Chazuke - Bison Charge (Nao Tomori) \[Cyndere's Extra\]](https://osu.ppy.sh/beatmapsets/894701#osu/1936561)
@@ -289,7 +289,7 @@ Saturday, 26 September 2020
 | --: | :-: | :-: | :-- | :-- |
 | [Mikatsu](https://osu.ppy.sh/users/6612642) | 3 | **7** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** | [#1](https://osu.ppy.sh/community/matches/67518979) |
 
-### Finals 
+### Finals
 
 Saturday, 19 September 2020
 
@@ -297,7 +297,7 @@ Saturday, 19 September 2020
 | --: | :-: | :-: | :-- | :-- |
 | **[heyronii](https://osu.ppy.sh/users/5642779)** | **6** | 1 | [Mikatsu](https://osu.ppy.sh/users/6612642) | [#1](https://osu.ppy.sh/community/matches/67191627) |
 
-### Losers Round 4 
+### Losers Round 4
 
 Saturday, 19 September 2020
 
@@ -461,10 +461,10 @@ Tuesday, 25 August 2020
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 6. Match schedule will be decided by the tournament staff.
 7. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
-   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.        
+   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
    - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 8. Beatmaps cannot be reused in the same match.
-9. All players are supposed to be ready on time for the match. For the players unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**        
+9. All players are supposed to be ready on time for the match. For the players unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
    - If both players are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
 10. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 11. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
@@ -476,7 +476,7 @@ Tuesday, 25 August 2020
 1. Every user interested in joining the tournament will sign up individually.
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
 2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
-   - In order to join the tournament, users should type `?register` in any channel in the server, then click the link provided by the bot in PMs. 
+   - In order to join the tournament, users should type `?register` in any channel in the server, then click the link provided by the bot in PMs.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/Tournaments/Official_support#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
@@ -484,18 +484,18 @@ Tuesday, 25 August 2020
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 9 maps. There will be 3 maps under the NoMod bracket and 2 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **once** at a designated time.
 6. Players will have the option to choose the multiplayer room they wish to play. If a room happens to be too empty, remaining players will be navigated to the other rooms.
 7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others are at.
 8. If no players will join the room, the match will be aborted. No points will be awarded to the absent players.
-9. First 32 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
+9. First 32 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated.
 10. During the Double Elimination stages, the winner moves to the next stage and the losing gets moved to the Losers bracket.
 11. **Winning conditions:**
-    - The Round of 32 and Quarterfinals will be best of 9 (first player to 5 wins).        
-    - The Semifinals and Finals will be best of 11 (first player to 6 wins).        
+    - The Round of 32 and Quarterfinals will be best of 9 (first player to 5 wins).
+    - The Semifinals and Finals will be best of 11 (first player to 6 wins).
     - The Grand Finals will be best of 13 (first player to 7 wins).
 
 ### Match instructions
@@ -504,7 +504,7 @@ Tuesday, 25 August 2020
    - Room settings are osu!, Head To Head., Win Condition: 'ScoreV2'.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each player must use `!roll` once in `#multiplayer`.
-   - The player with the higher roll **picks** first.       
+   - The player with the higher roll **picks** first.
    - The player with the lower roll **bans** first.
    - Each player will be given 2 minutes to decide upon picks or bans. If first player fails to provide an answer, other player takes the turn.
 4. Each player can only ban 1 beatmap for the whole tourney.
@@ -516,7 +516,7 @@ Tuesday, 25 August 2020
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - The Round of 32 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
@@ -536,10 +536,4 @@ Tuesday, 25 August 2020
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 4. Reschedules will only be considered if both players agree to a time at least 24 hours before the first match in that particular stage.
    - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
-5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.

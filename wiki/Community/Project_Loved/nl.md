@@ -6,7 +6,7 @@ outdated_since: 4cd9c01b0078a59837d338311a38226e0e8e5fbf
 
 # Project Loved
 
-**Project Loved** is het stemplatfrom dat beatmaps promoveert naar de [Loved](/wiki/Beatmap/Category#loved)-categorie. Het wordt voornamelijk beheerd door het [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
+**Project Loved** is het stemplatfrom dat beatmaps promoveert naar de [Loved](/wiki/Beatmap/Category#loved)-categorie. Het wordt voornamelijk beheerd door het [Project Loved Team](/wiki/People/Project_Loved_Team).
 
 ## Verplaatsing van een beatmap naar Loved
 
@@ -19,7 +19,7 @@ Leden van het Project Loved Team, genaamd **captains**, nomineren regelmatig bea
 - [osu!/osu!taiko/osu!catch lijst](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
 - [osu!mania lijst](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-*Opmerking: Als de toegang tot Google Forms beperkt is, kan je ook de [Project Loved Teamleden](/wiki/People/The_Team/Project_Loved_Team#team-members) contacteren om een map in te laten zenden namens jou.*
+*Opmerking: Als de toegang tot Google Forms beperkt is, kan je ook de [Project Loved Teamleden](/wiki/People/Project_Loved_Team#team-members) contacteren om een map in te laten zenden namens jou.*
 
 Genomineerde beatmaps worden dan op het [Project Loved forum](https://osu.ppy.sh/community/forums/120) gepost, waar leden van de community kunnen stemmen of ze de beatmap in de Loved categorie willen of niet. Beatmaps die een bepaalde hoeveelheid "Ja"-stemmen behalen aan het einde van de stemming zullen verplaatst worden naar de Loved-categorie.
 
@@ -33,7 +33,7 @@ Er zijn een paar criteria waaraan moet worden voldaan om beatmaps te kunnen nomi
 - Minstens één moeilijkheidgraad uitgespeeld (passed) kan worden
 - De beatmap minstens 30 favorieten heeft (enkel van toepassing op osu! maps)
 
-Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)](/wiki/Beatmap/Category#work-in-progress-and-pending) aan deze criteria voldoen, worden er toch weinig van hen tot in de Loved-categorie gestemd omdat de nominatie- en stemmingsverseisten vrij selectief zijn.
+Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)](/wiki/Beatmap/Category#wip-and-pending) aan deze criteria voldoen, worden er toch weinig van hen tot in de Loved-categorie gestemd omdat de nominatie- en stemmingsverseisten vrij selectief zijn.
 
 ### Nominatieprioriteit
 

@@ -15,7 +15,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Ses Düzenleme](Audio_Editing)
 - [Sanatçı ya da Başlık Adı Değiştirme](Changing_the_Artist_or_Title)
 - [Başlık Metnini Değiştirme](/wiki/Beatmap/Title_text#changing-title-text)
-- [Collab Bilgisi](Collab_Information)
 - [Dosyaları Sıkıştırmak](Compressing_files)
 - [Özel Vuruş Sesi Kütüphanesi](Custom_Hitsound_Library)
 - [Özel Ses Seti Bindirmeleri](Custom_Sample_Overrides)
@@ -36,7 +35,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 
 - [Yeni Başlayanlar İçin Öğretici](Beginner's_Tutorial)
 - [Ofset Sihirbazı Nasıl Kullanılır](How_to_Use_the_Offset_Wizard)
-- [Beatmaplari Aramak ve İndirmek](Searching_and_Downloading_Beatmaps)
 - [Tablet Satın Almak](Tablet_Purchase)
 
 ## Tema yapımı

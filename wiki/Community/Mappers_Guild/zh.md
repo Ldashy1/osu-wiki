@@ -9,7 +9,7 @@ outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 
 # 谱师工会（Mappers' Guild）
 
-**谱师工会**是指一个对创建关于 osu! [精选艺术家](/wiki/Featured_Artists)的[谱面](/wiki/Beatmap)负有责任的谱师团体。借助 MMO 风格的工会形式，谱师们能够在参与对精选艺术家谱面的ranking流程与协助达成制谱相关的任务之中获取报酬。
+**谱师工会**是指一个对创建关于 osu! [精选艺术家](/wiki/People/Featured_Artists)的[谱面](/wiki/Beatmap)负有责任的谱师团体。借助 MMO 风格的工会形式，谱师们能够在参与对精选艺术家谱面的ranking流程与协助达成制谱相关的任务之中获取报酬。
 
 该工会的组织与交流部分可以在 [osu!dev Discord 群组](https://discord.gg/ppy)中的 `#mappers-guild` 频道找到。
 
@@ -57,9 +57,6 @@ outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 
 ### 自动化管理
 
-尽管谱师公会最开始一直的计划为工会体系添加更多诸如任务之类的MMO元素，但是管理员们之后便发现单纯用人工管理工会成员在截止期限前完成任务是不切实际的。因此，![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 与 ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) 在2018年末着手开发一个自动化管理谱师工会的网站，该网站使得更充分地分配报酬点数和管理任务/小组体系成为可能。
+尽管谱师公会最开始一直的计划为工会体系添加更多诸如任务之类的MMO元素，但是管理员们之后便发现单纯用人工管理工会成员在截止期限前完成任务是不切实际的。因此，::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 与 ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) 在2018年末着手开发一个自动化管理谱师工会的网站，该网站使得更充分地分配报酬点数和管理任务/小组体系成为可能。
 
 [谱师工会网站](https://mappersguild.com/)于2019年五月一日上线，该网站是谱师工会一切事务的控制中心。自从工会向大众开放后，其成员已超过500名，工会也发布了[更新通知](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild)以使整个 osu! 社区均能得知精选艺术家作品的最新制谱情况。
-
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_US]: /wiki/shared/flag/US.gif "美国"

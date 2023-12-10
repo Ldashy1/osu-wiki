@@ -81,11 +81,11 @@ Dış kısımdaki beyaz çember, spinnerın tamamlanması için kalan süreyi g�
 
 Spinnerın altındaki kutucuk dakika başı çevirme sayınızı gösterir. Bu kutucuktaki sayı, spinnerı bu hızda çevirmeye devam ederseniz bir dakika içinde elde edeceğiniz tam dönüş sayısını verir. Eğer erkenden fare/klavyenizin tuşuna basmayı bırakırsanız (veya kaleminizi tabletten çekerseniz) spinner, dönüşlerinizi saymayı bırakır.
 
-*DS*'de bu, dokunmatik ekranı (veya ekran koruyucuyu) çizmek için iyi bir yoldur, özellikle yüksek zorluk seviyelerinde. osu!'da, spinnerlar tamamlaması rahatsızlık vermeyecek şekilde dengelidir. Dakikada elde edilebilecek maksimum dönüş sayısı 477'dir. [Auto](/wiki/Game_modifier/Auto) modu bu hızda çevirirken [Spun Out](/wiki/Game_modifier/Spun_Out) modu dakikada 287 dönüş gibi daha yavaş bir hızda çevirir.
+*DS*'de bu, dokunmatik ekranı (veya ekran koruyucuyu) çizmek için iyi bir yoldur, özellikle yüksek zorluk seviyelerinde. osu!'da, spinnerlar tamamlaması rahatsızlık vermeyecek şekilde dengelidir. Dakikada elde edilebilecek maksimum dönüş sayısı 477'dir. [Auto](/wiki/Gameplay/Game_modifier/Auto) modu bu hızda çevirirken [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) modu dakikada 287 dönüş gibi daha yavaş bir hızda çevirir.
 
 ## Oynanış Tarzları
 
-*[osu!'nun altındaki Oynanış Tarzları sayfası](/wiki/Play_style) referans alınmıştır.*
+*[osu!'nun altındaki Oynanış Tarzları sayfası](/wiki/Gameplay/Play_style) referans alınmıştır.*
 
 ## Kontroller
 
@@ -97,13 +97,13 @@ osu!'nun varsayılan kontrolleri şunlardır:
 
 osu!, vuruş objelerine zamanında basıldığı sürece girdi cihazlarından herhangi bir girişi kabul eder.
 
-Eğer [Relax](/wiki/Game_modifier/Relax) modu kullanılıyorsa, sadece oyun-içi imleç çalışır. Vuruş objelerine otomatik olarak basmak için oyun-içi imleci kullanın. Spinnerler yine de tamamlanmalıdır.
+Eğer [Relax](/wiki/Gameplay/Game_modifier/Relax) modu kullanılıyorsa, sadece oyun-içi imleç çalışır. Vuruş objelerine otomatik olarak basmak için oyun-içi imleci kullanın. Spinnerler yine de tamamlanmalıdır.
 
-Eğer [Auto Pilot](/wiki/Game_modifier/Autopilot) modu kullanılıyorsa, sadece girdi cihazından gelen giriş çalışacaktır. İmlecin otomatik olarak takip ettiği vuruş objelerine zamanında basın. Spinnerlar [Spun Out](/wiki/Game_modifier/Spun_Out) modunun hızında döner.
+Eğer [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) modu kullanılıyorsa, sadece girdi cihazından gelen giriş çalışacaktır. İmlecin otomatik olarak takip ettiği vuruş objelerine zamanında basın. Spinnerlar [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) modunun hızında döner.
 
 ## Puanlama
 
-*Puanlama değerlerine [osu! puanlama sistemi](/wiki/Gameplay/Score/osu!) makalesinden ulaşabilirsiniz.*
+*Puanlama değerlerine [osu! puanlama sistemi](/wiki/Gameplay/Score/ScoreV1/osu!) makalesinden ulaşabilirsiniz.*
 
 Puanlama bölümü, matematiksel formül dahil olmak üzere puanlamanın tüm inceliklerini ayrıntılarıyla anlatır.
 
@@ -118,7 +118,7 @@ Puanlama bölümü, matematiksel formül dahil olmak üzere puanlamanın tüm in
 | C | %60'dan fazla 300 |
 | D | Bunların dışındakiler |
 
-Gümüş S ya da SS *[Hidden](/wiki/Game_modifier/Hidden)* ve/veya *[Flashlight](/wiki/Game_modifier/Flashlight)* modları kullanılarak elde edilebilir.
+Gümüş S ya da SS *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* ve/veya *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* modları kullanılarak elde edilebilir.
 
 ### Doğruluk
 
@@ -159,7 +159,7 @@ Ek olarak spinner ölçer dolduktan sonra her bir dönüş için 1,000 puan kaza
 
 #### Zorluk çarpanı nasıl hesaplanır
 
-[Daire Boyutu (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [HP Tüketimi (HP)](/wiki/Client/Beatmap_editor/Song_Setup) ve [Genel Zorluk (OD)](/wiki/Client/Beatmap_editor/Song_Setup), *zorluk puanına* bir tık ekler.
+[Daire Boyutu (CS)](/wiki/Client/Beatmap_editor/Song_setup), [HP Tüketimi (HP)](/wiki/Client/Beatmap_editor/Song_setup) ve [Genel Zorluk (OD)](/wiki/Client/Beatmap_editor/Song_setup), *zorluk puanına* bir tık ekler.
 
 Biriken *zorluk puanları*, **Zorluk çarpanını** şu şekilde etkiler:
 
@@ -270,7 +270,7 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
 - Spinnerı merkezinin etrafında döndürmemek geçerli bir dönüş **sayılmaz**.
 - Duman efekti, varsayılan oyun içi imleç izinden daha uzun süre dayanır. Önceki duman efektlerinin çok hızlı kaybolmasını önlemek için az miktarda duman efekti uygulayın.
 - [pippi](/wiki/Mascots#pippi), osu! modunun maskotudur.
-- [Auto](/wiki/Game_modifier/Auto) modunda oynandığında, oyuncu adı osu! olur.
+- [Auto](/wiki/Gameplay/Game_modifier/Auto) modunda oynandığında, oyuncu adı osu! olur.
 
 ### Tarihçe
 
@@ -280,12 +280,12 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
     - v2 tema özelliklerini kullanan daha güzel bir varsayılan tema ile değiştirildi.
   - v1 ve v2 temaları arasındaki en önemli davranış farkı, spinnerdır.
     - Spinner için v1 tema davranışı, spinner ölçeri *Ouendan* serisine göre dolana kadar aşağıdan yukarıya doğru olacak çekilde artar.
-      - Zamanlayıcı, spinnerin merkezinde yaklaşan bir çemberdir. Spinnerin çevirme süresi bittiğinde dış çember spinnerin merkezindeki çembere ulaşmış olur. 
+      - Zamanlayıcı, spinnerin merkezinde yaklaşan bir çemberdir. Spinnerin çevirme süresi bittiğinde dış çember spinnerin merkezindeki çembere ulaşmış olur.
     - v2 temanın spinner davranışı spinner çemberinin en büyük durumuna ulaşması ve bittiğinde parlaması şeklindedir.
       - Zamanlayıcı, spinnerın renk değiştiren dış çemberidir. Spinner çemberinin rengi tamamen değiştiğinde spinner tamamlanmış olur.
 - Çevrimiçi liderlik tablosunun yayınlandığında aynı gün içerisinde dereceli olan (07 Ekim 2007) ilk üç beatmap aşağıdakilerdi:
-  - Kabaca 1 saat içerisinde maplenmiş olan [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ya da `discoprince`; 
+  - Kabaca 1 saat içerisinde maplenmiş olan [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ya da `discoprince`;
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , ya da `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), ya da `Brandy - Love Fighter`.
 - Özellikle, eski klasörlerin kendi adlandırma kuralları vardır (klasör adları yalnızca *çok eski* beatmap paketlerinde bulunabilir) ve zorunlu `{BeatmapSetID} {SanatçıAdı} - {BeatmapAdı}` formatına sıkı sıkıya uymaz.
-  - Doğrudan osu! web sitesindeki beatmap kataloğundan indirmek, ne olursa olsun geçerli zorunlu adlandırma biçimini takip eder. 
+  - Doğrudan osu! web sitesindeki beatmap kataloğundan indirmek, ne olursa olsun geçerli zorunlu adlandırma biçimini takip eder.

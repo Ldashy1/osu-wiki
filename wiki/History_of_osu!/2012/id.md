@@ -4,7 +4,7 @@
 
 ![](img/2012-09_01.jpg "Menu utama osu! pada saat itu")
 
-osu! dan komunitasnya merayakan ulang tahun ke-5 osu! pada 2012-09-17. Selama waktu ini, semua pemain diberikan status [osu!supporter](/wiki/osu!supporter) selama 24 jam, dimulai pada 2012-09-17T02:800+08:00, yang merupakan waktu rilis orisinal osu! Pada tahun 2007. peppy memiliki ide untuk mendistribusikan versi awal osu! dalam beberapa bentuk atau lainnya sebagai bentuk perayaan, jadi pemain dapat mengalami langsung osu! dari masa sebelumnya, di mana akar dari program itu. Namun, karena versi file `.dll` berbeda, peppy tidak dapat membuatnya berfungsi. peppy mengatakan dia akan mendapatkannya suatu hari nanti.
+osu! dan komunitasnya merayakan ulang tahun ke-5 osu! pada 2012-09-17. Selama waktu ini, semua pemain diberikan status [osu!supporter](/wiki/osu!supporter) selama 24 jam, dimulai pada 2012-09-16 (18:00 UTC), yang merupakan waktu rilis orisinal osu! Pada tahun 2007. peppy memiliki ide untuk mendistribusikan versi awal osu! dalam beberapa bentuk atau lainnya sebagai bentuk perayaan, jadi pemain dapat mengalami langsung osu! dari masa sebelumnya, di mana akar dari program itu. Namun, karena versi file `.dll` berbeda, peppy tidak dapat membuatnya berfungsi. peppy mengatakan dia akan mendapatkannya suatu hari nanti.
 
 Tautan terkait:
 
@@ -19,7 +19,7 @@ Tautan terkait:
 Pada 2012-10-08, osu!mania akhirnya dirilis kepada publik ([woc2006](https://osu.ppy.sh/users/1105845))! Selain itu:
 
 - Hitsound per objek ditambahkan ke dalam editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/Gameplay/Multiplayer) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) atau [Perfect](/wiki/Game_modifier/Perfect) diaktifkan)
+- Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/Client/Interface/Multiplayer) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) atau [Perfect](/wiki/Gameplay/Game_modifier/Perfect) diaktifkan)
 - Dukungan scrolling ke daftar peringkat online dalam game.
 - Perbaikan pada [pemilih skin](/wiki/Client/Options#skin) untuk membuatnya bermain lebih realistis.
 
@@ -68,7 +68,7 @@ Pada 2012-11-22:
 - Pembaruan lokalisasi. Lebih banyak bahasa ditambahkan.
 - Mengklik kanan pada beatmap tidak aktif dapat memungkinkan opsi tampilan beatmap di pemilihan lagu tanpa membukanya terlebih dahulu dengan klik kiri.
 - Peningkatan kinerja DirectX.
-- ([Multi](/wiki/Gameplay/Multiplayer)) Penambahan tombol "Quick Join".
+- ([Multi](/wiki/Client/Interface/Multiplayer)) Penambahan tombol "Quick Join".
 - Pengaturan Fun Spoiler tersedia selama menonton tayangan ulang/menyoroti pemain lain.
 
 Lokalisasi dari [proyek lokalisasi osu! v2](https://osu.ppy.sh/community/forums/topics/104342) telah ditambahkan. Anda dapat menemukan pelokalan di menu [Options](/wiki/Client/Options) di tab Graphics menunjuk "Languages".

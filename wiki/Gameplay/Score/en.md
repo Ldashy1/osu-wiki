@@ -10,7 +10,7 @@ ScoreV1 is the colloquial name for the original, default scoring system in osu!.
 
 - osu! and osu!catch use a strictly combo-based score multiplier applied on score values for each hit object
 - osu!taiko roughly follows the *Taiko no Tatsujin* scoring system with a small constant score affected with combo bonus
-- osu!mania is the only game mode with a score limit (under ScoreV1), which is set at 1,000,000 points with a 1.00x [score multiplier](/wiki/Gameplay/Game_modifier/Score_multiplier).
+- osu!mania is the only game mode with a score limit (under ScoreV1), which is set at 1,000,000 points with a 1.00x [score multiplier](/wiki/Gameplay/Game_modifier/Mod_multiplier).
 
 For detailed descriptions of how ScoreV1 works in each game mode, see:
 
@@ -25,4 +25,4 @@ ScoreV2 is a new iteration of the scoring system. The main idea behind it is sta
 
 Aside from improved standardisation, ScoreV2 is also a workaround for an [integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) issue that can arise on long and combo-intensive maps. Because the total score is stored as a 32-bit integer and ScoreV1 can theoretically give an unlimited amount of score, exceeding the maximum representable 32-bit integer score value of 2,147,483,647 points would cause the score counter to wrap around to negative values (which is visually seen as the score proceeding to count backwards). In practice, ScoreV2 is automatically enabled for scores set on long beatmaps that would otherwise have a maximum score above the 32-bit integer limit.
 
-ScoreV2 is not enabled by default in gameplay; in solo play, it can be enabled through the unranked [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier, and in [multiplayer](/wiki/Gameplay/Multiplayer), ScoreV2 can be set as a win condition during match setup.
+ScoreV2 is not enabled by default in gameplay; in solo play, it can be enabled through the unranked [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) game modifier, and in [multiplayer](/wiki/Client/Interface/Multiplayer), ScoreV2 can be set as a win condition during match setup.

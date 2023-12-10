@@ -1,4 +1,6 @@
 ---
+outdated_since: 978fec75b84f424db647a1105bf8e26b9aec028c
+outdated_translation: true
 tags:
   - edit link
   - timestamps
@@ -6,7 +8,7 @@ tags:
 
 # Timestamp
 
-**Timestamp** digunakan dalam dunia [modding](/wiki/Modding) untuk merujuk pada suatu waktu atau [hit object](/wiki/Hit_object) pada suatu [beatmap](/wiki/Beatmap). Saat diposting di [diskusi beatmap](/wiki/Beatmap_discussion), timestamp mempunyai bentuk berupa tautan yang dapat digunakan untuk melompat ke titik waktu dari timestamp tersebut di [editor](/wiki/Client/Beatmap_editor).
+**Timestamp** digunakan dalam dunia [modding](/wiki/Modding) untuk merujuk pada suatu waktu atau [hit object](/wiki/Gameplay/Hit_object) pada suatu [beatmap](/wiki/Beatmap). Saat diposting di [diskusi beatmap](/wiki/Beatmap_discussion), timestamp mempunyai bentuk berupa tautan yang dapat digunakan untuk melompat ke titik waktu dari timestamp tersebut di [editor](/wiki/Client/Beatmap_editor).
 
 menyalin (`Ctrl` + `C`) sebuah hit object yang dipilih di editor akan menyertakan timestamp ke clipboard. Waktu yang berada di kiri bawah juga dapat diklik dan disalin.
 

@@ -26,12 +26,12 @@ tags:
 
 ## Lobi multiplayer mingguan
 
-Untuk saat ini, bergabung dengan lobi multiplayer mingguan mengharuskan peserta untuk mengunduh dan menginstal [osu!(lazer)](https://github.com/ppy/osu/releases).
+Untuk saat ini, bergabung dengan lobi multiplayer mingguan mengharuskan peserta untuk mengunduh dan menginstal [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Lobi akan terbuka sepanjang minggu.
-2. Daftar putar kini juga dapat menampilkan mod
+2. Daftar putar kini juga dapat menampilkan mod.
    - Map dengan mod adalah duplikat dari yang asli dan tujuannya adalah untuk memberikan tantangan kepada pemain yang sudah berpengalaman.
-   - osu!taiko tidak dapat menampilkan mod karena keterbatasan lazer di musim ini
+   - osu!taiko tidak dapat menampilkan mod karena keterbatasan lazer di musim ini.
 
 ## Daftar putar
 

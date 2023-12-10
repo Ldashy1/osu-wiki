@@ -4,7 +4,7 @@
 
 ![](img/2012-09_01.jpg "osu!'s main menu at the time")
 
-osu! and its community celebrated osu!'s 5th birthday on the 2012-09-17. During this time, all players were granted [osu!supporter](/wiki/osu!supporter) status for 24 hours, beginning at 2012-09-17T02:00+08:00, which was osu!'s original release time in 2007. peppy had intended to distribute an early version of osu! in some form or another for the celebration, so players could experience osu! from an earlier time, where the roots of the program were. However, because of differing `.dll` file versions, peppy was unable to get it working. He has said he will get it working someday.
+osu! and its community celebrated osu!'s 5th birthday on the 2012-09-17. During this time, all players were granted [osu!supporter](/wiki/osu!supporter) status for 24 hours, beginning at 2012-09-16 (18:00 UTC), which was osu!'s original release time in 2007. peppy had intended to distribute an early version of osu! in some form or another for the celebration, so players could experience osu! from an earlier time, where the roots of the program were. However, because of differing `.dll` file versions, peppy was unable to get it working. He has said he will get it working someday.
 
 Links:
 
@@ -19,7 +19,7 @@ Links:
 On 2012-10-08, osu!mania was finally released to the public build ([woc2006](https://osu.ppy.sh/users/1105845))! In addition to this:
 
 - Per-object hitsounds were added in the editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Allow recovery from failing in [multiplayer](/wiki/Gameplay/Multiplayer) by reaching full HP. (Exception if [Sudden Death](/wiki/Game_modifier/Sudden_Death) or [Perfect](/wiki/Game_modifier/Perfect) mod was enabled)
+- Allow recovery from failing in [multiplayer](/wiki/Client/Interface/Multiplayer) by reaching full HP. (Exception if [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect](/wiki/Gameplay/Game_modifier/Perfect) mod was enabled)
 - Scrolling support to in-game online ranking list.
 - Fixes on [skin selector](/wiki/Client/Options#skin) to make it play more realistically.
 
@@ -68,7 +68,7 @@ On 2012-11-22:
 - Updated localisation. More languages were added.
 - Right-clicking non-current beatmap can allow the display beatmap option at song select without prior opening it with left-click.
 - DirectX improvement.
-- ([Multi](/wiki/Gameplay/Multiplayer)) "Quick Join" button added.
+- ([Multi](/wiki/Client/Interface/Multiplayer)) "Quick Join" button added.
 - Fun Spoiler Settings was available during replay/spectating a player.
 
 Localisation from [osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) has been added. You can find the localisation at the [Options](/wiki/Client/Options) page in Graphics tab under "Languages".

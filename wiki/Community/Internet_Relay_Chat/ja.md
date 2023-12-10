@@ -1,3 +1,8 @@
+---
+outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
+outdated_translation: true
+---
+
 # Internet Relay Chat
 
 *詳細については、次を参照してください。[Internet Relay Chat（Wikipedia）](https://ja.wikipedia.org/wiki/Internet_Relay_Chat)*
@@ -77,10 +82,10 @@ osu!Banchoはプレーンテキスト認証を使用しています。IRCクラ�
 IRC標準では、チャンネルモードという概念があります。これは、すべてのユーザーが実行できるアクションのセットです。osu!Banchoでは、特別なグループのチャットユーザーには2つのモードが使われています。
 
 - `+`または「voice status」: ユーザーは外部のIRCクライアントで接続されています
-- `@`または「chat operator status」: ユーザーがチャットのモデレーター（[GMT](/wiki/People/The_Team/Global_Moderation_Team)または[NAT](/wiki/People/The_Team/Nomination_Assessment_Team)）
+- `@`または「chat operator status」: ユーザーがチャットのモデレーター（[GMT](/wiki/People/Global_Moderation_Team)または[NAT](/wiki/People/Nomination_Assessment_Team)）
 
 osu!クライアントやウェブサイトで接続しているユーザーにプレフィックスはありません。
 
 ### 誰かがメッセージを送信していますが、チャンネルユーザーのリストにはありません。
 
-[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!(lazer)](https://github.com/ppy/osu)で接続しています。
+[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!(lazer)](/wiki/Client/Release_stream/Lazer)で接続しています。

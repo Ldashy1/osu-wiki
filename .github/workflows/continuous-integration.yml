@@ -1,9 +1,6 @@
 name: osu-wiki continuous integration
 
 on:
-  push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
@@ -18,76 +15,67 @@ jobs:
     name: changed files
     runs-on: ubuntu-latest
     steps:
-      - name: sparse checkout
-        shell: bash
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: create master branch from remote master
+        run: git branch master origin/master
+
+      - name: detect changed files
         run: |
-          # repository url, utilising provided github credentials
-          REPOSITORY="https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git"
-          # merge commit ref name (with refs/heads/ stripped out)
-          BRANCH="${GITHUB_REF/#refs\/heads\//}"
+          changed_files="$(mktemp)"
+          git diff --diff-filter=d --name-only --no-renames master >"$changed_files"
+          printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
 
-          git version
-          # clone without blobs; don't checkout to avoid fetching them anyway
-          git clone --filter=blob:none --no-checkout ${REPOSITORY} .
-          git config --local gc.auto 0
+      - name: check file sizes
+        run: xargs -r meta/check-file-sizes.sh <"$CHANGED_FILES"
 
-          # set up sparse checkout
-          git sparse-checkout init
-          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' 'scripts' 'wiki/**/*'
-
-          # fetch the merge commit ref
-          git -c protocol.version=2 fetch --no-tags --prune --progress --depth=2 origin +${GITHUB_SHA}:refs/remotes/origin/${BRANCH}
-          git checkout --progress --force -B $BRANCH refs/remotes/origin/$BRANCH
-
-      - name: inspect binary file sizes
-        shell: bash
-        run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
-      - name: set up node
+      - name: set up Node.js
+        id: setup-node
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          cache: npm
+          node-version: 20
 
-      - name: install remark
-        run: npm install
+      - name: load node_modules from cache
+        id: cache-node-modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
+
+      - name: "if cache is outdated: install node.js dependencies"
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        run: npm ci
 
       - name: run remark on changed files
-        run: bash scripts/ci/run_remark.sh ${{ github.sha }} ${{ github.sha }}
+        if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
+        run: |
+          grep '\.md$' <"$CHANGED_FILES" | \
+          REPORTER=vfile-reporter-github-action xargs -r meta/remark.sh
 
       - name: set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          cache: pip
+          cache-dependency-path: requirements.txt
+          python-version: "3.11"
 
-      - name: set up CI dependencies
-        run: |
-          pip install -r scripts/requirements.txt
+      - name: set up Python CI dependencies
+        run: pip install -r requirements.txt
 
       - name: run yamllint on .yaml and .md files
-        run: |
-          python scripts/ci/run_yamllint.py --config .yamllint.yaml
+        run: osu-wiki-tools check-yaml
 
       - name: find broken wikilinks
-        shell: bash
-        env:
-          PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
-        run: |
-          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
-            echo "::notice::Broken wikilink check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
-            exit 0
-          fi
-
-          ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
-          find-broken-wikilinks --target $ARTICLES
+        if: ${{ !contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
+        run: osu-wiki-tools check-links --all
 
       - name: check if translations are marked as outdated
-        shell: bash
-        env:
-          PULL_REQUEST_TAG: 'SKIP_OUTDATED_CHECK'
+        if: ${{ !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
         run: |
-          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
-            echo "::notice::Outdated articles check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
-            exit 0
-          fi
-          # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
-          FIRST_PR_COMMIT_HASH=$( curl -sS ${{ github.event.pull_request.commits_url }}?per_page=1 | jq -r '.[0].sha' || true )
-          bash scripts/ci/check_outdated_tags.sh ${{ github.sha }} ${{ github.sha }} $FIRST_PR_COMMIT_HASH
+          osu-wiki-tools check-outdated-articles \
+            --base-commit HEAD \
+            --no-recommend-autofix \
+            --outdated-since "$(git log --format=%H master.. | tail -n 1)"

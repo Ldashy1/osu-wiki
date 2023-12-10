@@ -1,12 +1,12 @@
 ---
 tags:
-  - support
-  - supporter
   - supporter tag
   - osu!supporter tag
 ---
 
 # osu!supporter
+
+![osu!supporter promotional image](img/supporter-eyecatch.jpg)
 
 **osu!supporter** (or the ***osu!supporter tag***) is a temporary title given to players who support osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetic and technical benefits, most of which are active only when the title is present. The extra features from osu!supporter do not give any advantage in gameplay, performance, or score, and never will.
 
@@ -53,7 +53,7 @@ The `me!` section may be a good place for:
 Supporters can further customise their profile by setting a cover image:
 
 - Press the pencil icon in the lower right corner of the cover placeholder.
-- Select a new cover from a few predefined options, or upload your own image (its dimensions should be 2400x640).
+- Select a new cover from a few predefined options, or upload a custom image (its dimensions should be 2400x640).
 
 Once osu!supporter expires, the cover will remain, but cannot be changed.
 
@@ -68,14 +68,14 @@ Getting osu!supporter comes with the ability to change usernames for free for th
 osu!direct is the in-game beatmap search and download engine available to supporters. It may be accessed from the main menu by clicking the vertical `osu!direct` label on the right side of the screen. In addition to a built-in beatmap listing, osu!direct provides other ways to obtain new beatmaps without leaving the game:
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
-- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
-- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#online)
+- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Client/Interface/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
+- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#alerts-and-privacy)
 
 ### Extended leaderboards
 
 Supporters have access to several beatmap-specific [leaderboards](/wiki/Beatmap#leaderboards) available both in-game and on the website:
 
-- Global rankings for every combination of [game modifiers](/wiki/Game_modifier)
+- Global rankings for every combination of [game modifiers](/wiki/Gameplay/Game_modifier)
 - Country-specific rankings of players bearing the same flag
 - Friend rankings that show a player's position on a map compared to their friends
 
@@ -85,9 +85,9 @@ osu! offers more relaxed limits on various online features to supporters:
 
 | Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
-| [Pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `2 + min(ranked beatmaps, 6)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
+| [Pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(ranked beatmaps, 4)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
 | Online beatmap favourites | 100 | 1000 |
-| Friend count | 250 | 500 |
+| Friend count | 500 | 1000 |
 
 Additionally, bearers of osu!supporter are granted more lenient beatmap download limits.
 
@@ -129,28 +129,32 @@ The remaining osu!supporter duration, as well as total amount of contributions, 
 
 ## Getting osu!supporter
 
-::: Infobox
-![](img/store-product.jpg?2 "osu!supporter product banner from the osu!store")
-:::
-
 To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and adjust the supporter tag duration using the slider, or the buttons with the number of months underneath. All prices are in United States dollars (USD) and don't include possible fees of the payment system.
 
 Afterwards, click `Add to Cart` to put the supporter tag into the osu!store shopping cart. To finalise the purchase, go to the [shopping cart](https://osu.ppy.sh/store/cart) and click `Checkout`, then follow on-screen prompts.
 
 ### Gifting osu!supporter
 
-osu!supporter may also be gifted to another player by entering their username into the grey box below the user card. More people can be added by going back to the store page and repeating the process.
+::: Infobox
+![](img/profile-gift-supporter.png "Dropdown menu button on a profile page for gifting someone osu!supporter")
+:::
 
-### Conclusion
+osu!supporter may also be gifted to another player by entering their username below the user card, or by clicking `Gift supporter tag` on their profile page. More people can be added by going back to the store page or someone else's profile and repeating the process.
+
+The recipient is not notified of who gave them the tag, but when gifting osu!supporter, an optional message can be attached to be sent alongside the notification email.
+
+### Confirmation
 
 After the transaction is completed, there will be a new event in the `Recent Activity` section in the profile of both the giver and the recipient:
 
-- `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time the user gets osu!supporter.
-- `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter before.
+- `{username} has supported osu! - thanks for your generosity!` if it is the first time the user gets osu!supporter or gifts it to someone else.
+- `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter or gifted it before.
 - `{username} has received the gift of osu!supporter!` in case the tag was gifted.
 
-Additionally, both the giver and the recipient will receive e-mail notifications mentioning the purchase.
+The giver can also hide this event from their own profile by ticking `Hide all osu!supporter tags in this order from my activity` during checkout. This is useful for gifting anonymously because it prevents the recipient from cross-checking profile activity.
+
+Additionally, both the giver and the recipient will receive email notifications mentioning the purchase.
 
 ## References
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Forum post by peppy (2021-09-14) in "Increase the number of pending beatmap slots"](https://osu.ppy.sh/community/forums/posts/8294132)

@@ -40,12 +40,12 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 | Position | Member(s) |
 | --: | :-- |
-| Management and organisation | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
-| Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Mappool selector | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Streamer and referee | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentator | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Wiki editor | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Management and organisation | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256) |
+| Coordinator | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| Mappool selector | ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
+| Streamer and referee | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentator | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=AU }:: [williammak](https://osu.ppy.sh/users/11083079), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Wiki editor | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -53,7 +53,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/CMT2018)
 - Livestream
-  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [kj415j45](https://live.bilibili.com/237250) (Backup).   
+  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [kj415j45](https://live.bilibili.com/237250) (Backup).
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
@@ -259,8 +259,8 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 ### Tournament rules
 
 1. The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
-2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
-   - The Tie-breaker map will only be played in case of a tie.  
+2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:
+   - The Tie-breaker map will only be played in case of a tie.
    - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
@@ -268,8 +268,8 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 6. Use of the [Visual Settings](/wiki/Client/Interface/Visual_settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
-9. If a player disconnects (In the case of the player is not able to finish the map):  
-   - disconnets within 30s after the match starts, the match will be reset.   
+9. If a player disconnects (In the case of the player is not able to finish the map):
+   - disconnets within 30s after the match starts, the match will be reset.
    - the player will be recorded as Failed.
 10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.
@@ -289,7 +289,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
    - Player's nationality belongs to the Asian-Pacific region.
    - Use Chinese as the primary language.
    - No requirement on performance points.
-   - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.  
+   - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.
 3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/community/forums/topics/800125).
 4. Map selectors and tournament managers are not allowed to register.
 
@@ -362,8 +362,3 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
    - If player is in any other time zone, please notify the Management in advance.
    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 5. Request of rematch from forfeited player(s) will not be accepted.
-
-[CN]: /wiki/shared/flag/CN.gif "China"
-[US]: /wiki/shared/flag/US.gif "United States"
-[AU]: /wiki/shared/flag/AU.gif "Australia"
-[SG]: /wiki/shared/flag/SG.gif "Singapore"

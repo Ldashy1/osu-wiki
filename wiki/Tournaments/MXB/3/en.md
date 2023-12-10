@@ -37,12 +37,12 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Co-host | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Mappool selector | ![][flag_CN] [ExNeko](https://osu.ppy.sh/users/7590894), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Streaming referee | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentator | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Wiki editor | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Host | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Co-host | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
+| Mappool selector | ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576), ::{ flag=CN }:: [Toki 0w0](https://osu.ppy.sh/users/10392201), ::{ flag=CN }:: [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
+| Streaming referee | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentator | ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
+| Wiki editor | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [A M D](https://osu.ppy.sh/users/5321112) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [Yutto007](https://osu.ppy.sh/users/10269172) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## Mappools
 
@@ -246,7 +246,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 
 #### Qualification process
 
-- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 32.** The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage. 
+- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 32.** The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
   - If 16 players enter, all 16 players will qualify and no one gets eliminated.
   - If 17-31 players enter, the worst-performing players get eliminated and the top 16 will advance to the next round.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
@@ -261,7 +261,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in three matches. The two best-performing players in each group will advance to the bracket stage.
-- A player's performance in the group is determined through these metrics, arranged from highest priority to lowest: 
+- A player's performance in the group is determined through these metrics, arranged from highest priority to lowest:
   1. Number of matches won.
   2. Number of rounds won - numbers of round lost.
   3. Number of losses by default (lower is better).
@@ -271,7 +271,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 #### Bracket stage
 
 - The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
-- After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. 
+- After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage.
 - The MXB bracket can be found [here](https://challonge.com/zh_CN/MXB3rd).
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 - In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
@@ -313,7 +313,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one map within the map pool that they are playing for the given round.
 - Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
-- After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied: 
+- After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - Both players are at match point at the same time.
     - At this time, referee will select the song designated as the tiebreaker.
@@ -325,6 +325,3 @@ Notice: Beatmap scoring is based on **Score V2**.
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

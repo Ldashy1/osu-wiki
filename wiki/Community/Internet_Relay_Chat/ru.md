@@ -12,13 +12,13 @@
 
 ## Подключение
 
-Клиент нужно настроить, добавив туда адрес сервера (как именно это сделать, описано в документации выбранного вами клиента):
+Клиент нужно настроить, добавив туда адрес сервера (как именно это сделать, описано в документации к клиенту):
 
 - Сервер: `irc.ppy.sh`
 - Порт: `6667` (по умолчанию)
 - SSL: выключено
 - Имя пользователя: ваш ник в osu!. Пробелы нужно заменить на подчёркивания (например `beppy_master_1000` вместо `beppy master 1000`)
-- Пароль нужно взять со страницы [IRC Authentication](https://osu.ppy.sh/p/irc)
+- Пароль нужно взять из [настроек профиля](https://osu.ppy.sh/home/account/edit#legacy-api)
 
 *Внимание: во-первых, пароль для IRC и пароль от аккаунта — это разные вещи. Во-вторых, **никому не давайте пароль от IRC — он позволяет общаться от вашего имени**.*
 
@@ -44,6 +44,7 @@
 | [ircII](http://www.eterna.com.au/ircii/) | Напишите `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Напишите `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Напишите `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Зайдите в `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` и отметьте галочку `Hide Join/Part/Nick Events` |
 | [KVIrc](https://www.kvirc.net/) | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) |
 | [mIRC](https://www.mirc.com/) | В настройках (`Tools` -> `Options`, либо `Alt` + `O`) выберите пункт `IRC`, нажмите кнопку `Events...` и выберите `Hide` для типов Joins и Parts |
 | [Quassel IRC](https://quassel-irc.org/) | Кликните правой клавишей мыши по чату, откройте пункт `Hide Events` и выберите `Joins/Parts/Quits` |
@@ -59,7 +60,7 @@
 
 ### У меня появляется ошибка «Bad Authentication Token»
 
-1. Убедитесь, что вы вводите пароль со страницы [IRC Authentication](https://osu.ppy.sh/p/irc), и что в него не попал лишний символ.
+1. Убедитесь, что вы вводите пароль, взятый из [настроек профиля](https://osu.ppy.sh/home/account/edit#legacy-api), и что в него не попал лишний символ.
 2. Убедитесь, что вы заменили все пробелы в своём нике на подчёркивания (`This_Username` вместо `This Username`).
 
 ### Я могу взять себе другой ник?
@@ -75,10 +76,10 @@
 В стандарте IRC приводится такая концепция, как режим канала (если кратко — какие действия разрешены различным пользователям). osu!Bancho использует два режима для обозначения статусов:
 
 - Префикс `+` (статус «voice») даётся пользователю, подключившемуся через внешний IRC-клиент;
-- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/The_Team/Global_Moderation_Team) или [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)).
+- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/Global_Moderation_Team) или [NAT](/wiki/People/Nomination_Assessment_Team)).
 
 Если обычный пользователь пользуется клиентом osu! или веб-чатом, у его ника нет префикса.
 
 ### Человек пишет в чат, но я не вижу его ник в списке пользователей на канале
 
-Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](https://github.com/ppy/osu).
+Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

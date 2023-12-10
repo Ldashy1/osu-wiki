@@ -1,3 +1,8 @@
+---
+outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
+outdated_translation: true
+---
+
 # Internet Relay Chat
 
 *IRC가 무엇인지 자세히 알고 싶으시면, 다음 문서를 확인해주세요: [Internet Relay Chat (Wikipedia)](https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%EB%A6%B4%EB%A0%88%EC%9D%B4_%EC%B1%97)*
@@ -77,10 +82,10 @@ osu!Bancho는 일반적인 텍스트 인증을 사용합니다 — IRC 클라이
 IRC 표준에는 모든 사용자가 할 수 있는 작업 또는 채널 모드라는 개념이 있습니다. osu!Bancho에서는, 채팅 유저들을 대상으로 2개의 특별 그룹이 존재합니다:
 
 - `+`, 또는 "음성채팅 상태": 외부 IRC 클라이언트를 통해 접속한 유저
-- `@`, 또는 "채팅 운영자 상태": 챗 모더레이터 ([GMT](/wiki/People/The_Team/Global_Moderation_Team) 또는 [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`, 또는 "채팅 운영자 상태": 챗 모더레이터 ([GMT](/wiki/People/Global_Moderation_Team) 또는 [NAT](/wiki/People/Nomination_Assessment_Team))
 
 osu! 게임 클라이언트 또는 웹사이트를 통해 접속한 유저는 닉네임 앞에 아무것도 붙지 않습니다.
 
 ### 누가 메시지를 보냈는데, 채팅중인 유저 목록에 나오질 않아요!
 
-[웹 버전 채팅](https://osu.ppy.sh/community/chat) 또는 [osu!(lazer)](https://github.com/ppy/osu)를 통해 접속한 유저입니다.
+[웹 버전 채팅](https://osu.ppy.sh/community/chat) 또는 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)를 통해 접속한 유저입니다.

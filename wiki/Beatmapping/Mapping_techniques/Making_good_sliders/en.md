@@ -16,7 +16,7 @@ From [Ephemeral](https://osu.ppy.sh/users/102335),
 
 > always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will centre itself in the slider end and will make attaining passable curves much easier to accomplish.
 
-  Also, doing this makes reverse selection on sliders not fuck them up. 
+  Also, doing this makes reverse selection on sliders not fuck them up.
   Which is a good thing.
 
 ## Arcs
@@ -54,7 +54,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 ## Beat Blankets
 
-*Main page: [Blanket Combos](/wiki/Mapping_techniques/Formations#blanket-combos)*
+*Main page: [Blanket Combos](/wiki/Beatmapping/Mapping_techniques/Formations#blanket-combos)*
 
 ![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 

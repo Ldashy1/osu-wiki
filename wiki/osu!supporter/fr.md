@@ -1,9 +1,9 @@
 ---
 tags:
-  - support
-  - supporter
   - supporter tag
   - osu!supporter tag
+outdated_translation: true
+outdated_since: 4d8cf437cadc19ef38923c11bf958399886062bb
 ---
 
 # osu!supporter
@@ -24,7 +24,7 @@ Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter]
 ![](img/usercard.png?2 "Carte utilisateur avec un badge osu!supporter")
 :::
 
-Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée de l'osu!supporter que l'utilisateur a acquis ou reçu au total. 
+Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée de l'osu!supporter que l'utilisateur a acquis ou reçu au total.
 
 - Moins d'1 an : 1 cœur
 - De 1 à 5 ans : 2 cœurs
@@ -53,7 +53,7 @@ La section `moi !` est un bon endroit pour :
 Les supporters peuvent customiser davantage leur profil en ajoutant une bannière :
 
 - Appuyez sur l'icône en forme de crayon dans le coin en bas à droite de la bannière.
-- Sélectionnez une nouvelle bannière à partir d'options prédéfinies, ou en mettant en ligne votre propre image (ses dimensions doivent être de 2400x640). 
+- Sélectionnez une nouvelle bannière à partir d'options prédéfinies, ou en mettant en ligne votre propre image (ses dimensions doivent être de 2400x640).
 
 Une fois que le tag osu!supporter aura expiré, cette bannière restera mais ne pourra plus être modifiée.
 
@@ -68,14 +68,14 @@ Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur grat
 osu!direct est l'outil de recherche et de téléchargement de beatmaps en jeu disponible pour les supporters. On peut y accéder depuis le menu principal en cliquant sur le label vertical `osu!direct` sur le côté droit de l'écran. En plus d'une liste intégrée de beatmaps, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
 
 - Les liens de beatmaps dans le tchat qui mènent vers la page de la beatmap sur le site web d'osu! démarrent directement le téléchargement en jeu.
-- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#intégrations).
-- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#intégrations).
+- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Client/Interface/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#intégrations).
+- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#notifications-et-vie-privée).
 
 ### Classements avancés
 
-Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#classement) d'une beatmap, disponibles à la fois en jeu et sur le site web : 
+Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#classement) d'une beatmap, disponibles à la fois en jeu et sur le site web :
 
-- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Game_modifier).
+- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Gameplay/Game_modifier).
 - Le classement par pays des joueurs portant le même drapeau.
 - Le classement des amis qui montre la position d'un joueur sur une beatmap par rapport à ses amis.
 
@@ -85,9 +85,9 @@ osu! propose aux supporters des limites plus souples sur diverses fonctionnalit�
 
 | Valeur | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `2 + min(beatmaps classées, 6)`, jusqu'à **8**[^pending-beatmaps-ref] | `8 + min(beatmaps classées, 12)`, jusqu'à **20**[^pending-beatmaps-ref] |
+| [Beatmaps en attente](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(beatmaps classées, 4)`, jusqu'à **8**[^pending-beatmaps-ref] | `8 + min(beatmaps classées, 12)`, jusqu'à **20**[^pending-beatmaps-ref] |
 | Beatmap favorites en ligne | 100 | 1000 |
-| Nombre d'amis | 250 | 500 |
+| Nombre d'amis | 500 | 1000 |
 
 De plus, les détenteurs d'osu!supporter bénéficient de limites de téléchargement de beatmap plus souples.
 
@@ -145,12 +145,12 @@ osu!supporter peut également être offert à un autre joueur en entrant son nom
 
 Une fois la transaction terminée, un nouvel événement apparaîtra dans la section `Activité récente` du profil du donateur et du bénéficiaire :
 
-- `{nom_d'utilisateur} a choisi de soutenir osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur reçoit un osu!supporter.
-- `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter auparavant.
+- `{nom_d'utilisateur} a soutenu osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur achète un tag osu!supporter ou l'offre à quelqu'un d'autre.
+- `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter ou l'a déjà offert auparavant.
 - `{nom_d'utilisateur} a reçu l'osu!supporter en cadeau !` dans le cas où le tag a été offert.
 
 En outre, le donateur et le bénéficiaire recevront tous deux des notifications par e-mail mentionnant l'achat.
 
 ## Références
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

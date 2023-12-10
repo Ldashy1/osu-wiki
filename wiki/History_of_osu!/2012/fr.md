@@ -4,7 +4,7 @@
 
 ![](img/2012-09_01.jpg "Le menu principal d'osu! à l'époque")
 
-osu! et sa communauté ont célébré le 5e anniversaire d'osu! le 17/09/2012. Pendant cette période, tous les joueurs ont reçu le statut d'[osu!supporter](/wiki/osu!supporter) pendant 24 heures, à partir du 17/09/2012 T02:00+08:00, qui était l'heure de sortie originale d'osu! en 2007. peppy avait l'intention de distribuer une première version d'osu! sous une forme ou une autre pour la célébration, afin que les joueurs puissent faire l'expérience d'osu! à une époque antérieure, là où se trouvaient les racines du programme. Cependant, en raison des différentes versions du fichier `.dll`, peppy n'a pas été en mesure de le faire fonctionner. Il a dit qu'il le ferait fonctionner un jour.
+osu! et sa communauté ont célébré le 5e anniversaire d'osu! le 17/09/2012. Pendant cette période, tous les joueurs ont reçu le statut d'[osu!supporter](/wiki/osu!supporter) pendant 24 heures, à partir du 16/09/2012 (18:00 UTC), qui était l'heure de sortie originale d'osu! en 2007. peppy avait l'intention de distribuer une première version d'osu! sous une forme ou une autre pour la célébration, afin que les joueurs puissent faire l'expérience d'osu! à une époque antérieure, là où se trouvaient les racines du programme. Cependant, en raison des différentes versions du fichier `.dll`, peppy n'a pas été en mesure de le faire fonctionner. Il a dit qu'il le ferait fonctionner un jour.
 
 Liens :
 
@@ -19,7 +19,7 @@ Liens :
 Le 08/10/2012, osu!mania a finalement été publié au public, build ([woc2006](https://osu.ppy.sh/users/1105845)) ! En plus de cela :
 
 - Des hitsounds par objet ont été ajoutés dans l'éditeur. ([mm201](https://osu.ppy.sh/users/30655))
-- La possibilité de se remettre d'un miss en [multijoueur](/wiki/Gameplay/Multiplayer) en atteignant tous les HP. (Exception faite si le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Game_modifier/Perfect) sont activée).
+- La possibilité de se remettre d'un miss en [multijoueur](/wiki/Client/Interface/Multiplayer) en atteignant tous les HP. (Exception faite si le mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Gameplay/Game_modifier/Perfect) sont activée).
 - Un support du défilement pour la liste de classement en ligne dans le jeu.
 - Des corrections sur le [sélecteur de skin](/wiki/Client/Options#skin) afin de rendre le jeu plus réaliste.
 
@@ -68,7 +68,7 @@ Le 22/11/2012 :
 - Mise à jour de la localisation. Plus de langues ont été ajoutées.
 - Un clic droit sur une beatmap non courante peut permettre l'option d'affichage d'une beatmap lors de la sélection de la musique sans l'ouvrir au préalable avec un clic gauche.
 - Amélioration de DirectX.
-- Ajout du bouton `Quick Join` en ([Multi](/wiki/Gameplay/Multiplayer)).
+- Ajout du bouton `Quick Join` en ([Multi](/wiki/Client/Interface/Multiplayer)).
 - Les paramètres des spoilers amusants étaient disponibles lors d'un replay/spectateur d'un joueur.
 
 La localisation d'[osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) a été ajoutée. Vous pouvez trouver la localisation à la page [Options](/wiki/Client/Options) dans l'onglet `Graphiques` sous `Langues`.

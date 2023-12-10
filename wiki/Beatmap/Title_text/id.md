@@ -14,13 +14,13 @@ Jika pembuat map menggunakannya dengan benar, judul teks dapat ditambahkan denga
 
 ## Mengganti judul teks
 
-Hanya anggota dari [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) dan situs admin dapat merubah judul teks dari sebuah beatmap;  ini adalah pengaturan online yang tidak dapat ditemukan di dalam file lokal beatmap. Jika kamu ingin merubah judul map kamu, kamu dapat menghubungi orang diatas untuk merubahnya.
+Hanya anggota dari [NAT](/wiki/People/Nomination_Assessment_Team) dan situs admin dapat merubah judul teks dari sebuah beatmap;  ini adalah pengaturan online yang tidak dapat ditemukan di dalam file lokal beatmap. Jika kamu ingin merubah judul map kamu, kamu dapat menghubungi orang diatas untuk merubahnya.
 
 Ketika kamu menghubungi orang diatas, kamu harus memberikan string untuk mendeskripsikan konten dan format judul teks. osu! membutuhkan string ini agar bisa dituliskan dengan cara tertentu, seperti yang ditentukan di bagian berikut.
 
 ### Sintaks
 
-Judul teks biasanya memiliki beberapa baris, jadi osu! menggunakan simbol (`|`) untuk memisahkannya ketika memasukkan judul. Setiap baris pada judul teks ditulis dengan opsi format braket kurung tutup (`[]`) pada sebelumnya. Opsi pemformatan dipisahkan dengan koma dan di dalam format `key:value`.  
+Judul teks biasanya memiliki beberapa baris, jadi osu! menggunakan simbol (`|`) untuk memisahkannya ketika memasukkan judul. Setiap baris pada judul teks ditulis dengan opsi format braket kurung tutup (`[]`) pada sebelumnya. Opsi pemformatan dipisahkan dengan koma dan di dalam format `key:value`.
 
 Sebuah beatmap yang baru diunggah akan mempunyai judul teks yang diset menjadi `[size:20,bold:0]Artist|Title`, dimana `Artist` dan `Title` adalah unicode artis dan judul masing-masing sebuah map. Ini sangat banyak digunakan oleh Ranked maps, karena sangat sedikit pembuat map menggunakan settingan default.
 

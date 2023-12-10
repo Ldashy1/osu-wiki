@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9162ca37df646799d93a296e59d8afe9394a323b
+---
+
 # Storyboard Scripting General Rules
 
 ![An example of scripting in .osb.](img/SBS_Base.jpg "An example of scripting in .osb.")
@@ -31,7 +36,7 @@
 
 ### レイヤー
 
-- 全ての画像はスキンと[ヒットオブジェクトの下に配置されます](/wiki/Hit_object)。
+- 全ての画像はスキンと[ヒットオブジェクトの下に配置されます](/wiki/Gameplay/Hit_object)。
   - なので"最も"手前のレイヤー(Foreground)であってもHPバー、サークル、スライダー、スピナー、カーソルなどの下に置かれます。
 - 4つのレイヤーが存在し、表示順がそれぞれ定められています。
   - Background
@@ -51,7 +56,7 @@
 
 ただの動画の代わりにSBを背景として使用することで、**ゲームプレイでの状態に合わせて変化する機能** です。osu!はプレイヤーのその時の状態に応じ、Fail/Passのレイヤーが表示されます。これらの状態は"Fail状態"と"Pass状態"と呼ばれます。
 
-**最初より前のプレイタイム**の状態 (要するに[サークル/スライダー/スピナーの前で](/wiki/Hit_object)、 MP3/OGGの前とは限りません)**
+**最初より前のプレイタイム**の状態 (要するに[サークル/スライダー/スピナーの前で](/wiki/Gameplay/Hit_object)、 MP3/OGGの前とは限りません)**
 
 - 常にPass状態です。Failのレイヤーが表示されることはありません。PassもしくはFailのいずれかのレイヤーを使用することは推奨されません。その時点では"Passしている"ことを表示する意味がありません。
 

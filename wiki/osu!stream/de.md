@@ -1,29 +1,37 @@
 # osu!stream
 
+*Für die Liste der im Spiel enthaltenen Songs, siehe: [Songliste von osu!stream](/wiki/osu!stream/Song_List)*
+
 ![](img/Os-Logo.jpg "Logo von osu!stream")
 
-**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber nicht veröffentlicht, da es Probleme bei der Audiolatenz gab, die den Spielspaß massiv beeinträchtigten.
+**osu!stream** ist eine spezielle Version von osu!, die für tragbare Geräte mit [iOS](https://de.wikipedia.org/wiki/IOS_(Betriebssystem)) und [Android](https://de.wikipedia.org/wiki/Android_(Betriebssystem)) produziert wurde. Es kann kostenlos aus dem [App Store](https://apps.apple.com/us/app/osu-stream/id436952197) (iOS) und dem [Play Store](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) (Android) heruntergeladen werden.
 
-Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Im Gegensatz zum normalen osu! enthält osu!stream ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu!-Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-[osu!stream wurde in osu!monthly \#5 zusammen mit einem Interview vorgestellt.](https://osu.ppy.sh/community/forums/topics/59924)
+## Geschichte
 
-Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies den [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/) über ihre letzte Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im in-game "Store" erhältlich.
+Die Entwicklung von osu!stream begann im Jahr 2011 als ein Versuch, eine Version von osu! zu veröffentlichen, die unterwegs gespielt werden konnte, in Anlehnung an das zuvor aufgegebene Projekt [osu! iPhone](https://github.com/ppy/osu-iPhone). Zu Anfang war es als eine iOS-exklusive App gedacht, da die Infrastruktur von Android zur damaligen Zeit bedeutete, dass Audio-Latenzprobleme auf der Plattform unvermeidlich waren.
+
+Das Spiel wurde erstmals in einem [kryptischen YouTube-Video](https://www.youtube.com/watch?v=6Jyzgm_-joM) im Juni 2011 angeteasert. Nach der Veröffentlichung ein paar Monate später wurden die Hintergründe des Spiels in [osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) zusammen mit einem Interview mit peppy erläutert.
+
+Die Hauptentwicklung für osu!stream wurde 2020 eingestellt. Weitere Informationen findest du im [Blogbeitrag](https://blog.ppy.sh/osu-stream-2020-release/) zur letzten Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im "In-Game-Store" erhältlich.
+
+Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!stream dank der Bemühungen von ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) und anderen Mitwirkenden schließlich [auf Android portiert](https://twitter.com/ppy/status/1613460209703456769).
 
 ## Installation
 
-![](img/Os-Devices.jpg "osu!stream im iDevice")
+![](img/Os-Devices.jpg "osu!stream auf iOS-Geräten")
 
-### iDevice App Store Methode (empfohlen)
+### iOS App Store Methode (empfohlen)
 
-**Versichere dich, dass dein iDevice sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
+**Versichere dich, dass dein iOS-Gerät sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
 
-- Gehe zu "App Store" in deinem iDevice
+- Gehe zu "App Store" auf deinem iOS-Gerät
 - Suche nach osu!stream
 - Installiere osu!stream
   - Wenn nach der Apple ID und dem Passwort gefragt wird, gib diese bitte ein.
 - osu!stream kann gespielt werden, nachdem die App heruntergeladen und installiert wurde.
-  - Es wird empfohlen, auch das "Beatmaps hinzufügen" Kapitel zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
+  - Es wird empfohlen, auch das Kapitel [Beatmaps hinzufügen](#beatmaps-hinzufügen) zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
 
 ### Methode über USB
 
@@ -31,17 +39,17 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 - Gehe zu [diesem Link und lade es dir herunter](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
   - Wenn nach der Apple ID gefragt wird, gib die Apple ID und das Passwort ein.
-- Stecke dein iDevice in dein Gerät (welches osu!stream hat).
+- Stecke dein iOS-Gerät in dein Gerät (welches osu!stream hat).
 - Transferiere die osu!stream Dateien mit iTunes.
-- Entferne das iDevice und osu!stream kann gespielt werden.
+- Entferne das iOS-Gerät und osu!stream kann gespielt werden.
 
 ## Beatmaps hinzufügen
 
-**Versichere dich, dass das iDevice sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
+**Versichere dich, dass das iOS-Gerät sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
 
 - Öffne osu!stream.
-- Drücke auf das osu! Symbol und du solltest direkt in das Hauptmenü weitergeleitet werden (oder das Tutorial beim ersten Mal)
-- Drücke die "Store" Leiste
+- Drücke auf das osu!-Symbol und du solltest direkt in das Hauptmenü weitergeleitet werden (oder das Tutorial beim ersten Mal)
+- Drücke die "Store"-Leiste
   - Alternativ kannst du auch in der "Play" Sektion auf "Download more songs!" drücken.
 - Wähle ein gewünschtes Paket aus.
 
@@ -60,7 +68,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 ### Neues Spielsystem
 
-**Tipp:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
+**Anmerkung:** Teste die neuen Spielelemente im "Tutorial"-Bildschirm.
 
 #### Fingerführungsanzeige
 
@@ -116,11 +124,11 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 ![](img/Os-ModeEasy.jpg "Leichter Modus")
 
-**Schwierigkeitsgrad: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Schwierigkeitsgrad: Easy + [NoFail](/wiki/Gameplay/Game_modifier/No_Fail)**
 
 Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer, sodass neue Spieler den Flow und das Timing zum Treffen verstehen können. Lebensleisten werden nicht vergeben und durch das Spielen des leichten Modus wird der Expertenmodus nicht freigeschaltet.
 
-Die Hintergrundfrabe ist grün.
+Die Hintergrundfarbe ist grün.
 
 #### Streammodus
 
@@ -215,10 +223,6 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 ![](img/Os-O2.png "Optionsmenü 2")
 
 ---
-
-## Songliste
-
-***[Klicke hier für die gesamte Liste](Song_List)***
 
 ## Punktevergabe
 
@@ -331,7 +335,7 @@ Im **Expertenmodus wird stattdessen eine volle Lebensleiste vergeben**.
 
 Das Folgende füllt die Lebensleiste:
 
-- Einen Spinner und Hold-Bubbles vervollständigen.
+- Spinner und Hold-Circles vervollständigen.
 - Ein osu!, gold good!, green good!, 300er, oder 100er treffen,
   - Bei Hit-Circles füllen bessere Bewertungen die Lebensleiste mehr. Der letzte Hit-Circle in einer farbigen Combo vergibt mehr Lebenspunkte.
   - Bei Slidern wird die Lebensleiste abhängig von den vervollständigten Teilen gefüllt, nachdem der Slider beendet wurde.
@@ -339,11 +343,11 @@ Das Folgende füllt die Lebensleiste:
 Das Folgende reduziert die Lebensleiste:
 
 - Einen 50er erhalten.
-- Ein Hit-Object oder Slider verfehlen.
-- Nicht in einem Follow-Circle eines Sliders bleiben.
-- Nicht die Hold-Bubble halten, bis sie explodiert.
+- Ein Hit-Object oder einen Slider verfehlen.
+- Nicht im Follow-Circle eines Sliders bleiben.
+- Einen Hold-Circle nicht halten, bis er explodiert.
 - Einen Spinner nicht drehen.
-- Einen Spinner nicht mit einer "Clear" Nachricht vervollständigen.
+- Einen Spinner nicht mit einer "Clear"-Nachricht vervollständigen.
 
 Im Gegensatz zu anderen Versionen von osu! reduziert sich die Lebensleiste hier nicht von selbst.
 
@@ -369,6 +373,6 @@ Meistens im Hauptmenü und im Tutorial zu hören.
 ## Links
 
 - [Offizielle Webseite](http://www.osustream.com) (nicht mehr aktuell)
-- [Diskussionsforum (osu! Webseite)](https://osu.ppy.sh/community/forums/79)
+- [Diskussionsforum (osu!-Webseite)](https://osu.ppy.sh/community/forums/79)
 - [GitHub Repository](https://github.com/ppy/osu-stream)
 - [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/)

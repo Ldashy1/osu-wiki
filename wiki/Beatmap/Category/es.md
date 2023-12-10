@@ -1,58 +1,51 @@
----
-outdated_translation: true
----
+# Categorías de beatmaps
 
-# Beatmaps
+Los [beatmaps](/wiki/Beatmap) enviados en línea se dividen en categorías según su actividad reciente, estado de [nominación](/wiki/Beatmap_ranking_procedure#calificación) y popularidad.
 
-Los beatmaps son los niveles a completar en [osu!](/wiki/Glossary), similares a los de los [Juegos de DS](/wiki/iNiS_games). Los beatmaps se componen de una canción y varios [hit objects](/wiki/Hit_object) situados en el espacio y el tiempo al ritmo de la música. Pueden tener como fondo una imagen, un vídeo o un [storyboard](/wiki/Storyboard).
+## Categorias presentes
 
-Los beatmaps pueden subirse a la web a través del [BSS](/wiki/Submission) (Beatmap Submission System: sistema de envío de beatmaps) y son sometidos a un proceso de aprobación llamado [modding](/wiki/Modding) para mantener los máximos estándares de calidad posibles en términos de jugabilidad. Puedes encontrar los beatmaps en el [buscador de mapas](https://osu.ppy.sh/beatmapsets) en la web de osu!.
+### Abandonados {id=graveyard}
 
-## Estatus de rankeo
+El cementerio es un lugar donde residen los beatmaps abandonados por sus [anfitriones](/wiki/Beatmap/Beatmap_host). Estos beatmaps no tienen tablas de clasificación, pero aún se pueden descargar y jugar, y continúan [contribuyendo a las estadísticas de juego](#estadísticas-de-beatmaps-no-clasificados). Usan el icono del signo de interrogación (![](/wiki/shared/status/graveyard.png)) en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones).
 
-Los mapas rankeados y aprobados requieren la aprobación de dos [Beatmap Nominators (BN)](/wiki/People/The_Team/Beatmap_Nominators). Los mapas rankeados y aprobados afectan a las estadísticas de los usuarios cuando son jugados, a diferencia de los mapas [pendientes (pending)](#pendiente) o [abandonados (graveyarded)](#abandonado).
+Un beatmap se mueve al cementerio desde [trabajo en progreso y pendientes](#wip-and-pending) automáticamente una vez que no se ha actualizado durante 4 semanas. El autor puede revivir el beatmap (es decir, devolverlo a [pendientes](#wip-and-pending)) actualizándolo a través del [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission). Un beatmap en el cementerio no cuenta para el [límite total de subida](/wiki/osu!supporter#limites-incrementados) de un mapper, pero revivirlo requiere un espacio libre pendiente.
 
-### Beatmaps rankeados
+### Trabajo en progreso y pendientes {id=wip-and-pending}
 
-Los beatmaps rankeados (ranked) vienen indicados con este icono: (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) en la pantalla de selección de canciones. Estos beatmaps siguen a rajatabla todos los [criterios de rankeo](/wiki/Ranking_Criteria) para asegurar que tienen unos mínimos de calidad y jugabilidad, así como que la información que se muestra en ellos es correcta.
+Trabajo en progreso (comúnmente inicializado como *WIP*) y pendientes son las dos categorías en las que se colocan los beatmaps en el envío inicial. Los beatmaps en estas categorías pueden pasar a la categoría [calificados](#qualified) tras la [nominación](/wiki/Beatmap_ranking_procedure#nominations) de al menos dos [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Esto generalmente incluye una gran cantidad de comentarios de los [modders](/wiki/Modding/Modder) a través de [modding](/wiki/Modding). Los beatmaps en trabajo en progreso y pendientes no tienen tablas de clasificación, pero [contribuyen a las estadísticas del juego](#estadísticas-de-beatmaps-no-clasificados). Usan el icono del signo de interrogación (![](/wiki/shared/status/pending.png)) en la pantalla de selección de canciones.
 
-### Mapas calificados
+Los beatmaps inactivos que han estado en esta categoría durante 4 semanas se mueven automáticamente a la categoría [abandonados](#graveyard).
 
-Los mapas calificados (qualified) vienen indicados con el icono: (![Check icon](/wiki/shared/status/qualified.png)) en la pantalla de selección  de canciones. Estos beatmaps están en la última etapa del proceso de mapeo y modding. Al seleccionarlos, muestran un mensaje que avisa de que:
+### Calificados {id=qualified}
 
-- No otorgan [PP](/wiki/Performance_points).
-- Todas las puntuaciones serán borradas cuando su estatus de rankeo cambie.
+Calificados es la última etapa del [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure). Estos beatmaps han sido nominados por al menos dos [Beatmap Nominators](/wiki/People/Beatmap_Nominators) que se han asegurado de que el beatmap cumpla con los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). beatmaps puestos en calificados ingresan a la [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue), y eventualmente será [clasificado](#ranked) si no son [descalificados](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones).
 
-Cuando un mapa es calificado significa que cumple los criterios de rankeo y que ha sido comprobado por al menos dos Beatmap Nominators.
+Los beatmaps calificados tienen tablas de clasificación, pero no otorgan [puntos de rendimiento](/wiki/Performance_points) y todas las puntuaciones se eliminarán cuando salga de calificados. Usan el icono de visto (![](/wiki/shared/status/qualified.png)) en la pantalla de selección de canciones.
 
-El estatus de calificado dura una semana como mínimo antes de pasar a estar rankeados o aprobados de forma definitiva.
-Durante esta semana, los [QATs](/wiki/Modding/Quality_Assurance_Team) podrán decidir devolver el mapa a los estados previos si consideran que aún existen problemas a resolver.
+### Clasificados {id=ranked}
 
-### Loved
+Los beatmaps clasificados están respaldados como contenido oficial, en el sentido de que han alcanzado o superado los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). Permiten a los jugadores competir en tablas de clasificación y ganar [puntos de rendimiento](/wiki/Performance_points) al establecer puntuaciones. Una vez que un beatmap ha alcanzado el estado de clasificación, su estado no se puede modificar nuevamente (excepto en casos extraordinarios). Los beatmaps clasificados usan el icono de cheurón doble hacia arriba (![](/wiki/shared/status/ranked.png)) en la pantalla de selección de canciones.
 
-Los beatmaps Loved, literalmente *amados*, vienen indicados con el icono: (![Heart icon](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones. Estos mapas pueden cumplir o no los criterios de rankeo, pero han sido reconocidos por la comunidad como mapas valiosos. Al seleccionarlos, muestran un mensaje que avisa de que:
+### Amados {id=loved}
 
-- No otorgan [PP](/wiki/Performance_points).
-- Todas sus puntuaciones serán borradas si el autor del beatmap decide editarlo.
+*Para conocer la historia de la categoría amados, véase: [Historia de amado](/wiki/History_of_osu!/History_of_Loved)*
 
-El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un [sistema de votación](https://osu.ppy.sh/community/forums/topics/549835) (en inglés). Para que un mapa alcance el estatus de Loved.
+Es posible que los beatmaps amados no cumplan con los [criterios de clasificación](/wiki/Ranking_criteria), pero son *amados* por la comunidad y, por lo tanto, se agregan regularmente en función de los votos de la comunidad en [Project Loved](/wiki/Community/Project_Loved). Tienen tablas de clasificación, pero no otorgan [puntos de rendimiento](/wiki/Performance_points) y todas las puntuaciones se eliminarán si se mueve fuera de amados (esto generalmente solo sucede a pedido del creador). Los beatmaps amados usan el icono del corazón (![](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones.
 
-### Pendiente
+## Historia
 
-*Ver también: [Procedimiento de rankeo de mapas](/wiki/Beatmap_ranking_procedure)*
+### Aprobados {id=approved}
 
-Los mapas pendientes (pending) vienen indicados con el icono: (![Question mark icon](/wiki/shared/status/pending.png)) en la pantalla de selección de canciones. Un beatmap con el estatus pendiente es un mapa que espera ser [modeado](/wiki/Modding).
+La categoría de beatmaps aprobados se usó entre 2008 y 2014 para albergar beatmaps que superaban los requisitos de longitud y puntuación máxima en versiones anteriores de los [criterios de clasificación](/wiki/Ranking_criteria), así como beatmaps raros que infringían otras reglas sobre los criterios.
 
-Los beatmaps pendientes no afectan a las estadísticas de usuario.
+Los beatmaps aprobados no afectaron la clasificación de puntuación de un usuario hasta poco después del cambio de la clasificación de puntuación a la clasificación de [puntos de rendimiento](/wiki/Performance_points). Después de este cambio, el estado aprobado se usó exclusivamente para beatmaps con más de 6 minutos de [tiempo de drenaje](/wiki/Beatmap/Drain_time).
 
-Los creadores deben buscar [modders](/wiki/Modding/Modder) de la comunidad y al menos dos [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) para que el proceso siga adelante.
+Los beatmaps aprobados usan el icono de visto (![](/wiki/shared/status/approved.png)) en la pantalla de selección de canciones y funcionan igual que los beatmaps clasificados.
 
-Los mapas inactivos que llevan al menos 4 semanas en el estatus pendiente son movidos al estatus de abandonado.
+### Aparición de calificados
 
-### Abandonado
+La categoría [calificados](#qualified) se introdujo en agosto de 2014 durante la [reestructuración del BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) para dar más visibilidad a los beatmaps recién clasificados. Si un beatmap en calificados tuvo que ser descalificado y movido de nuevo a pendientes, no afectaría las estadísticas de los jugadores, porque la categoría en sí fue diseñada para dar puntuaciones transitorios desde el principio. Esto había establecido expectativas correctas y redujo en gran medida los comentarios negativos de la comunidad a los desclasificados.
 
-Los mapas abandonados (Graveyarded) vienen indicados con el icono:(![Question mark icon](/wiki/shared/status/graveyard.png)) en la pantalla de selección de canciones. Son mapas pendientes que han sido movidos automáticamente porque no han sido actualizados ni se ha comentado su hilo en el foro durante las últimas 4 semanas. Estos mapas no pueden actualizarse hasta que no sean revividos por su creador.
+### Estadísticas de beatmaps no clasificados
 
-Los mapas abandonados no afectan a las características de usuario.
-
-Con el objetivo de ahorrar espacio para nuevos beatmaps, los mapas abandonados pueden ser eliminados de la web si pasan demasiado tiempo sin ser revividos.
+Después del [7 de agosto de 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), los beatmaps [abandonados](#graveyard), así como [trabajo en proceso y pendientes](#wip-and-pending), comenzaron a contribuir al recuento de jugadas y la puntuación total de los usuarios. También recibieron estadísticas de juego en sus páginas individuales (veces jugados, tasa de éxito y puntos de fracaso), que antes solo se mostraban para los beatmaps [calificados](#qualified) y [clasificados](#ranked).

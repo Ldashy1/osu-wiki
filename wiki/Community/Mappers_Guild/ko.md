@@ -8,7 +8,7 @@ outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 
 # 매퍼스 길드
 
-**매퍼스 길드**는 osu!의 [피쳐드 아티스트](/wiki/Featured_Artists)를 위한 [비트맵](/wiki/Beatmap)을 만드는 책임이 있는 매퍼들의 그룹입니다. MMO-스타일의 길드 형식을 차용해서, 이는 매퍼들이 피쳐드 아티스트 비트맵의 랭크 과정에 참여하고, 매핑과 관련된 퀘스트를 위해 협력하면서 보상을 받을 수 있도록 합니다.
+**매퍼스 길드**는 osu!의 [피쳐드 아티스트](/wiki/People/Featured_Artists)를 위한 [비트맵](/wiki/Beatmap)을 만드는 책임이 있는 매퍼들의 그룹입니다. MMO-스타일의 길드 형식을 차용해서, 이는 매퍼들이 피쳐드 아티스트 비트맵의 랭크 과정에 참여하고, 매핑과 관련된 퀘스트를 위해 협력하면서 보상을 받을 수 있도록 합니다.
 
 길드의 조직 구성과 토론은 [osu! 개발 디스코드 서버](https://discord.gg/ppy)의 `#mappers-guild` 채널에서 찾을 수 있습니다.
 
@@ -56,9 +56,6 @@ outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 
 ### 자동화
 
-최초의 매퍼스 길드에 대한 계획은 항상 퀘스트와 같은 MMO 요소를 가지고 있는 것이었지만, 제한된 길드의 참여자를 위한 기한을 수동으로 관리하는 것은 너무 비실용적이었습니다. ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)과 ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)은 2018년 말 매퍼스 길드를 자동화하는 웹사이트의 개발을 시작해서, 더 적절한 보상의 분배와 퀘스트/파티 시스템의 관리가 가능하게 했습니다.
+최초의 매퍼스 길드에 대한 계획은 항상 퀘스트와 같은 MMO 요소를 가지고 있는 것이었지만, 제한된 길드의 참여자를 위한 기한을 수동으로 관리하는 것은 너무 비실용적이었습니다. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)과 ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994)은 2018년 말 매퍼스 길드를 자동화하는 웹사이트의 개발을 시작해서, 더 적절한 보상의 분배와 퀘스트/파티 시스템의 관리가 가능하게 했습니다.
 
 [매퍼스 길드 웹사이트](https://mappersguild.com/)는 2019년 3월 1일에 공개되었으며, 매퍼스 길드에 관한 모든 것이 이 관리 하에 있습니다. 모두에게 공개된 이후, 길드는 500명이 넘는 멤버 수에 도달했으며, [후속 뉴스 글](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild)를 공개하며 그 밖의 osu! 커뮤니티에게도 피쳐드 아티스트 매핑 컨텐츠의 최신 정보를 제공하고 있습니다.
-
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_US]: /wiki/shared/flag/US.gif

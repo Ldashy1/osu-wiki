@@ -6,7 +6,7 @@ osu!stream propose jusqu'à 45 musiques jouables réparties dans différents pac
 
 Dans le menu Store, vous pouvez faire défiler la liste de tous les packs de musiques disponibles et prévisualiser les beatmaps qu'ils contiennent avant de les télécharger. En sélectionnant le bouton `PREVIEW`, vous pourrez voir une courte démonstration de jeu des quatre difficultés dans une beatmap, de la difficulté la plus basse à la plus élevée [dans l'ordre correspondant du stream](/wiki/osu!stream#nouveau-système-de-gameplay).
 
-Tout comme les [Featured Artists](/wiki/Featured_Artists) qu'osu! possède aujourd'hui, toutes les musiques disponibles dans le jeu sont soit commandées soit sous licence avant leur sortie. Il est à noter que les beatmaps d'osu!stream sont au format de fichier `.osf2` (au lieu de [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format))) et ne sont donc pas compatibles avec le client d'osu!.
+Tout comme les [Featured Artists](/wiki/People/Featured_Artists) qu'osu! possède aujourd'hui, toutes les musiques disponibles dans le jeu sont soit commandées soit sous licence avant leur sortie. Il est à noter que les beatmaps d'osu!stream sont au format de fichier `.osf2` (au lieu de [`.osz`](/wiki/Client/File_formats/osz_(file_format))) et ne sont donc pas compatibles avec le client d'osu!.
 
 ## Bundled songs
 
@@ -16,10 +16,10 @@ Ce pack comprend quatre musiques par défaut qui sont préchargées avec une ins
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
-| tieff & Natteke - Endless Tower | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10") |
-| tieff & Natteke - Sunrise | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4/10") |
-| SkyMarshall - Hitchhikers | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3/10") |
+| nekodex - Liquid Future | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
+| tieff & Natteke - Endless Tower | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10") |
+| tieff & Natteke - Sunrise | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4/10") |
+| SkyMarshall - Hitchhikers | ::{ flag=MX }:: [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3/10") |
 
 Voir également :
 
@@ -34,12 +34,12 @@ Voir également :
 
 Prix : **Gratuit**
 
-Ce pack comprend deux musiques de variété différente par haru☆ et Garbled Waves respectivement.
+Ce pack comprend deux musiques de variété différente.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| haru☆ - March Handyman | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | ![4/10](img/dif4.png "4/10") |
-| Garbled Waves - Apatisk | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
+| haru☆ - March Handyman | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | ![4/10](img/dif4.png "4/10") |
+| Garbled Waves - Apatisk | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
 
 Voir également :
 
@@ -54,7 +54,7 @@ Ce pack comprend la musique *Want You Gone* de Jonathan Coulton (sous le pseudon
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Aperture Science - Want You Gone | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Aperture Science - Want You Gone | ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
 
 Voir également :
 
@@ -64,12 +64,12 @@ Voir également :
 
 Prix : **Gratuit**
 
-Ce pack comprend deux musiques de variété différente par Bomb Boy et daniwellP respectivement.
+Ce pack comprend deux musiques de variété différente.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Bomb Boy - Ignition, Set, GO! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![8/10](img/dif8.png "8/10") |
-| daniwellP - Nekomimi Switch | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
+| Bomb Boy - Ignition, Set, GO! | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![8/10](img/dif8.png "8/10") |
+| daniwellP - Nekomimi Switch | Team STREAM (::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) and ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
 
 Voir également :
 
@@ -84,10 +84,10 @@ Ce pack comprend quatre musiques de l'extraordinaire Cranky.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Cranky - 1970 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | ![4/10](img/dif4.png "4/10") |
-| Cranky - Crocus | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![4/10](img/dif4.png "4/10") |
-| Cranky - Into the Unknown | ![][flag_AU] [Samah](https://osu.ppy.sh/users/343490) | ![8/10](img/dif8.png "8/10") |
-| Cranky - Dee Dee Cee | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![9/10](img/dif9.png "9/10") |
+| Cranky - 1970 | ::{ flag=RU }:: [IceBeam](https://osu.ppy.sh/users/208440) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Crocus | ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Into the Unknown | ::{ flag=AU }:: [Samah](https://osu.ppy.sh/users/343490) | ![8/10](img/dif8.png "8/10") |
+| Cranky - Dee Dee Cee | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![9/10](img/dif9.png "9/10") |
 
 Voir également :
 
@@ -102,10 +102,10 @@ Ce pack comprend quatre musiques du groupe de rock américain OK Go.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| OK Go - All Is Not Lost | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![5/10](img/dif5.png "5/10") |
-| OK Go - End Love | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
-| OK Go - This Too Shall Pass | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
-| OK Go - WTF | Team STREAM (![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) et ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)) | ![6/10](img/dif6.png "6/10") |
+| OK Go - All Is Not Lost | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![5/10](img/dif5.png "5/10") |
+| OK Go - End Love | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
+| OK Go - This Too Shall Pass | ::{ flag=AU }:: [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
+| OK Go - WTF | Team STREAM (::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) et ::{ flag=AU }:: [Lilac](https://osu.ppy.sh/users/58197)) | ![6/10](img/dif6.png "6/10") |
 
 Voir également :
 
@@ -115,14 +115,14 @@ Voir également :
 
 Prix : **Gratuit** / **USD$2.99** (Avant la [mise à jour de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-Ce pack comprend quatre musiques fournies par le label d'enregistrement indépendant Tsundere Recordings.
+Ce pack comprend quatre musiques fournies par le label d'enregistrement Tsundere Recordings.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Koizumi UNDERGROUND - Get Back! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
-| samplingmasters Koizumi - With Me | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![4/10](img/dif4.png "4/10") |
-| samplingmasters Koizumi - Love is a Danger Zone | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![6/10](img/dif6.png "6/10") |
-| samplingmasters Koizumi - Infinity Loop | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
+| Koizumi UNDERGROUND - Get Back! | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
+| samplingmasters Koizumi - With Me | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![4/10](img/dif4.png "4/10") |
+| samplingmasters Koizumi - Love is a Danger Zone | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![6/10](img/dif6.png "6/10") |
+| samplingmasters Koizumi - Infinity Loop | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
 
 Voir également :
 
@@ -132,14 +132,14 @@ Voir également :
 
 Prix : **Gratuit** / **USD$0.99** (Avant la [mise à jour de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-Ce pack comprend quatre musiques de style électronique interprétées par divers musiciens du monde entier.
+Ce pack comprend quatre musiques de style électronique interprétées par des musiciens indépendants sélectionnés.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Kenneth Nilsen - Space Music | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![6/10](img/dif6.png "6/10") |
-| Kenneth Nilsen - Woohoo! | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | ![8/10](img/dif8.png "8/10") |
-| NIGHTkilla - Fracture | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![7/10](img/dif7.png "7/10") |
-| SkyMarshall - It's True | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![8/10](img/dif8.png "8/10") |
+| Kenneth Nilsen - Space Music | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![6/10](img/dif6.png "6/10") |
+| Kenneth Nilsen - Woohoo! | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | ![8/10](img/dif8.png "8/10") |
+| NIGHTkilla - Fracture | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![7/10](img/dif7.png "7/10") |
+| SkyMarshall - It's True | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![8/10](img/dif8.png "8/10") |
 
 Voir également :
 
@@ -155,10 +155,10 @@ Ce pack comprend quatre musiques fournies par le collectif musical sur internet 
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Odyssey - Wings of Burning Love | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
-| Odyssey - Cherry Blossoms (2010 Mix) | ![][flag_GB] [Mashley](https://osu.ppy.sh/users/41481) | ![5/10](img/dif5.png "5/10") |
-| Mortimer - Rive | ![][flag_US] [ouranhshc](https://osu.ppy.sh/users/139493) | ![5/10](img/dif5.png "5/10") |
-| Travis Stebbins - Magnetic Love | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
+| Odyssey - Wings of Burning Love | ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Odyssey - Cherry Blossoms (2010 Mix) | ::{ flag=GB }:: [Mashley](https://osu.ppy.sh/users/41481) | ![5/10](img/dif5.png "5/10") |
+| Mortimer - Rive | ::{ flag=US }:: [ouranhshc](https://osu.ppy.sh/users/139493) | ![5/10](img/dif5.png "5/10") |
+| Travis Stebbins - Magnetic Love | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
 
 Voir également :
 
@@ -172,10 +172,10 @@ Ce pack comprend quatre musiques de SoulEye, qui figurent toutes dans le jeu de 
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Souleye - Positive Force | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![5/10](img/dif5.png "5/10") |
-| Souleye - Pressure Cooker | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![6/10](img/dif6.png "6/10") |
-| Souleye - Potential for Anything | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
-| Souleye - Passion for Exploring | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
+| Souleye - Positive Force | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![5/10](img/dif5.png "5/10") |
+| Souleye - Pressure Cooker | ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661) | ![6/10](img/dif6.png "6/10") |
+| Souleye - Potential for Anything | ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Souleye - Passion for Exploring | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
 
 Voir également :
 
@@ -189,10 +189,10 @@ Ce pack comprend quatre musiques du célèbre producteur de musique BMS SHIKI.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| SHIKI - Lapis | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) et ![][flag_FR] [Kurai](https://osu.ppy.sh/users/98661)) | ![5/10](img/dif5.png "5/10") |
-| SHIKI - Pure Ruby | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | ![9/10](img/dif9.png "9/10") |
-| SHIKI - BABYLON | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![8/10](img/dif8.png "8/10") |
-| SHIKI - Jade Star | ![][flag_KR] [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | ![7/10](img/dif7.png "7/10") |
+| SHIKI - Lapis | Team STREAM (::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) et ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089)) | ![5/10](img/dif5.png "5/10") |
+| SHIKI - Pure Ruby | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | ![9/10](img/dif9.png "9/10") |
+| SHIKI - BABYLON | ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661) | ![8/10](img/dif8.png "8/10") |
+| SHIKI - Jade Star | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | ![7/10](img/dif7.png "7/10") |
 
 Voir également :
 
@@ -202,16 +202,16 @@ Voir également :
 
 Prix : **Gratuit** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Ce pack comprend quatre musiques/arrangements de compositions originales de Touhou Project par divers musiciens du monde entier. 
+Ce pack comprend quatre arrangements originaux de compositions de Touhou Project par différents musiciens.
 
 Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 1,99 USD$. Cependant, en raison de problèmes juridiques liés à la distribution de ressources liées à Touhou Project sur l'App Store en tant que contenu payant, ce pack a été retiré dans la [mise à jour v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release). Ce pack a donc été réédité en tant que contenu gratuit dans la [mise à jour 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Amane - Eternal Fullmoon | *inconnu* | *inconnu* |
-| Amane - Snow, White, Echo | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | *inconnu* |
-| sou1 - The Maid's Blood and the Pocket Watch | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | *inconnu* |
-| Lix - Phantom Ensemble -Ark Trance mix- | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *inconnu* |
+| Amane - Eternal Fullmoon | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![0/10](img/dif0.png "0/10") |
+| Amane - Snow, White, Echo | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | ![0/10](img/dif0.png "0/10") |
+| sou1 - The Maid's Blood and the Pocket Watch | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | ![4/10](img/dif4.png "4/10") |
+| Lix - Phantom Ensemble -Ark Trance mix- | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![4/10](img/dif4.png "4/10") |
 
 Voir également :
 
@@ -223,16 +223,16 @@ Voir également :
 
 Prix : **Gratuit** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Ce pack comprend quatre musiques/arrangements de compositions originales de Touhou Project par divers musiciens du monde entier. 
+Ce pack comprend quatre arrangements originaux de compositions de Touhou Project par différents musiciens.
 
 Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 1,99 USD$. Cependant, en raison de problèmes juridiques liés à la distribution de ressources liées à Touhou Project sur l'App Store en tant que contenu payant, ce pack a été retiré dans la [mise à jour v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release). Ce pack a donc été réédité en tant que contenu gratuit dans la [mise à jour 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
-| Lix - Electro Magnetic Pulse | *inconnu* | *inconnu* |
-| haru☆ - Septette for the Dead Princess | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | *inconnu* |
-| Amane - BOOZEHOUND (DJ mix) | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | *inconnu* |
-| Amane - Being Proof | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *inconnu* |
+| Lix - Electro Magnetic Pulse | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | ![3/10](img/dif3.png "3/10") |
+| haru☆ - Septette for the Dead Princess | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | ![4/10](img/dif4.png "4/10") |
+| Amane - BOOZEHOUND (DJ mix) | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | ![2/10](img/dif2.png "2/10") |
+| Amane - Being Proof | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![3/10](img/dif3.png "3/10") |
 
 Voir également :
 
@@ -269,18 +269,3 @@ Voir également :
 ---
 
 ![Aperçu du gameplay du mode Expert](img/Os-Demo.jpg "Aperçu du gameplay du mode Expert")
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

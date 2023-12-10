@@ -3,16 +3,16 @@ tags:
   - Mapper's Guild
   - MG
 outdated_translation: true
-outdated_since: 3cf46b29330f1d208f1b5390649747054db8a5a4
+outdated_since: 5d13db18f6598dfcac714de1a6c8e76d6a728980
 ---
 
 # Mappers' Guild
 
 ![](img/mg-logo.png "Logo Mappers' Guild")
 
-**Mappers' Guild** merupakan organisasi yang mewadahi para mapper dalam pembuatan [beatmap-beatmap](/wiki/Beatmap) [Featured Artist](/wiki/Featured_Artists). Dengan menerapkan sistem *guild* dan *quest* sebagaimana yang ada pada permainan-permainan MMO pada umumnya, Mappers' Guild memungkinkan para anggotanya untuk dapat memperoleh imbalan-imbalan tertentu dengan membuat dan me-*rank* beatmap-beatmap Featured Artist.
+**Mappers' Guild** merupakan organisasi yang mewadahi para mapper dalam pembuatan [beatmap-beatmap](/wiki/Beatmap) [Featured Artist](/wiki/People/Featured_Artists). Dengan menerapkan sistem *guild* dan *quest* sebagaimana yang ada pada permainan-permainan MMO pada umumnya, Mappers' Guild memungkinkan para anggotanya untuk dapat memperoleh imbalan-imbalan tertentu dengan membuat dan me-*rank* beatmap-beatmap Featured Artist.
 
-Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pada kanal `#mappers-guild` yang ada di [server Discord osu!dev](https://discord.gg/ppy).
+Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pada kanal `#mappers-guild` yang ada di [server Discord osu!](https://discord.gg/ppy).
 
 ## Sistem
 
@@ -54,13 +54,13 @@ Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftar
 
 ### Beatmap-beatmap showcase
 
-*Artikel utama: [Kumpulan beatmap-beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+*Artikel utama: [Kumpulan beatmap-beatmap showcase Featured Artist](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
 Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk membuat "beatmap-beatmap showcase" eksklusif yang diperuntukkan bagi pengumuman-pengumuman Featured Artist di masa mendatang. Setelah Featured Artist yang bersangkutan diumumkan, beatmap-beatmap tersebut akan diberikan sorotan khusus pada [postingan berita yang terkait](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame).
 
 ### Kontes Beatmapping
 
-Mappers' Guild juga berfungsi selaku sarana kontes beatmapping. Sejak Januari 2020, seluruh iterasi [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) telah diselenggarakan, dijurikan, dan dinilai dengan sistem yang ditentukan oleh Mappers' Guild. Di samping itu, siapapun dapat menyelenggarakan kontesnya tersendiri melalui Mappers' Guild untuk meningkatkan aksesibilitas ke komunitas mapping.
+Mappers' Guild juga berfungsi selaku sarana kontes beatmapping. Sejak bulan Januari tahun 2020, seluruh iterasi [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) telah diselenggarakan, dijurikan, dan dinilai dengan sistem yang ditentukan oleh Mappers' Guild. Di samping itu, siapapun dapat menyelenggarakan kontesnya tersendiri melalui Mappers' Guild untuk meningkatkan aksesibilitas ke komunitas mapping.
 
 ## Sejarah
 
@@ -68,13 +68,10 @@ Mappers' Guild diluncurkan pada akhir tahun 2017 dengan anggota yang pada kala i
 
 Setelah sukses dengan proyek pertamanya, Mappers' Guild kemudian merekrut personil-personil baru dan merilis 8 beatmap dari lagu-lagu yang sebelumnya telah tersedia (namun belum tersentuh) pada katalog Featured Artist yang dimiliki oleh osu! pada saat itu. Kedelapan beatmap ini lantas digabungkan ke dalam satu [paket beatmap](/wiki/Beatmap/Packs) dan dipromosikan pada [topik beritanya tersendiri](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release).
 
-Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa henti. Saat ini, para anggota Mappers' Guild telah berhasil membuat dan me-*rank* ratusan beatmap dengan lagu-lagu Featured Artist baik itu yang menyangkut artis-artis baru seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33) ataupun artis-artis lama yang telah dikontrak oleh osu! sebelumnya. 
+Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa henti. Saat ini, para anggota Mappers' Guild telah berhasil membuat dan me-*rank* ratusan beatmap dengan lagu-lagu Featured Artist baik itu yang menyangkut artis-artis baru seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33) ataupun artis-artis lama yang telah dikontrak oleh osu! sebelumnya.
 
 ### Otomatisasi
 
-Walaupun Mappers' Guild telah memiliki sistem *quest* dan lain sebagainya sejak awal, para pengelola Mappers' Guild di kala itu sering merasa kewalahan dalam mengelola segala sesuatunya secara manual. Oleh karenanya, pada akhir tahun 2018 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) dan ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) berinisiatif untuk membuat situs web Mappers' Guild yang memungkinkan para anggotanya untuk dapat mengorganisir *quest*/*party* dan menembus imbalan-imbalan mereka dengan lebih mudah dan teratur.
+Walaupun Mappers' Guild telah memiliki sistem *quest* dan lain sebagainya sejak awal, para pengelola Mappers' Guild di kala itu sering merasa kewalahan dalam mengelola segala sesuatunya secara manual. Oleh karenanya, pada akhir tahun 2018 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) dan ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) berinisiatif untuk membuat situs web Mappers' Guild yang memungkinkan para anggotanya untuk dapat mengorganisir *quest*/*party* dan menembus imbalan-imbalan mereka dengan lebih mudah dan teratur.
 
-Situs web Mappers' Guild diluncurkan secara resmi pada 1 Maret 2019, dan merupakan tempat di mana segala sesuatunya tentang Mappers' Guild saat ini dikendalikan. Sejak dibuka untuk umum, Mappers' Guild telah memiliki lebih dari 500 anggota dan telah rutin [menerbitkan topik-topik berita](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) seputar perkembangan konten-konten Featured Artist terkini setiap beberapa bulan sekali.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+Situs web Mappers' Guild diluncurkan secara resmi pada tanggal 1 Maret 2019, dan merupakan tempat di mana segala sesuatunya tentang Mappers' Guild saat ini dikendalikan. Sejak dibuka untuk umum, Mappers' Guild telah memiliki lebih dari 500 anggota dan telah rutin [menerbitkan topik-topik berita](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) seputar perkembangan konten-konten Featured Artist terkini setiap beberapa bulan sekali.

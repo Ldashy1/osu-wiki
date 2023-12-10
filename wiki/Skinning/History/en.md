@@ -123,6 +123,24 @@ Notes:
 
 - This element was skinnable for a single day as part of the 2015 April fools joke.
 
+---
+
+`menu-charts-click.wav`
+
+Notes:
+
+- The sample played when clicking on `Charts` in the main menu.
+
+---
+
+`menu-charts-hover.wav`
+
+Notes:
+
+- The sample played when hovering above `Charts` in the main menu.
+
+---
+
 ### FPS
 
 `fps-0.png`
@@ -314,6 +332,48 @@ Notes:
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
 - Must be enabled in the [options](/wiki/Client/Options) to see.
+
+## osu!
+
+`hitcircleoverlay-{n}.png`
+
+![](img/hitcircleoverlay.png)
+
+*For full details, see [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Notes:
+
+- Animation name: `hitcircleoverlay-{n}.png`
+- Animation rate: 2 FPS (4 FPS max).
+  - This rate is affected by the half time and double time/nightcore the game modifiers.
+
+---
+
+`sliderstartcircleoverlay-{n}.png`
+
+![](img/sliderstartcircleoverlay.png)
+
+*For full details, see [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Notes:
+
+- Animation name: `sliderstartcircleoverlay-{n}.png`
+- Animation rate: 2 FPS (4 FPS max).
+  - This rate is affected by the half time and double time/nightcore the game modifiers.
+
+---
+
+`sliderendcircleoverlay-{n}.png`
+
+![](img/sliderendcircleoverlay.png)
+
+*For full details, see [sliderendcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Notes:
+
+- Animation name: `sliderendcircleoverlay-{n}.png`
+- Animation rate: 2 FPS (4 FPS max).
+  - This rate is affected by the half time and double time/nightcore the game modifiers.
 
 ## .ini
 

@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament 2022 logo](img/banner.jpg)
 
-The **PERAK osu! Tournament 2022** (***POT 2022***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the second iteration of the PERAK osu! Tournament.
+The **PERAK osu! Tournament 2022** (***POT 2022***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the second iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
@@ -37,15 +37,15 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) |
-| Supervisor | ![][flag_ID] [Bisma404](https://osu.ppy.sh/users/7171896), ![][flag_ID] [Jevlyn](https://osu.ppy.sh/users/28585681) |
-| Mappool selector | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
-| Playtester | ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053) |
-| Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498), ![][flag_ID] [eucharistica](https://osu.ppy.sh/users/28736472) |
-| Referee | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Romizzz](https://osu.ppy.sh/users/6154769) |
-| Graphic designer | ![][flag_ID] [Kizito Hiro](https://osu.ppy.sh/users/2263272) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) |
+| Supervisor | ::{ flag=ID }:: [Bisma404](https://osu.ppy.sh/users/7171896), ::{ flag=ID }:: [Jevlyn](https://osu.ppy.sh/users/28585681) |
+| Mappool selector | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [Larzz](https://osu.ppy.sh/users/10483670) |
+| Playtester | ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
+| Streamer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053) |
+| Commentator | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053), ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498), ::{ flag=ID }:: [eucharistica](https://osu.ppy.sh/users/28736472) |
+| Referee | ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053), ::{ flag=ID }:: [Romizzz](https://osu.ppy.sh/users/6154769) |
+| Graphic designer | ::{ flag=ID }:: [Kizito Hiro](https://osu.ppy.sh/users/2263272) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -61,17 +61,17 @@ Listed below are the players who were participating in the tournament along with
 
 | Seed | Player | Avg. percentage |
 | :-: | :-- | :-- |
-| 1 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 0.99 |
-| 2 | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) | 0.94 |
-| 3 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 0.80 |
-| 4 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 0.79 |
-| 5 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 0.73 |
-| 6 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | 0.72 |
-| 7 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | 0.67 |
-| 8 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 0.60 |
-| 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 0.44 |
-| 10 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | 0.37 |
-| 11 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | 0.24 |
+| 1 | ::{ flag=ID }:: [DigiM](https://osu.ppy.sh/users/2659328) | 0.99 |
+| 2 | ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) | 0.94 |
+| 3 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | 0.80 |
+| 4 | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) | 0.79 |
+| 5 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | 0.73 |
+| 6 | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) | 0.72 |
+| 7 | ::{ flag=ID }:: [StingRay](https://osu.ppy.sh/users/2215822) | 0.67 |
+| 8 | ::{ flag=ID }:: [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 0.60 |
+| 9 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | 0.44 |
+| 10 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | 0.37 |
+| 11 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | 0.24 |
 
 ## Podium
 
@@ -79,9 +79,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) |
 
 ## Mappools
 
@@ -94,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
   2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#osu/3169485)
   3. [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[moph's Extra\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2692632)
   4. [Function Phantom - Index (feat. Thinktec) (PaRaDogi) \[0pp's Saturn\]](https://osu.ppy.sh/beatmapsets/1493791#osu/3061893)
-  5. [MisoilePunch - Aurolla (cocona) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1543663#osu/3155328) 
+  5. [MisoilePunch - Aurolla (cocona) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1543663#osu/3155328)
   6. [ATARASHII GAKKO! - Ookami no Uta (Fisky) \[Yudragen's Extra\]](https://osu.ppy.sh/beatmapsets/1562875#osu/3375590)
 - Hidden
   1. [yama - Mahi (Purplegaze) \[Purple & kefn's Expert\]](https://osu.ppy.sh/beatmapsets/1566515#osu/3245880)
@@ -110,7 +110,7 @@ This competition has come to an end and resulted in the following podium:
   1. [mona (CV: Natsukawa Shiina) - No.1 (HeTo) \[Lovely\]](https://osu.ppy.sh/beatmapsets/1090518#osu/2279641)
   2. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
   3. [Xceon feat. Mayumi Morinaga - Ikuseisou no Monogatari \~The Story of Eternity\~ (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/306782#osu/686559)
-  4. [Garoad - Every Day is Night (Chaoslitz) \[Karmotrine\]](https://osu.ppy.sh/beatmapsets/1353075#osu/2801137) 
+  4. [Garoad - Every Day is Night (Chaoslitz) \[Karmotrine\]](https://osu.ppy.sh/beatmapsets/1353075#osu/2801137)
 - Tiebreaker
   1. **[Yooh - Dignity -alzando- (Cubby) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1252847#osu/2614851)**
 
@@ -123,8 +123,8 @@ This competition has come to an end and resulted in the following podium:
   2. [Halozy ft. Nanahira - Monosugoi Ikioide Keine ga Monosugoi Uta (-Tynamo) \[I love Nanahira\]](https://osu.ppy.sh/beatmapsets/1388107#osu/2866773)
   3. [Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/1431401#osu/3003518)
   4. [sakuraburst - SELF DESTRUCT (fusionnqn) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1033562#osu/2161036)
-  5. [Chroma - Sayonara Planet Wars (xidorn) \[01:59:931\]](https://osu.ppy.sh/beatmapsets/1345631#osu/2786752) 
-  6. [android52 - anime no mizo 420 (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/734780#osu/1551262) 
+  5. [Chroma - Sayonara Planet Wars (xidorn) \[01:59:931\]](https://osu.ppy.sh/beatmapsets/1345631#osu/2786752)
+  6. [android52 - anime no mizo 420 (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/734780#osu/1551262)
 - Hidden
   1. [Vierra - Seandainya (Cut Ver.) (hikimaruy) \[Gelas Cup Edit\]](https://osu.ppy.sh/beatmapsets/1578756#osu/3228286)
   2. [amazarashi - Sayonara Gokko (Kalibe) \[farewell\]](https://osu.ppy.sh/beatmapsets/932454#osu/1946856)
@@ -186,7 +186,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Numtack05 - Ooki na Hane de! (Cut Ver.) (Mafumafu) \[Tsubasa\]](https://osu.ppy.sh/beatmapsets/1075635#osu/2250717)
 - DoubleTime
   1. [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[ponpokosatellin's Hard\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2210782)
-  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[HARD\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2910768)  
+  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[HARD\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2910768)
 - Tiebreaker
   1. **[Demetori - Warabe Matsuri ~ Innocent Treasures (Remapper) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1033730#osu/2163007)**
 
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
   2. [XXXTENTACION - MOONLIGHT (eiri-) \[R.I.P\]](https://osu.ppy.sh/beatmapsets/967467#osu/2024692)
 - DoubleTime
   1. [senya - Theta de Tsukisashite (Serafeim) \[Hard\]](https://osu.ppy.sh/beatmapsets/1353531#osu/2802609)
-  2. [zts - liberatedliberator (deetz) \[Light Hard\]](https://osu.ppy.sh/beatmapsets/907805#osu/1894749)  
+  2. [zts - liberatedliberator (deetz) \[Light Hard\]](https://osu.ppy.sh/beatmapsets/907805#osu/1894749)
 - Tiebreaker
   1. **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/179323#osu/431147)**
 
@@ -238,13 +238,13 @@ Saturday, 23 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **7** | 2 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/100011716) |
+| Lower | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/100011716) |
 
 Sunday, 24 April 2022, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/100011716) |
+| Grand Final | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/100011716) |
 
 ### Finals (week 1)
 
@@ -252,13 +252,13 @@ Saturday, 9 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [ReeyaDono](https://osu.ppy.sh/users/2215822) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** | [#1](https://osu.ppy.sh/community/matches/99571190) |
+| Upper | [ReeyaDono](https://osu.ppy.sh/users/2215822) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** | [#1](https://osu.ppy.sh/community/matches/99571190) |
 
 Sunday, 10 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | *win by default* |
+| Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | *win by default* |
 
 ### Semifinals
 
@@ -266,22 +266,22 @@ Saturday, 19 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [StingRay](https://osu.ppy.sh/users/2215822) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/98920941) |
+| Lower | [StingRay](https://osu.ppy.sh/users/2215822) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/98920941) |
 
 Sunday, 20 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | [#1](https://osu.ppy.sh/community/matches/98884028) |
-| Lower | [-Keitaro](https://osu.ppy.sh/users/3378391) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98929136) |
-| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/98901027) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | [#1](https://osu.ppy.sh/community/matches/98884028) |
+| Lower | [-Keitaro](https://osu.ppy.sh/users/3378391) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98929136) |
+| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/98901027) |
 
 Monday, 21 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/99156017) |
-| Lower | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | *win by default* |
+| Lower | [DigiM](https://osu.ppy.sh/users/2659328) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/99156017) |
+| Lower | **[Lindaine](https://osu.ppy.sh/users/4572717)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | *win by default* |
 
 ### Quarterfinals
 
@@ -289,23 +289,23 @@ Saturday, 12 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | [#1](https://osu.ppy.sh/community/matches/98618342) |
-| Upper | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/98651493) |
-| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/98652613) |
+| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | [#1](https://osu.ppy.sh/community/matches/98618342) |
+| Upper | **[DigiM](https://osu.ppy.sh/users/2659328)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/98651493) |
+| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/98652613) |
 
 Sunday, 13 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/98693176) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/98693176) |
 
 Monday, 14 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[NeoZap](https://osu.ppy.sh/users/10024869)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/98730561) |
-| Lower | **[-Keitaro](https://osu.ppy.sh/users/3378391)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | *win by default* |
-| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
+| Lower | **[NeoZap](https://osu.ppy.sh/users/10024869)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/98730561) |
+| Lower | **[-Keitaro](https://osu.ppy.sh/users/3378391)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | *win by default* |
+| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
 
 ### Round of 12
 
@@ -313,14 +313,14 @@ Sunday, 6 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Stingray](https://osu.ppy.sh/users/2215822)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/98469707) |
-| Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
+| Upper | **[Stingray](https://osu.ppy.sh/users/2215822)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/98469707) |
+| Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
 
 Monday, 7 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [hamdanpapeng](https://osu.ppy.sh/users/10854143) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98501050) |
+| Upper | [hamdanpapeng](https://osu.ppy.sh/users/10854143) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98501050) |
 
 ## Ruleset
 
@@ -333,9 +333,9 @@ Monday, 7 March 2022:
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player fails to report back after the maximum allowance of 15 minutes pass, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
@@ -389,5 +389,3 @@ Monday, 7 March 2022:
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

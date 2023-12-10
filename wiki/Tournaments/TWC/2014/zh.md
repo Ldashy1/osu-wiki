@@ -9,7 +9,7 @@ outdated_translation: true
 
 ![TWC 2014 logo](img/logo.jpg)
 
-**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/groups/26) 举办的[太鼓模式](/wiki/Game_mode/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 ![][flag_TW] **台湾**。
+**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/groups/26) 举办的[太鼓模式](/wiki/Game_mode/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 ::{ flag=TW }:: **台湾**。
 
 ## 比赛流程
 
@@ -35,10 +35,10 @@ outdated_translation: true
 
 | Job | Person(s) |
 | :-- | :-- |
-| 赛事管理 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
-| 比赛地图选择 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
-| 赛果统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| 赛事管理 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
+| 比赛地图选择 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| 比赛直播旁述 | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) // ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) // ::{ flag=US }:: ztrot // ::{ flag=NO }:: Dolphin |
+| 赛果统计 | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## 相关鏈接
 
@@ -52,7 +52,7 @@ outdated_translation: true
 1. osu! Taiko World Cup 2014 是以国家作队伍单位的三对三比赛。
 2. 每回合比赛的地图，都会于相应的比赛阶段开始前的星期天由 比赛地图选择者 公布。只有被公布的地图才可以在相应的比赛中被选择。
    - 每回合的比赛地图中都会有一张决胜图，该图只有在平局的情况下才会被选择。
-   - 此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Game_modifier/Double_Time) 或 FreeMod 的比赛地图。
+   - 此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 或 FreeMod 的比赛地图。
 3. 每回合比赛的时间编排都会由主办方决定。
 4. 若没有裁判或主办人员在场，比赛会被延期。
 5. 任何不及格的玩家的得分都不会计算到所属队伍的总分。
@@ -125,7 +125,7 @@ outdated_translation: true
 (翻译未完成)
 
 1. There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod
 3. Each mappool consists of 23 maps in total.
 4. Each mappool has one tiebreaker
 5. The NoMod bracket will be played with no modes activated.
@@ -150,11 +150,3 @@ outdated_translation: true
 3. All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
-[flag_US]: /wiki/shared/flag/US.gif "美国"

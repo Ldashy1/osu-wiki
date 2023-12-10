@@ -6,7 +6,7 @@
 
 ## Behaviour
 
-Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags. 
+Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags.
 
 Users, who wish to combine formatting onto a single section of text, can do so by placing BBCode tags inside of one another. However, the order and nesting of these tags **must be respected** when combining. Failure to do so will break the formatting.
 
@@ -66,12 +66,12 @@ Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 ### Colour
 
 ```
-[color=HEXCODE]text[/color]
+[color=#HEXCODE]text[/color]
 ```
 
 *For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
 
-The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `HEXCODE` argument with a colour's corresponding HEX code or HTML name.
+The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `#HEXCODE` argument with a colour's corresponding HEX code or HTML name.
 
 The aforementioned argument does not take quotation marks (`"`), and does not have a default colour. If no argument is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
 
@@ -81,7 +81,7 @@ The aforementioned argument does not take quotation marks (`"`), and does not ha
 [size=NUMBER]text[/size]
 ```
 
-The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny," "small," "normal," and "large" respectively.
+The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny", "small", "normal", and "large" respectively.
 
 The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number, that is not one of the supported four, is inputted, the text will revert to the default size.
 
@@ -111,7 +111,7 @@ text
 
 The `[box]` tag is used to hide text and images inside of a clickable hyperlink. Upon clicking, the contents inside will be revealed in a similar fashion to a dropdown menu.
 
-The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If left unspecified, the `[box]` tag will create a box with no heading text inside by default (which cannot be clicked on). The argument does not use quotations marks (`"`), and will render whitespace.
+The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If `NAME` is left unspecified, the `[box]` tag will create a box with no heading text inside. The argument does not use quotations marks (`"`), and will render whitespace.
 
 The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
 
@@ -143,7 +143,21 @@ Long quotations are typically used in more formal writings in place of in-line q
 
 ![Quote reply button](img/quotereply.png)
 
+### Inline code
+
+*Not to be confused with [Code block](#code-block).*
+
+```
+[c]text[/c]
+```
+
+The `[c]` tag allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. In contrary to [code blocks](#code-block), the tag may only be placed in single lines.
+
+Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts or button descriptions.
+
 ### Code block
+
+*Not to be confused with [Inline code](#inline-code).*
 
 ```
 [code]
@@ -187,7 +201,7 @@ The `[profile]` tag is used to link to a user's osu! profile page by using their
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
-If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
+When specifying users only by their user IDs, a placeholder text is required between the open and closed tags. Doing so will display the username on the actual page, not the placeholder text. When specifying users only by their username, the link will not function once they change their username.
 
 ### Formatted lists
 
@@ -199,13 +213,23 @@ If specified through their user ID, the text between the open and closed tags wi
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
 
-Other list styles can be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
+If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
 Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+
+### Email
+
+```
+[email=ADDRESS]text[/email]
+```
+
+The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+
+In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
 
 ### Images
 
@@ -219,9 +243,28 @@ The `[img]` tag is used to include online images into osu! forum posts. To use t
 
 In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
 
-Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [ImgBB](https://imgbb.com/), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+
+*Notice: Imgur has blocked the IPs of the osu! website, so new images hosted there can no longer be displayed.*[^imgur-blocked-ip]
 
 Toolbar button: ![Image button](img/image.png "Image")
+
+### Imagemap
+
+```
+[imagemap]
+IMAGE_URL
+X Y WIDTH HEIGHT REDIRECT TITLE
+[/imagemap]
+```
+
+The `[imagemap]` tag is used to integrate one or more hyperlinks into an image in rectangular areas.
+
+The image, which is embedded on the website, is represented by the `IMAGE_URL` argument. It needs to directly refer to an image hosted on a website.
+
+To add a clickable area, a new line containing the x and y position of the area, the width and the height of the area as well as a link to redirect to needs to be inserted after the `IMAGE_URL` argument. Additionally, an optional `TITLE` argument will be shown on hovering the area if it is specified. A link may be specified with the `REDIRECT` argument, or omitted with a `#`. Every size unit (`X`, `Y`, `WIDTH`, and `HEIGHT`) is a percentage (0–100) without a percent sign.
+
+Toolbar button: ![Imagemap button](img/imagemap.png "Imagemap")
 
 ### YouTube
 
@@ -302,3 +345,8 @@ The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums 
 - This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
+- Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
+
+## References
+
+[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)

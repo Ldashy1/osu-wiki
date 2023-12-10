@@ -1,24 +1,34 @@
 ---
-outdated_translation: true
+tags:
+  - kiai mode
+  - kiai section
+  - Kiai-Abschnitt
 ---
 
-# Kiai Time
+# Kiai-Zeit
 
-**Kiai Time** wird vom [Mapper](/wiki/Beatmapping) in der [Beatmap](/wiki/Beatmap) zwischen 2 [Timingsektionen](/wiki/Client/Beatmap_editor/Timing) definiert. Sie werden es durch die Sternenfontänen und an dem Geblinke auf Ihrem Bildschirm erkennen, danach werden alle [Hit Objekte](/wiki/Hit_object) im Rhythmus zum Hauptbeat anfangen zu blinken und Sterne werden aus Ihrem Cursor erscheinen, wenn Sie einen [Hit Circle](/wiki/Hit_object/Hit_circle) anklicken oder von Ihrem Cursor runterfallen, wenn Sie die Taste bei einem [Slider](/wiki/Hit_object/Slider) oder einem [Spinner](/wiki/Hit_object/Spinner) durchgehend gedrückt halten.
+*Für Regelungen zur Kiai-Zeit, siehe: [Ranking-Kriterien](/wiki/Ranking_criteria)*
 
-![Sternenfontänen erscheinen, wenn der Kiai Time beginnt.](img/Kiai_Time_test.jpg "Sternenfontänen erscheinen, wenn der Kiai Time beginnt.")
+::: Infobox
+![](img/kiai-time-osu-gameplay.png "Fontänen am Anfang des Kiai-Abschnitts einer osu!-Beatmap")
+:::
 
-![In der oberen linken Ecke erscheint der Kiai Time, wenn er aktiv ist.](img/Kiai_Time_edit.jpg "In der oberen linken Ecke erscheint der Kiai Time, wenn er aktiv ist.")
+::: Infobox
+![](img/kiai-time-taiko-gameplay.png "Kiai-Zeit in osu!taiko: begeisterte pippidon und ein violett gefärbtes Förderband")
+:::
 
-## Kiai Time beim Beatmapping
+**Kiai-Zeit** (oder *Kiai*) ist eine Reihe von markanten visuellen Effekten, die einen Teil einer [Beatmap](/wiki/Beatmap) betonen. Sie sind von Go-Go Time aus der Spiele-Reihe [Taiko no Tatsujin](https://de.wikipedia.org/wiki/Taiko_no_Tatsujin) inspiriert[^taiko-roots]. Kiai-Abschnitte werden durch sprühende Sternfontänen, vom Cursor herunterfallende Sterne und [Hit-Objekte](/wiki/Gameplay/Hit_object), die im Takt der  [BPM](/wiki/Music_theory/Tempo) aufleuchten, markiert. Ähnliche Effekte, wie beispielsweise häufiges seitliches Aufblitzen und Sternfontänen sind auch im [Hauptmenü](/wiki/Client/Interface#hauptmenü) sichtbar.
 
-Die übliche Definition für den Kiai Time, wenn sie Beatmaps [editieren](/wiki/Client/Beatmap_editor), ist die "stärkste Stelle des Liedes". Dies ist üblicherweise der Chorus, einige Lieder besitzen jedoch keinen Chorus, haben aber jedoch immernoch ausdrucksstarke Stellen im Lied, die für Sie für die Kiai Time-Sektionen infrage kommen. Beachten Sie jedoch, dass das Spammen von Sektionen, die einen Kiai Time einleiten, zu Spams aus Fontänen führt. Solche Maps sind nicht rankbar und werden von den meisten Spielern gehasst, da sie Lags verursachen können.
+Während die Kiai-Zeit keinen Einfluss auf die Spielmechanik von osu!, osu!catch oder osu!mania hat, bringt sie in [osu!taiko](/wiki/Game_mode/osu!taiko) 20 % mehr [Score](/wiki/Gameplay/Score).
 
-## Dinge, die Sie bei der Verwendung vom Kiai berücksichtigen sollten
+## Beatmapping
 
-1. Bei **[osu!taiko](/wiki/Game_mode/osu!taiko) Maps** geben die Kiai-Sektionen 20% mehr [Punkte](/wiki/Gameplay/Score). Wenn Sie also osu!taiko spezifische [Maps](/wiki/Beatmap) erstellen, sollten Sie berücksichtigen, dass der Kiai das Gameplay mitbeeinflusst.
-2. **Konsequent sein**; es ist nervig, wenn Sie 3 Kiai-Sektionen an verschienden Sektionen innerhalb einer [Schwierigkeitsstufe](/wiki/Client/Beatmap_editor/Song_Setup) definieren und sich alle voneinander soundtechnisch unterscheiden. Des Weiteren ist es für einen [Mapper](/wiki/Beatmapping) ratsam die Kiai Time-Sektionen bei allen eigenen Schwierigkeitsstufen zu vereinheitlichen.
-3. **Benutzen Sie keine weiße Combofarben** (255,255,255); dadurch wird der Spieler geblendet und dessen Augen stark beansprucht.
-4. Es ist normal, dass eine Kiai-Sektion im Vergleich zum Rest der Map schwieriger ist. Siehe Definiton vom Kiai Time.
-5. **Die Kiai Time-Sektionen in [Gast Schwierigkeitsstufen](/wiki/Beatmap/Guest_difficulty) können sich von den Schwierigkeitsstufen des Beatmaperstellers unterscheiden**. Dies ist des öfteren der Fall, da nicht jeder denkt, dass die eine Stelle am besten für den Kiai geeignet ist; nichts desto trotz sollte sie jedoch passend zur Map definiert werden.
-6. Colourhaxing ist dazu da, um dem Kiai durch den Set aus verschiedenen Combofarben einen gewissen Touch zu geben.
+::: Infobox
+![](img/kiai-time-editor.png "Kiai-Anzeige im Beatmap-Editor. Der Kiai-Abschnitt hat eine orange Farbe auf der unteren Zeitleiste")
+:::
+
+Kiai-Zeit wird häufig für den intensivsten Teil eines Songs verwendet, der normalerweise der Refrain ist. Da Kiai-Sektionen der ausdrucksstärkste Teil eines Songs sind, sind sie meistens etwas anspruchsvoller im Spielen als der Rest der Beatmap. Kiai-Zeit kann für bestimmte [Timing-Sektionen](/wiki/Client/Beatmap_editor/Timing) von einem Mapper im Tab `Style` des Panels `Timing and Control Points` eingeschaltet werden und kann nicht vom Spieler deaktiviert werden.
+
+## Referenzen
+
+[^taiko-roots]: [YouTube-Video von Dean Herbert "osu! "Kiai Time" preview"](https://www.youtube.com/watch?v=1iFHftUNMrE)

@@ -188,7 +188,7 @@ Notes:
 
 ## Mod icons
 
-*Main page: [Game Modifiers](/wiki/Game_modifier)*
+*Main page: [Game Modifiers](/wiki/Gameplay/Game_modifier)*
 
 ---
 
@@ -610,7 +610,7 @@ Notes:
 
 ## Offset wizard
 
-*Main page: [Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Main page: [Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 ---
 
@@ -717,7 +717,7 @@ Notes:
 Notes:
 
 - Used when playing with 4:3 storyboards on widescreen.
-- While beatmapping, disable `Widescreen support` in [song setup](/wiki/Client/Beatmap_editor/Song_Setup) for this to appear.
+- While beatmapping, disable `Widescreen support` in [song setup](/wiki/Client/Beatmap_editor/Song_setup) for this to appear.
 - This element is stretched to fit the needed area.
 - The right pillar is flipped horizontally.
 
@@ -1883,7 +1883,7 @@ Notes:
 
 Notes:
 
-- This element is used in [multi](/wiki/Gameplay/Multiplayer) only.
+- This element is used in [multi](/wiki/Client/Interface/Multiplayer) only.
 
 ## Score entry
 
@@ -2151,7 +2151,7 @@ Notes:
 Notes:
 
 - This element is used for the in-game leaderboards.
-- This element is used in [Multi](/wiki/Gameplay/Multiplayer) games when the win condition is set to Accuracy.
+- This element is used in [Multi](/wiki/Client/Interface/Multiplayer) games when the win condition is set to Accuracy.
 - Tinted white.
 
 ---

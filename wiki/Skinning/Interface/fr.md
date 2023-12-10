@@ -188,7 +188,7 @@ Notes :
 
 ## Icônes des mods
 
-*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*
+*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
 
 ---
 
@@ -611,7 +611,7 @@ Notes :
 
 ## Assistant de décalage
 
-*Page principale : [Assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Page principale : [Assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 ---
 
@@ -718,7 +718,7 @@ Notes :
 Notes :
 
 - Utilisé lors de l'utilisation de storyboards 4:3 sur écran large.
-- Pendant le beatmapping, désactivez le `support écran large` dans [song setup](/wiki/Client/Beatmap_editor/Song_Setup) pour que cela apparaisse.
+- Pendant le beatmapping, désactivez le `support écran large` dans [song setup](/wiki/Client/Beatmap_editor/Song_setup) pour que cela apparaisse.
 - Cet élément est étiré pour s'adapter à la surface nécessaire.
 - Le pilier droit est retourné à l'horizontale.
 
@@ -1884,7 +1884,7 @@ Notes :
 
 Notes :
 
-- Cet élément est utilisé uniquement en [multi](/wiki/Gameplay/Multiplayer).
+- Cet élément est utilisé uniquement en [multi](/wiki/Client/Interface/Multiplayer).
 
 ## Entrée du score
 
@@ -2152,7 +2152,7 @@ Notes :
 Notes :
 
 - Cet élément est utilisé pour les classements dans le jeu.
-- Cet élément est utilisé dans les parties [Multi](/wiki/Gameplay/Multiplayer) lorsque la condition de victoire est définie sur la précision.
+- Cet élément est utilisé dans les parties [Multi](/wiki/Client/Interface/Multiplayer) lorsque la condition de victoire est définie sur la précision.
 - Teinté en blanc.
 
 ---

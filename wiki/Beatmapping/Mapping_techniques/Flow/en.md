@@ -27,7 +27,7 @@ Linear movement may also be considered another form of smooth flow, albeit less 
 
 ### Repetition
 
-Another form of natural movement is repetition. Patterns with similar repeated movements that only differ slightly, such as back-and-forth [jumps](/wiki/Beatmap/Pattern/Jump) or a series of slider pairs, are comfortable to play due to subsequent movements following already familiar paths, making them easy to predict. Repeated patterns may become more and more comfortable throughout a map for the same reason.
+Another form of natural movement is repetition. Patterns with similar repeated movements that only differ slightly, such as back-and-forth [jumps](/wiki/Beatmap/Pattern/osu!/Jump) or a series of slider pairs, are comfortable to play due to subsequent movements following already familiar paths, making them easy to predict. Repeated patterns may become more and more comfortable throughout a map for the same reason.
 
 ### Visual implications
 
@@ -43,13 +43,10 @@ Due to the subjectivity of flow and the amount of possible cursor movement patte
 
 ## See also
 
-- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), a guide by ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
-- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), a news post by ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
-- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) and [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), episodes of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), a guide by ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000)
+- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), a news post by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005)
+- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) and [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), episodes of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 
 ## Notes
 
 [^circular-flow]: For players using a mouse, circular movement applied in the same direction for too long is viewed as both too repetitive and uncomfortable due to mouse drift<!-- TODO: link -->.
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -1,3 +1,10 @@
+---
+outdated_translation: true
+outdated_since: 9162ca37df646799d93a296e59d8afe9394a323b
+---
+
+<!--This needs a thorough review besides the changes from the wiki status page. There are several grammar and styling issues present (e.g. formal form).-->
+
 # Storyboard Scripting - allgemeine Regeln
 
 ![Ein Bespiel eines Skriptes im .osb.](img/SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
@@ -31,7 +38,7 @@
 
 ### Ebenen
 
-- Alle Storyboard Sprites werden unterhalb dem Skin und der [Hit Objekte](/wiki/Hit_object) platziert.
+- Alle Storyboard Sprites werden unterhalb dem Skin und der [Hit Objekte](/wiki/Gameplay/Hit_object) platziert.
   - Daher ist selbst die "höchste"(Foreground) Ebene im Storyboard immer noch niedriger als der Lebensbalken, die Circle/Slider/Spinner, der Cursor, etc.
 - Es gibt vier Storyboard Ebenen, die in steigender Reihenfolge an Priorität zunehmen:
   - Background
@@ -52,7 +59,7 @@
 
 Die Idee dahinter, weshalb ein Storyboard anstatt eines Videos benutzt werden sollte, liegt daran an **die Möglichkeit es nach Situation dynamisch ans Gameplay anzupassen**. osu! zeigt entweder nur die Pass oder die Fail Ebene an, welches von der Performance des Spielers abhängt. Diese Status werden daher auch als "Fail-Status" und als "Pass-Status" bezeichnet.
 
-Der Status **vor der ersten spielbaren Sequenz** (z. B. bevor der erste [Circle/Slider/Spinner](/wiki/Hit_object) erscheint)
+Der Status **vor der ersten spielbaren Sequenz** (z. B. bevor der erste [Circle/Slider/Spinner](/wiki/Gameplay/Hit_object) erscheint)
 
 - ist immer der Pass-Status. Die Fail Ebene wird daher nie angezeigt. Es wird empfohlen weder die Pass Ebene, noch die Fail Ebene an diesem Punkt zu verwenden, da man nicht wirklich vom "passen" oder "failen sprechen kann.
 

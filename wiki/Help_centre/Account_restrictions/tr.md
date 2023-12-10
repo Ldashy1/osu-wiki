@@ -18,14 +18,14 @@ Aşağıdaki özellikler kısıtlanmış hesaplar için devre dışıdır:
 - forum konularına ya da yorum kısımlarına mesaj gönderme
 - beatmap karşıya yükleme veya güncelleme
 - profil detaylarını güncelleme
-- mağaza satın alımları 
+- mağaza satın alımları
 
-## Hesabım kısıtlandı! Ne yapacağım? {#what}
+## Hesabım kısıtlandı! Ne yapacağım? {id=what}
 
 Eğer hesabınız kısıtlandıysa, panik yapmayın. Lütfen bu adımları izleyin:
 
 - **24 saat bekleyin.** Bazı kısıtlamalar otomatik sürecin sonucudur. Biz bu kısıtlamaları her gün kontrol ederken, lütfen 24 saat bekleyin - eğer kısıtlamanız hatalıysa belirtilen süre içinde kalkacaktır.
-- **[Hesap destek ekibimizle](/wiki/People/The_Team/Account_support_team) iletişime geçin.** Eğer hesabınız belirtilen süreden sonra kısıtlı kalırsa, lütfen kısıtlamanızla ilgili detayları sormak için **hesabınıza bağlı e-postadan** [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine bir e-posta gönderin. Kullanıcı adınızı, hesabınızın kısıtlanmasına neden olduğunu düşündüğünüz detaylar ile birlikte eklediğinizden emin olun. Bize ne kadar çok anlatırsanız, sorunu sonuçlandırmamız o kadar kolay olur.
+- **[Hesap destek ekibimizle](/wiki/People/Account_support_team) iletişime geçin.** Eğer hesabınız belirtilen süreden sonra kısıtlı kalırsa, lütfen kısıtlamanızla ilgili detayları sormak için **hesabınıza bağlı e-postadan** [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine bir e-posta gönderin. Kullanıcı adınızı, hesabınızın kısıtlanmasına neden olduğunu düşündüğünüz detaylar ile birlikte eklediğinizden emin olun. Bize ne kadar çok anlatırsanız, sorunu sonuçlandırmamız o kadar kolay olur.
 - Eğer kısıtlanmanızın hatalı olduğundan son derece eminseniz, hemen bize ulaşın ki sorununuzu görüşebilelim.
 
 Eğer hesabınız [kuralları](/wiki/Rules) çiğnediği için kısıtlandıysa, itiraz göndermenize izin verilmeden önce üç aylık katı bir bekleme süresi uygulanacaktır.
@@ -34,7 +34,7 @@ Eğer orijinal hesabınız kısıtlanmadıysa, ona giriş yapıp normal bir şek
 
 Eğer yakın zamanda itirazınız kabul edilmişse ve oynadıktan sonra hesabınız yeniden kısıtlanırsa, panik yapmayın! Otomatik sistemler hesabınızı hatalı bir şekilde işaretlemiş olabilir, ama olay bundan ibaretse 24 saat içinde kısıtlamanız kalkar. Dikkatimizi yakalamanız ve kısıtlamanızın daha hızlı kalkması için bize bir e-posta göndermekten veya tweet atmaktan çekinmeyin!
 
-## Neden kısıtlandım? {#why}
+## Neden kısıtlandım? {id=why}
 
 Hesabınızın kısıtlanmasına yok açabilecek birtakım neden var.
 
@@ -45,7 +45,7 @@ Hesabınızın kısıtlanmasına yok açabilecek birtakım neden var.
 
 Eğer bir hesap haklı yere kısıtlanmışsa, kullanıcının itirazını göndermeden önce bir süre beklemesini isteyeceğiz. Buna *bekleme süresi* denir, ve süresi suçun türüne bağlı olarak değişir.
 
-## İtirazımı göndermeden önce bekleme süresinde ne yapacağım? {#while-on-cooldown}
+## İtirazımı göndermeden önce bekleme süresinde ne yapacağım? {id=while-on-cooldown}
 
 - **Oyunun tadını çıkartmaya devam edin!** Hesabınız kısıtlıyken ve siz de bekleme süresindeyken, oyunu oynamaya devam edebilirsiniz (orijinal hesabınızda oynadığınız sürece!). Kısıtlıyken else ettiğiniz skorlar gönderilecektir, ve hesabınız geri çekilmediği sürece, kısıtlamanız kalktığında aynen kalacaktır.
 - **İyi davranışınızı sürdürün.** Kısıtlı olmanın ne kadar can sıkıcı olduğunu anlıyoruz, ama bunu topluluktan uzakta biraz zaman geçirmek için bir şans olarak düşünün. Hesabınızın kısıtlanmasına ve bekleme süresine girmesine sebep olmuş olabilecek nedenleri düşünmek için en azından birkaç günlüğüne toplulukla etkileşimden kaçınmaya çalışın (gerek Discord, gerek sosyal medya, gerek başka iletişim yolları olsun).
@@ -53,7 +53,7 @@ Eğer bir hesap haklı yere kısıtlanmışsa, kullanıcının itirazını gönd
 - **Destek ekibinin talimatlarına uyun.** Üç aylık bekleme süresi sizin mola vermeniz ve olumlu davranışlar yansıtmanız için bir şanstır. Eğer bekleme süreniz bitmeden önce bir itiraz göndermeye çalışırsanız, e-postalarınız görmezden gelinir. Eğer bekleme sürenizin ne zaman biteceğinden, ne zaman itiraz edebileceğinizden, ya da hangi hesabınızda oynayabileceğinizden (ve hangisinden itiraz edeceğinizden) emin değilseniz, sormak için bize e-posta göndermekte özgürsünüz.
 - **Bir sorunuz varsa bize ulaşmaktan çekinmeyin.** Cezayı atlatmaya çalışmadığınız sürece, hesabınızın kısıtlaması hakkındaki her türlü soruyu mutlulukla cevaplarız!
 
-## Bekleme sürem geçti. Nasıl itiraz edebilirim? {#appeal}
+## Bekleme sürem geçti. Nasıl itiraz edebilirim? {id=appeal}
 
 [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine hesabınızın adını içerecek şekilde bir e-posta göndererek itiraz edebilirsiniz. Hesabınızın ilişkili olduğu e-posta adresinden gönderdiğinizden emin olun. İtirazınızı gönderdikten sonra, bir hafta içinde cevap bekleyin. Eğer bu süre içerisinde bir yanıt alamazsanız, lütfen bize twitter ya da e-posta yoluyla ulaşın - bir ihtimal iletilmemiş olabilir.
 
@@ -64,7 +64,7 @@ Eğer bir hesap haklı yere kısıtlanmışsa, kullanıcının itirazını gönd
 - **Bunları yapmak için gerekli araçları nasıl edindiğinizi.** Bu çoğunlukla hile için geçerlidir - kullandığınız aracı nereden bulduğunuz, onunla nasıl karşılaştığınız, ve onun bilgisayarınızda hala bulunup bulunmadığını bilmek istiyoruz.
 - **Size geri izin vermemizin nedeni.** Bu, çoğunlukla ikinci maddeyle bağlantılı olur. Sadece kuralları bir daha çiğnemeyeceğinizden emin olmak istiyoruz! Hesabınızın geçmişinde ne kadar çok kural ihlali varsa, itirazınızın bu bölümünde o kadar çok şey bekleyeceğimizi lütfen anlayın.
 
-## İtirazım kabul edilirse ne olur? {#appeal-granted}
+## İtirazım kabul edilirse ne olur? {id=appeal-granted}
 
 Eğer geri dönmenize izin vermişsek, hesabınızın kısıtlaması kalkmadan önce bazı şartları kabul etmenizi talep edeceğiz.
 
@@ -72,8 +72,6 @@ Eğer geri dönmenize izin vermişsek, hesabınızın kısıtlaması kalkmadan �
 - **Kendiniz veya başkası için başka bir hesap oluşturmayacaksınız.**
 - Paylaşılan bilgisayarlarda oynamak dahil, **başka hesaplarla bağlantınız olmamalı**.
 - **Herhangi bir ciddi olumsuz davranış derhal kısıtlamaya neden olacaktır**. Bu uzun susturulmaları da kapsar.
-
-Buna ek olarak, bir sene boyunca, hesabınız için hiçbir bayrak değişikliği yapmayacağız.
 
 Bazı durumlarda, itirazı kabul edilen kişinin resmi ve rozetli turnuvalara hem yarışmacı olarak hem de turnuva ekibinin bir üyesi olarak katılması yasaklanabilir. Bu yasağın süresi suç başına 1 yıldır (eğer kullanıcının ikinci itirazıysa, yasağın süresi 2 yıldır). Kısıtlamanın kalktığına dair e-posta bu yasaklamanın süresini net şekilde belirtir.
 
@@ -83,7 +81,7 @@ Bazı oyuncular itirazları kabul edildikten sonra oynamaya başladıklarında t
 
 Bazı suçlar, kısıtlamanızın kalkmasıyla birlikte hesabınızdaki bazı değişikliklerin kaldırılmasına sebep olur. Bunlar hesabınızdaki **tüm modlar üzerinden** gönderilmiş olan gayrimeşru skorları, aynı zamanda haksız yere kazanılan madalya ve profil rozetlerini, silmeyi amaçlamaktadır. **Oynama sayısı ve oynama süresinde bir değişiklik yapılmayacaktır.**
 
-## İtirazım reddedildi! {#appeal-denied}
+## İtirazım reddedildi! {id=appeal-denied}
 
 İtirazınızın reddedilmesine sebep olabilecek birtakım nedenler var.
 
@@ -93,7 +91,7 @@ Bazı suçlar, kısıtlamanızın kalkmasıyla birlikte hesabınızdaki bazı de
 - **Kısıtlıyken suç işlemeye devam ediyorsunuzdur.** Kısıtlandıktan sonra bile kuralları çiğnemeye devam eden kişilerin kısıtlamasını kaldırmanın hiçbir anlamı yok. Eğer suç işlemeye devam ederseniz, işlediğiniz son suçun tarihinden itibaren bekleme süreniz sıfırlanır. Aşırı ya da sık suç işleme söz konusu olduğunda, itirazınız kalıcı olarak reddedilebilir.
 - **Hesap geçmişiniz çok kötüdür.** Suç geçmişi kabarık olan, ya da itirazı kabul edilip kısıtlaması kaldırıldıktan sonra yine kısıtlanan kullanıcılar olduğu durumlarda basitçe geçmişinizin oyuna şu anda yeniden katılamayacak kadar kötü olduğunu söyleyebiliriz. Eğer başınıza gelirse, tekrar itiraz etmeden önce **çok uzun bir zaman** beklemenizi, ve bu süre içerisinde kuralları daha fazla çiğnemediğinizden emin olmanızı öneririz.
 
-## E-postalarım görmezden geliniyor / İtirazımın adil bir şekilde ele alındığını düşünmüyorum {#appeal-review}
+## E-postalarım görmezden geliniyor / İtirazımın adil bir şekilde ele alındığını düşünmüyorum {id=appeal-review}
 
 E-postalarınızın destek ekibimiz tarafından düzgün bir şekilde okunmadığını veya ele alınmadığını düşünüyorsanız, lütfen bize [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) adresinden aşağıdaki bilgileri barındıran bir e-posta gönderin:
 
@@ -108,7 +106,7 @@ Bu adrese bir e-posta göndermenin, itirazınıza yalnızca ikinci bir bakış/i
 
 **İtiraz inceleme/soruşturma taleplerini yalnızca [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) adresine gönderilen e-postalar yoluyla yanıtlayacağız.** Lütfen bu süreci atlatmak için osu! ekip üyeleriyle (veya gönüllü ekiplerin üyeleriyle) Twitter, Discord veya başka bir platform aracılığıyla iletişime geçmeye çalışmayın - size yardımcı olamazlar.
 
-## Yaygın kısıtlama nedenleri ve bekleme süreleri {#reasons}
+## Yaygın kısıtlama nedenleri ve bekleme süreleri {id=reasons}
 
 | Kısıtlama nedeni | Bekleme süresi | İtiraz notları |
 | :-- | :-- | :-- |

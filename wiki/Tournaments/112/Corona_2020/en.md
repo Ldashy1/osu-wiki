@@ -9,7 +9,7 @@ tags:
 
 ![112CT logo](img/banner.png)
 
-The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth instalment of 112's Tournaments series.
+The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470) and ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -35,13 +35,13 @@ The 112's Corona Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Mappool selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535) |
-| Referee | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [Hazar](https://osu.ppy.sh/users/6364554), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852), ![][flag_DE] [takoz53](https://osu.ppy.sh/users/2214428), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514), ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) |
-| Streamer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) |
-| Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107) |
-| Designer | ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Wiki editor | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| Organizer | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Mappool selector | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311), ::{ flag=NL }:: [iepie122](https://osu.ppy.sh/users/12235433), ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859), ::{ flag=CA }:: [Sansnaka](https://osu.ppy.sh/users/5543535) |
+| Referee | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311), ::{ flag=TR }:: [Hazar](https://osu.ppy.sh/users/6364554), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=NL }:: [goeo_](https://osu.ppy.sh/users/6832107), ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026), ::{ flag=TR }:: [ozge1907](https://osu.ppy.sh/users/6511453), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852), ::{ flag=DE }:: [takoz53](https://osu.ppy.sh/users/2214428), ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514), ::{ flag=TR }:: [We0l](https://osu.ppy.sh/users/13196066) |
+| Streamer | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [HakoFixed](https://osu.ppy.sh/users/7188447) |
+| Commentator | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859), ::{ flag=NL }:: [goeo_](https://osu.ppy.sh/users/6832107) |
+| Designer | ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Wiki editor | ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) |
 
 ## Links
 
@@ -54,36 +54,36 @@ The 112's Corona Tournament was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| .\`\*\*HIDDEN\*\*\`. | ![][flag_TR] [Kizu](https://osu.ppy.sh/users/12940938), ![][flag_TR] [Shinkir0](https://osu.ppy.sh/users/6093148) |
-| ( ͡° ͜ʖ ͡°) | ![][flag_TR] [robertvarne](https://osu.ppy.sh/users/11913835), ![][flag_BE] [iblue](https://osu.ppy.sh/users/9184180) |
-| 1.yiz kasmayın | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [NamDeer](https://osu.ppy.sh/users/10389841) |
-| 1deag | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) |
-| ali vefa fanclub | ![][flag_TR] [Mr\_Ege](https://osu.ppy.sh/users/9542170), ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401) |
-| ataturj | ![][flag_TR] [Rexin](https://osu.ppy.sh/users/7953720), ![][flag_TR] [He is Batuhan](https://osu.ppy.sh/users/4939723) |
-| Bakamitai | ![][flag_TR] [JustBurak](https://osu.ppy.sh/users/4939723), ![][flag_LT] [mamakatas](https://osu.ppy.sh/users/7011187) |
-| bucocukamerikalı | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [huckmen444](https://osu.ppy.sh/users/5019334) |
-| busu | ![][flag_TR] [MFaik](https://osu.ppy.sh/users/11199222), ![][flag_TR] [Berkk](https://osu.ppy.sh/users/16298931) |
-| deneme | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537), ![][flag_TR] [haygiya](https://osu.ppy.sh/users/11604012) |
-| Easy Bots | ![][flag_TR] [MouseControlV2](https://osu.ppy.sh/users/10307622), ![][flag_TR] [kanna\_kamuisan](https://osu.ppy.sh/users/14728608) |
-| EkmekKırıntısı | ![][flag_TR] [velihan33](https://osu.ppy.sh/users/14181899), ![][flag_US] [Avora](https://osu.ppy.sh/users/8986927) |
-| Gaz Treni | ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [SnowLyRain](https://osu.ppy.sh/users/12489717) |
-| harumachi clover | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690), ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) |
-| i may be stupid | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528), ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| isim bulamadık | ![][flag_TR] [\[-Shadowa-\]](https://osu.ppy.sh/users/1313327), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) |
-| K G O O | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ![][flag_TR] [roseacti](https://osu.ppy.sh/users/10518505) |
-| kartal.network | ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [Cyberia950](https://osu.ppy.sh/users/9143539) |
-| kms | ![][flag_TR] [Yoani](https://osu.ppy.sh/users/10660282), ![][flag_TR] [mirayno](https://osu.ppy.sh/users/11593174) |
-| Mağdurlar | ![][flag_TR] [star1322](https://osu.ppy.sh/users/8128670), ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) |
-| nE | ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407), ![][flag_TR] [emptypudding](https://osu.ppy.sh/users/11003085) |
-| NEŞESİNE YAŞAM | ![][flag_TR] [egemenbsrms](https://osu.ppy.sh/users/4520477), ![][flag_TR] [aimlessplayr](https://osu.ppy.sh/users/4903088) |
-| NM | ![][flag_TR] [Koqla](https://osu.ppy.sh/users/12817802), ![][flag_DE] [Skellexon](https://osu.ppy.sh/users/11268328) |
-| Plz Enjoy Chiaki | ![][flag_TR] [Plz Enjoy RSI](https://osu.ppy.sh/users/8365050), ![][flag_TR] [Chiaki Nanami-](https://osu.ppy.sh/users/8588336) |
-| SARS-CoV-3 | ![][flag_TR] [Chickes](https://osu.ppy.sh/users/5341891), ![][flag_TR] [AuroraSolaris](https://osu.ppy.sh/users/9319605) |
-| Team Big Chungus  | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026) |
-| Traps Not Gay V2 | ![][flag_TR] [CutieDemon](https://osu.ppy.sh/users/6440158), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) |
-| uwu | ![][flag_TR] [-Miia-](https://osu.ppy.sh/users/8543307), ![][flag_TR] [-Satella-](https://osu.ppy.sh/users/4890227) |
-| Zurna | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333) |
-| ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽ | ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453) |
+| .\`\*\*HIDDEN\*\*\`. | ::{ flag=TR }:: [Kizu](https://osu.ppy.sh/users/12940938), ::{ flag=TR }:: [Shinkir0](https://osu.ppy.sh/users/6093148) |
+| ( ͡° ͜ʖ ͡°) | ::{ flag=TR }:: [robertvarne](https://osu.ppy.sh/users/11913835), ::{ flag=BE }:: [iblue](https://osu.ppy.sh/users/9184180) |
+| 1.yiz kasmayın | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [NamDeer](https://osu.ppy.sh/users/10389841) |
+| 1deag | ::{ flag=TR }:: [edizberkserbest](https://osu.ppy.sh/users/9256771), ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) |
+| ali vefa fanclub | ::{ flag=TR }:: [Mr\_Ege](https://osu.ppy.sh/users/9542170), ::{ flag=TR }:: [-Kemsyt](https://osu.ppy.sh/users/3170401) |
+| ataturj | ::{ flag=TR }:: [Rexin](https://osu.ppy.sh/users/7953720), ::{ flag=TR }:: [He is Batuhan](https://osu.ppy.sh/users/4939723) |
+| Bakamitai | ::{ flag=TR }:: [JustBurak](https://osu.ppy.sh/users/4939723), ::{ flag=LT }:: [mamakatas](https://osu.ppy.sh/users/7011187) |
+| bucocukamerikalı | ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027), ::{ flag=TR }:: [huckmen444](https://osu.ppy.sh/users/5019334) |
+| busu | ::{ flag=TR }:: [MFaik](https://osu.ppy.sh/users/11199222), ::{ flag=TR }:: [Berkk](https://osu.ppy.sh/users/16298931) |
+| deneme | ::{ flag=TR }:: [nitromehmet](https://osu.ppy.sh/users/9909537), ::{ flag=TR }:: [haygiya](https://osu.ppy.sh/users/11604012) |
+| Easy Bots | ::{ flag=TR }:: [MouseControlV2](https://osu.ppy.sh/users/10307622), ::{ flag=TR }:: [kanna\_kamuisan](https://osu.ppy.sh/users/14728608) |
+| EkmekKırıntısı | ::{ flag=TR }:: [velihan33](https://osu.ppy.sh/users/14181899), ::{ flag=US }:: [Avora](https://osu.ppy.sh/users/8986927) |
+| Gaz Treni | ::{ flag=TR }:: [Lxran](https://osu.ppy.sh/users/3651081), ::{ flag=TR }:: [SnowLyRain](https://osu.ppy.sh/users/12489717) |
+| harumachi clover | ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690), ::{ flag=TR }:: [empirasu](https://osu.ppy.sh/users/12500084) |
+| i may be stupid | ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [Tsuda-](https://osu.ppy.sh/users/6713666) |
+| isim bulamadık | ::{ flag=TR }:: [\[-Shadowa-\]](https://osu.ppy.sh/users/1313327), ::{ flag=TR }:: [sentez](https://osu.ppy.sh/users/8816305) |
+| K G O O | ::{ flag=TR }:: [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ::{ flag=TR }:: [roseacti](https://osu.ppy.sh/users/10518505) |
+| kartal.network | ::{ flag=NL }:: [goeo_](https://osu.ppy.sh/users/6832107), ::{ flag=TR }:: [Cyberia950](https://osu.ppy.sh/users/9143539) |
+| kms | ::{ flag=TR }:: [Yoani](https://osu.ppy.sh/users/10660282), ::{ flag=TR }:: [mirayno](https://osu.ppy.sh/users/11593174) |
+| Mağdurlar | ::{ flag=TR }:: [star1322](https://osu.ppy.sh/users/8128670), ::{ flag=TR }:: [We0l](https://osu.ppy.sh/users/13196066) |
+| nE | ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=TR }:: [emptypudding](https://osu.ppy.sh/users/11003085) |
+| NEŞESİNE YAŞAM | ::{ flag=TR }:: [egemenbsrms](https://osu.ppy.sh/users/4520477), ::{ flag=TR }:: [aimlessplayr](https://osu.ppy.sh/users/4903088) |
+| NM | ::{ flag=TR }:: [Koqla](https://osu.ppy.sh/users/12817802), ::{ flag=DE }:: [Skellexon](https://osu.ppy.sh/users/11268328) |
+| Plz Enjoy Chiaki | ::{ flag=TR }:: [Plz Enjoy RSI](https://osu.ppy.sh/users/8365050), ::{ flag=TR }:: [Chiaki Nanami-](https://osu.ppy.sh/users/8588336) |
+| SARS-CoV-3 | ::{ flag=TR }:: [Chickes](https://osu.ppy.sh/users/5341891), ::{ flag=TR }:: [AuroraSolaris](https://osu.ppy.sh/users/9319605) |
+| Team Big Chungus  | ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849), ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) |
+| Traps Not Gay V2 | ::{ flag=TR }:: [CutieDemon](https://osu.ppy.sh/users/6440158), ::{ flag=TR }:: [HakoFixed](https://osu.ppy.sh/users/7188447) |
+| uwu | ::{ flag=TR }:: [-Miia-](https://osu.ppy.sh/users/8543307), ::{ flag=TR }:: [-Satella-](https://osu.ppy.sh/users/4890227) |
+| Zurna | ::{ flag=TR }:: [Mikatsu](https://osu.ppy.sh/users/6612642), ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333) |
+| ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽ | ::{ flag=TR }:: [Ekin](https://osu.ppy.sh/users/2947405), ::{ flag=TR }:: [ozge1907](https://osu.ppy.sh/users/6511453) |
 
 ## Podium
 
@@ -360,10 +360,10 @@ Monday, 27 April 2020:
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 7. Match schedule will be decided by tournament staff.
 8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
-   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.  
+   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
    - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 9. Beatmaps cannot be reused in the same match.
-10. All players are supposed to be ready on time for the match. For the teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**        
+10. All players are supposed to be ready on time for the match. For the teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
     - If both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
 11. If one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing a player.
 12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
@@ -382,18 +382,18 @@ Monday, 27 April 2020:
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 9 maps. There will be 3 maps under the NoMod bracket and 2 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **twice** at a designated time. Placement results will be calculated according to their best combined scores.
 6. Players will have the option to choose the multiplayer room they wish to play. If a room happens to be too empty, remaining players will be navigated to the other rooms.
 7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others are at.
 8. If no players will join the room, the match will be aborted. No points will be awarded to the absent players.
-9. First 16 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
+9. First 16 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated.
 10. During the Double Elimination stages, the winner moves to the next stage and the losing team gets moved to the Losers bracket.
 11. **Winning conditions:**
-    - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).        
-    - The Semifinals and Finals will be best of 11 (first team to 6 wins).        
+    - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).
+    - The Semifinals and Finals will be best of 11 (first team to 6 wins).
     - The Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match instructions
@@ -402,7 +402,7 @@ Monday, 27 April 2020:
    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each team must use `!roll` once in `#multiplayer`.
-   - The team with the higher roll **picks** first.       
+   - The team with the higher roll **picks** first.
    - The team with the lower roll **bans** first.
    - Each team will be given 2 minutes to decide upon picks or bans. If first team fails to provide an answer, other team takes the turn.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
@@ -417,7 +417,7 @@ Monday, 27 April 2020:
 
 1. There will be a new mappool for every stage.
    - Only Finals and Grand Finals will share the same pool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - The Round of 16 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
@@ -436,12 +436,4 @@ Monday, 27 April 2020:
 2. Matches will be scheduled and announced according to the Turkey Time (UTC+3).
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 4. Reschedules will only be considered if both players/teams agree to a time at least 4 hours before the first match in that particular stage.
-5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.

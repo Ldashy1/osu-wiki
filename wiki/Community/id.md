@@ -6,7 +6,8 @@ Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang 
 
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+- [Server Discord komunitas](/wiki/Community/Discord_servers)
+- [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 - [Organisasi](/wiki/Community/Organisations)
 
 ## Proyek
@@ -16,6 +17,7 @@ Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
+- [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 
 ## Inisiatif

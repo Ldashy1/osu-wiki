@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a58b8d820cdc30b89ea9c94331df24e523ce7f95
+---
+
 # Voulez-vous vraiment demander à peppy ?
 
 Bonjour ! peppy comprend votre envie de le contacter personnellement, mais il vous demande d'abord de comprendre que ce n'est **pas** l'endroit où vous pouvez lui demander de l'aide ou du soutien. Il sépare le support d'osu! des messages personnels et trouve qu'il est difficile de répondre aux MP du forum. Il vous demande donc de choisir l'une des options suivantes :
@@ -8,7 +13,7 @@ La plupart des problèmes techniques peuvent être résolus en effectuant une re
 
 ## Support général d'osu!
 
-Pour les questions relatives aux comptes, les problèmes de paiement, le suivi des bannissements, les demandes de renseignements sur les tournois et **tout ce qui concerne les besoins d'aide sur osu!**, veuillez contacter l'[équipe de support des comptes](/wiki/People/The_Team/Account_support_team) en envoyant un courriel à [accounts@ppy.sh](mailto:accounts@ppy.sh) (questions relatives aux comptes) ou [osu@ppy.sh](mailto:osu@ppy.sh) (tout autre sujet).
+Pour les questions relatives aux comptes, les problèmes de paiement, le suivi des bannissements, les demandes de renseignements sur les tournois et **tout ce qui concerne les besoins d'aide sur osu!**, veuillez contacter l'[équipe de support des comptes](/wiki/People/Account_support_team) en envoyant un courriel à [accounts@ppy.sh](mailto:accounts@ppy.sh) (questions relatives aux comptes) ou [osu@ppy.sh](mailto:osu@ppy.sh) (tout autre sujet).
 
 ## Contacter peppy
 

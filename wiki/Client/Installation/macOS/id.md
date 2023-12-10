@@ -13,7 +13,7 @@ osu! versi macOS pada umumnya belum stabil dan memiliki bug-bug tertentu yang ti
 1. Tuju [laman unduhan Wineskin berikut](https://osu.ppy.sh/community/forums/topics/1106057) dan unduh Wineskin versi terbaru yang tersedia.
 2. Perbaiki berkas `osu!.app` yang ada dengan aplikasi osu!macOS Agent yang dapat kamu unduh pada [tautan berikut](https://osu.ppy.sh/community/forums/topics/1036678). Kamu juga dapat memperbaiki berkas `osu!.app` melalui Terminal sebagai berikut:
    1. Pindahkan berkas `osu!.app` ke desktop.
-   2. Buka Terminal dan salin/ketik perintah berikut pada layar Terminal yang muncul: `xattr -c 'Desktop/osu!.app'`. Apabila sudah, tekan tombol `Return`.  
+   2. Buka Terminal dan salin/ketik perintah berikut pada layar Terminal yang muncul: `xattr -c 'Desktop/osu!.app'`. Apabila sudah, tekan tombol `Return`.
 3. Jalankan aplikasi `osu!.app`.
 4. Proses instalasi akan berlangsung secara otomatis. Tidak seperti osu! versi Windows, kamu tidak dapat mengubah lokasi pemasangan osu!. Seluruh berkas-berkas permainan, termasuk [beatmap-beatmap](/wiki/Beatmap) and [skin-skin](/wiki/Skin) yang kamu miliki, akan tertanam di dalam berkas `osu.app` tersebut. Untuk dapat melihat berkas-berkas permainan yang ada, klik kanan `osu!.app` dan pilih `Show Package Contents`.
 5. Setelah osu! berhasil terpasang, osu! akan terbuka secara otomatis. osu!direct akan kemudian mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
@@ -33,7 +33,7 @@ Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti lan
 
 ## osu!(lazer)
 
-[osu!(lazer)](https://github.com/ppy/osu) merupakan versi osu! mutakhir yang nantinya akan menggantikan versi osu! yang saat ini dipergunakan secara luas. Walaupun saat ini osu!(lazer) belum memberikan [performance point](/wiki/Performance_points) apapun, osu!(lazer) memiliki banyak fitur menarik yang tentunya sayang untuk dilewatkan. Untuk dapat memasang osu!(lazer) pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan versi osu! mutakhir yang nantinya akan menggantikan versi osu! yang saat ini dipergunakan secara luas. Walaupun saat ini osu!(lazer) belum memberikan [performance point](/wiki/Performance_points) apapun, osu!(lazer) memiliki banyak fitur menarik yang tentunya sayang untuk dilewatkan. Untuk dapat memasang osu!(lazer) pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
 
 1. Tuju [laman unduhan osu!(lazer) berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
 2. Ekstrak berkas tersebut dan jalankan osu! melalui menu `Open`.

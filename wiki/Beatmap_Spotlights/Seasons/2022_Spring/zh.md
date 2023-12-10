@@ -24,13 +24,13 @@ tags:
 
 ## 每周多人游戏大厅
 
-目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
+目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)。
 
-1. 赛季每 2 周将开放一个课题模式大厅，每大厅在整个开放期间都可参加。
-   - 在第一轮课题结束后，每周将重新开放一个课题。
+1. 赛季每 2 周将开放一个课题模式大厅，每个大厅在其开放期间都可参加。
+   - 在第一轮课题结束后，频率降低为每 1 周复刻一个课题。
 2. 每个大厅会提供一个提前准备好的课题。
    - 每个课题内所包含的 Hard，Insane 和 Expert 难度均匀分布。
-   - 每个课题与每两周分配的字母相对应。每个课题会在下个周期复刻一次。
+   - 每个课题均与一个字母相对应。意味着课题会在赛季内复刻一次。
 3. 在课题模式大厅中，每个人都可以争夺特定大厅的排行榜。
    - 只有最佳成绩会被计入排行榜当中，排行榜分数为大厅所有谱面分数的总和。
    - 课题中所有谱面均计入排行榜。
@@ -65,7 +65,7 @@ tags:
 - [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/2219980)，由 [Zelq](https://osu.ppy.sh/users/8953955) 推荐
 - [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (Yusomi) \[Yusomi's ULTRA\]](https://osu.ppy.sh/beatmapsets/1197597#osu/2880023)，由 [Omgforz](https://osu.ppy.sh/users/578943) 推荐
 
-#### 歌单 C
+#### 课题 C
 
 - [Hiina - Aishite (ktgster) \[Hard\]](https://osu.ppy.sh/beatmapsets/1564795#osu/3223628)，由 [ChillierPear](https://osu.ppy.sh/users/9501251) 推荐
 - [Harumaki Gohan - Saikai (AirinCat) \[Hard\]](https://osu.ppy.sh/beatmapsets/1602654#osu/3435622)，由 [Zelq](https://osu.ppy.sh/users/8953955) 推荐
@@ -103,7 +103,7 @@ tags:
 - [LeaF - Ka (Eyenine) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1530955#taiko/3211235)，由 [Nifty](https://osu.ppy.sh/users/4956097) 推荐
 - [NIWASHI - Sapphire On Fire (Axer) \[Axer's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1698611#taiko/3471382)，由 [\[Zeth\]](https://osu.ppy.sh/users/9912966) 推荐
 
-#### 歌单 C
+#### 课题 C
 
 - [THE ORAL CIGARETTES - 5150 (KyeX) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1587293#taiko/3268021)，由 [\[Zeth\]](https://osu.ppy.sh/users/9912966) 推荐
 - [METAROOM - I - DINKI THE STARGUIDE (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1622545#taiko/3312890)，由 [Hivie](https://osu.ppy.sh/users/14102976) 推荐
@@ -141,7 +141,7 @@ tags:
 - [Selphius - Los! Los! Los! (Crowley) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/1018035#fruits/2131166)，由 [SadEgg](https://osu.ppy.sh/users/10278243) 推荐
 - [yozuca\* - LOVING TRIP (-Luminate) \[Delightful\]](https://osu.ppy.sh/beatmapsets/1080025#fruits/2259596)，由 [SadEgg](https://osu.ppy.sh/users/10278243) 推荐
 
-#### 歌单 C
+#### 课题 C
 
 - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - oni (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/1560338#fruits/3186912)，由 [wonjae](https://osu.ppy.sh/users/5032045) 推荐
 - [HyuN feat. YURI - Disorder (Myxo) \[Myxo's Platter\]](https://osu.ppy.sh/beatmapsets/1636276#fruits/3424915)，由 [Snowless](https://osu.ppy.sh/users/4316266) 推荐
@@ -179,7 +179,7 @@ tags:
 - [F-777 - Airborne Robots (Curiossity) \[\[4K\] AIRBORNE\]](https://osu.ppy.sh/beatmapsets/473736#mania/1403050)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [t+pazolite - Shiny Kung-fu Revival (Critical\_Star) \[\[4K\] CS' Master\]](https://osu.ppy.sh/beatmapsets/1128753#mania/2358149)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 
-#### 歌单 C
+#### 课题 C
 
 - [Silentroom - NULCTRL EX (AHHHHHHHHHHHHHH) \[\[4K\] Hard\]](https://osu.ppy.sh/beatmapsets/1128596#mania/2422800)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [Nanahira - Monosugoi Ikioi de Keine ga Monosugoi Uta (keksikosu) \[\[4K\] Hard\]](https://osu.ppy.sh/beatmapsets/1656541#mania/3381248)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐

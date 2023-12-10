@@ -11,7 +11,7 @@ outdated_since: fd12864fe0d9d5c4e43f09e681be0c1ad040e200
 
 ![TWC 2021 标志](/wiki/shared/news/banners/TWC_2021.jpg)
 
-**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
+**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/osu!_team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 12 日 21:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
 
@@ -46,56 +46,56 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |
-| 比赛管理 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 图池管理 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107) |
-| 解说 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
-| 裁判 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| 统计员 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| 比赛管理 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| 图池管理 | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107) |
+| 解说 | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=US }:: [Ethaaaan](https://osu.ppy.sh/users/9536977), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=US }:: [Mister Boo](https://osu.ppy.sh/users/2598555), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
+| 裁判 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| 统计员 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1241159)
 - [Twitch 直播间](https://www.twitch.tv/osulive)
 - [Challonge 对阵表](https://challonge.com/TWC_2021)
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53)
+- 由 ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53)
 - **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml)**
 
 ## 参赛选手
 
 |  | 国家/地区 | 选手 |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **阿根廷** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [Reficul](https://osu.ppy.sh/users/1506011), [\_Doodle\_](https://osu.ppy.sh/users/5427801), [Axer](https://osu.ppy.sh/users/7299864), [trollocat](https://osu.ppy.sh/users/9228032) |
-| ![][flag_AU] | **澳大利亚** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [Zippywin](https://osu.ppy.sh/users/7269844), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), [r1chyy](https://osu.ppy.sh/users/11499467) |
-| ![][flag_AT] | **奥地利** | **[animexamera](https://osu.ppy.sh/users/7511357)**, [Cupcake\_Lover](https://osu.ppy.sh/users/1776389), [Mina\_yo](https://osu.ppy.sh/users/2678422), [morth1](https://osu.ppy.sh/users/7246874) |
-| ![][flag_BR] | **巴西** | **[Skull Kid](https://osu.ppy.sh/users/3044264)**, [HiroK](https://osu.ppy.sh/users/4050738), [Ppus](https://osu.ppy.sh/users/5918857), [Foxeru](https://osu.ppy.sh/users/7479684), [Kyoumo](https://osu.ppy.sh/users/8145223) |
-| ![][flag_CA] | **加拿大** | **[Nanners](https://osu.ppy.sh/users/459886)**, [beary605](https://osu.ppy.sh/users/2198070), [honkers](https://osu.ppy.sh/users/3075337), [janitore](https://osu.ppy.sh/users/3307897), [vysha](https://osu.ppy.sh/users/4908773) |
-| ![][flag_CL] | **智利** | **[Catulus](https://osu.ppy.sh/users/6276709)**, [Necromancy-](https://osu.ppy.sh/users/1890084), [daikiu](https://osu.ppy.sh/users/4232665), [Shiny Froakie](https://osu.ppy.sh/users/6194830), [Chieri\_](https://osu.ppy.sh/users/10268533) |
-| ![][flag_CN] | **中国** | **[Blastix Riotz](https://osu.ppy.sh/users/5310623)**, [Ookura Risona](https://osu.ppy.sh/users/2073644), [OtakusRin](https://osu.ppy.sh/users/3383404), [puweijie](https://osu.ppy.sh/users/4845848), [Michaelonl](https://osu.ppy.sh/users/12480076) |
-| ![][flag_CO] | **哥伦比亚** | **[L1ght](https://osu.ppy.sh/users/9050875)**, [sti](https://osu.ppy.sh/users/1271807), [Madsri](https://osu.ppy.sh/users/6260841), [Hermite](https://osu.ppy.sh/users/7945286), [Jekuru](https://osu.ppy.sh/users/11727492) |
-| ![][flag_CR] | **哥斯达黎加** | **[puijela](https://osu.ppy.sh/users/12687433)**, [Hotman](https://osu.ppy.sh/users/7902082), [JostRc3](https://osu.ppy.sh/users/11211959) |
-| ![][flag_FI] | **芬兰** | **[duski](https://osu.ppy.sh/users/6506484)**, [vodnanen](https://osu.ppy.sh/users/10335557), [Antti](https://osu.ppy.sh/users/13281473), [MEGAMELA](https://osu.ppy.sh/users/13613362) |
-| ![][flag_FR] | **法国** | **[Ectomic](https://osu.ppy.sh/users/4069690)**, [Fraolinch](https://osu.ppy.sh/users/205257), [Ekoro](https://osu.ppy.sh/users/284905), [Gintoki8](https://osu.ppy.sh/users/2239411), [Ranshi](https://osu.ppy.sh/users/6680785) |
-| ![][flag_DE] | **德国** | **[frz](https://osu.ppy.sh/users/6956922)**, [xMrtn-](https://osu.ppy.sh/users/866297), [Xayphon](https://osu.ppy.sh/users/961417), [Mew](https://osu.ppy.sh/users/2345156), [Minekuchi](https://osu.ppy.sh/users/9584873) |
-| ![][flag_ID] | **印度尼西亚** | **[apaajaboleh10](https://osu.ppy.sh/users/5151647)**, [WhiteSnowAngel](https://osu.ppy.sh/users/3866964), [Volta](https://osu.ppy.sh/users/4154071), [Katdon\_donKat](https://osu.ppy.sh/users/8089664), [Kaemz](https://osu.ppy.sh/users/8494233) |
-| ![][flag_IT] | **意大利** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [coed](https://osu.ppy.sh/users/3716665), [LordEnder](https://osu.ppy.sh/users/4609767), [D3kuu](https://osu.ppy.sh/users/7807444), [A-40](https://osu.ppy.sh/users/14510301) |
-| ![][flag_JP] | **日本** | **[uone](https://osu.ppy.sh/users/5321719)**, [syaron105](https://osu.ppy.sh/users/8741695), [ekumea1123](https://osu.ppy.sh/users/9119501), [Grape_Tea](https://osu.ppy.sh/users/9540073), [Seren58](https://osu.ppy.sh/users/15252950) |
-| ![][flag_MY] | **马来西亚** | **[Jerry](https://osu.ppy.sh/users/605973)**, [Xeltic Rival](https://osu.ppy.sh/users/7500364), [\[Zeth\]](https://osu.ppy.sh/users/9912966), [6gicha](https://osu.ppy.sh/users/12273160), [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
-| ![][flag_MX] | **墨西哥** | **[Ammy](https://osu.ppy.sh/users/4183406)**, [xtrem3x](https://osu.ppy.sh/users/136385), [ZaveryK](https://osu.ppy.sh/users/10913397), [Kenrit-San](https://osu.ppy.sh/users/13054150), [-chocoflan-](https://osu.ppy.sh/users/15776151) |
-| ![][flag_NL] | **荷兰** | **[Cookie_Tree](https://osu.ppy.sh/users/502722)**, [StrijkIjzer](https://osu.ppy.sh/users/4130926), [wen294](https://osu.ppy.sh/users/2265974), [lukitsa124](https://osu.ppy.sh/users/8787678), [Boaz](https://osu.ppy.sh/users/13302996) |
-| ![][flag_NZ] | **新西兰** | **[Sparxe](https://osu.ppy.sh/users/5750235)**, [Bwhaa](https://osu.ppy.sh/users/7960435), [arley\_](https://osu.ppy.sh/users/9039824), [Blujae](https://osu.ppy.sh/users/10613885) |
-| ![][flag_PH] | **菲律宾** | **[Pochacco](https://osu.ppy.sh/users/2927742)**, [Fynbi](https://osu.ppy.sh/users/2164993), [jmeh07](https://osu.ppy.sh/users/2852269), [Rimazii](https://osu.ppy.sh/users/3831514), [Aiery](https://osu.ppy.sh/users/10363380) |
-| ![][flag_PL] | **波兰** | **[bernard351](https://osu.ppy.sh/users/9511518)**, [Tetsurio](https://osu.ppy.sh/users/2044810), [boyan](https://osu.ppy.sh/users/2302140), [Eeveelution](https://osu.ppy.sh/users/8438068), [vethreal](https://osu.ppy.sh/users/12067316) |
-| ![][flag_PT] | **葡萄牙** | **[BabySnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [MeovvCAT](https://osu.ppy.sh/users/5905091), [N1tro321](https://osu.ppy.sh/users/7385703), [ninjatory3](https://osu.ppy.sh/users/11429256) |
-| ![][flag_RU] | **俄罗斯** | **[Akonine](https://osu.ppy.sh/users/7774222)**, [Den4ik228](https://osu.ppy.sh/users/7115174), [Nozdormu](https://osu.ppy.sh/users/7169208), [TwinT](https://osu.ppy.sh/users/9976154), [night\_flower](https://osu.ppy.sh/users/11574707) |
-| ![][flag_SG] | **新加坡** | **[Prehistoria](https://osu.ppy.sh/users/8364237)**, [tzechi](https://osu.ppy.sh/users/4662795), [Blerargh](https://osu.ppy.sh/users/7609510), [\_gt](https://osu.ppy.sh/users/8301957), [awdse22](https://osu.ppy.sh/users/8743513) |
-| ![][flag_KR] | **韩国** | **[Peaceful](https://osu.ppy.sh/users/165027)**, [oL0](https://osu.ppy.sh/users/1134683), [5henry](https://osu.ppy.sh/users/3337332), [Jonah](https://osu.ppy.sh/users/5509009), [denaN](https://osu.ppy.sh/users/10894640) |
-| ![][flag_CH] | **瑞士** | **[MC2BP](https://osu.ppy.sh/users/11296097)**, [Zero1519](https://osu.ppy.sh/users/547957), [Upgradefort](https://osu.ppy.sh/users/7184619) |
-| ![][flag_TW] | **台湾** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)**, [b006089010](https://osu.ppy.sh/users/673542), [seanhappy8520](https://osu.ppy.sh/users/949455), [Yuemiao](https://osu.ppy.sh/users/4493348), [CheeseStingy](https://osu.ppy.sh/users/16462012) |
-| ![][flag_TH] | **泰国** | **[Ponamis](https://osu.ppy.sh/users/7897892)**, [ConieSan](https://osu.ppy.sh/users/2035344), [Raytoly](https://osu.ppy.sh/users/8121109), [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), [KappuChinooo](https://osu.ppy.sh/users/9582525) |
-| ![][flag_TR] | **土耳其** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)**, [NeuralG](https://osu.ppy.sh/users/13811400) |
-| ![][flag_GB] | **英国** | **[Horiiizon](https://osu.ppy.sh/users/8071438)**, [\_DUSK\_](https://osu.ppy.sh/users/6092181), [Teezel](https://osu.ppy.sh/users/7528639), [B0tch3d](https://osu.ppy.sh/users/9864847), [Daniels](https://osu.ppy.sh/users/12439209) |
-| ![][flag_US] | **美国** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
-| ![][flag_VN] | **越南** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
+| ::{ flag=AR }:: | **阿根廷** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [Reficul](https://osu.ppy.sh/users/1506011), [\_Doodle\_](https://osu.ppy.sh/users/5427801), [Axer](https://osu.ppy.sh/users/7299864), [trollocat](https://osu.ppy.sh/users/9228032) |
+| ::{ flag=AU }:: | **澳大利亚** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [Zippywin](https://osu.ppy.sh/users/7269844), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), [r1chyy](https://osu.ppy.sh/users/11499467) |
+| ::{ flag=AT }:: | **奥地利** | **[animexamera](https://osu.ppy.sh/users/7511357)**, [Cupcake\_Lover](https://osu.ppy.sh/users/1776389), [Mina\_yo](https://osu.ppy.sh/users/2678422), [morth1](https://osu.ppy.sh/users/7246874) |
+| ::{ flag=BR }:: | **巴西** | **[Skull Kid](https://osu.ppy.sh/users/3044264)**, [HiroK](https://osu.ppy.sh/users/4050738), [Ppus](https://osu.ppy.sh/users/5918857), [Foxeru](https://osu.ppy.sh/users/7479684), [Kyoumo](https://osu.ppy.sh/users/8145223) |
+| ::{ flag=CA }:: | **加拿大** | **[Nanners](https://osu.ppy.sh/users/459886)**, [beary605](https://osu.ppy.sh/users/2198070), [honkers](https://osu.ppy.sh/users/3075337), [janitore](https://osu.ppy.sh/users/3307897), [vysha](https://osu.ppy.sh/users/4908773) |
+| ::{ flag=CL }:: | **智利** | **[Catulus](https://osu.ppy.sh/users/6276709)**, [Necromancy-](https://osu.ppy.sh/users/1890084), [daikiu](https://osu.ppy.sh/users/4232665), [Shiny Froakie](https://osu.ppy.sh/users/6194830), [Chieri\_](https://osu.ppy.sh/users/10268533) |
+| ::{ flag=CN }:: | **中国** | **[Blastix Riotz](https://osu.ppy.sh/users/5310623)**, [Ookura Risona](https://osu.ppy.sh/users/2073644), [OtakusRin](https://osu.ppy.sh/users/3383404), [puweijie](https://osu.ppy.sh/users/4845848), [Michaelonl](https://osu.ppy.sh/users/12480076) |
+| ::{ flag=CO }:: | **哥伦比亚** | **[L1ght](https://osu.ppy.sh/users/9050875)**, [sti](https://osu.ppy.sh/users/1271807), [Madsri](https://osu.ppy.sh/users/6260841), [Hermite](https://osu.ppy.sh/users/7945286), [Jekuru](https://osu.ppy.sh/users/11727492) |
+| ::{ flag=CR }:: | **哥斯达黎加** | **[puijela](https://osu.ppy.sh/users/12687433)**, [Hotman](https://osu.ppy.sh/users/7902082), [JostRc3](https://osu.ppy.sh/users/11211959) |
+| ::{ flag=FI }:: | **芬兰** | **[duski](https://osu.ppy.sh/users/6506484)**, [vodnanen](https://osu.ppy.sh/users/10335557), [Antti](https://osu.ppy.sh/users/13281473), [MEGAMELA](https://osu.ppy.sh/users/13613362) |
+| ::{ flag=FR }:: | **法国** | **[Ectomic](https://osu.ppy.sh/users/4069690)**, [Fraolinch](https://osu.ppy.sh/users/205257), [Ekoro](https://osu.ppy.sh/users/284905), [Gintoki8](https://osu.ppy.sh/users/2239411), [Ranshi](https://osu.ppy.sh/users/6680785) |
+| ::{ flag=DE }:: | **德国** | **[frz](https://osu.ppy.sh/users/6956922)**, [xMrtn-](https://osu.ppy.sh/users/866297), [Xayphon](https://osu.ppy.sh/users/961417), [Mew](https://osu.ppy.sh/users/2345156), [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| ::{ flag=ID }:: | **印度尼西亚** | **[apaajaboleh10](https://osu.ppy.sh/users/5151647)**, [WhiteSnowAngel](https://osu.ppy.sh/users/3866964), [Volta](https://osu.ppy.sh/users/4154071), [Katdon\_donKat](https://osu.ppy.sh/users/8089664), [Kaemz](https://osu.ppy.sh/users/8494233) |
+| ::{ flag=IT }:: | **意大利** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [coed](https://osu.ppy.sh/users/3716665), [LordEnder](https://osu.ppy.sh/users/4609767), [D3kuu](https://osu.ppy.sh/users/7807444), [A-40](https://osu.ppy.sh/users/14510301) |
+| ::{ flag=JP }:: | **日本** | **[uone](https://osu.ppy.sh/users/5321719)**, [syaron105](https://osu.ppy.sh/users/8741695), [ekumea1123](https://osu.ppy.sh/users/9119501), [Grape_Tea](https://osu.ppy.sh/users/9540073), [Seren58](https://osu.ppy.sh/users/15252950) |
+| ::{ flag=MY }:: | **马来西亚** | **[Jerry](https://osu.ppy.sh/users/605973)**, [Xeltic Rival](https://osu.ppy.sh/users/7500364), [\[Zeth\]](https://osu.ppy.sh/users/9912966), [6gicha](https://osu.ppy.sh/users/12273160), [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
+| ::{ flag=MX }:: | **墨西哥** | **[Ammy](https://osu.ppy.sh/users/4183406)**, [xtrem3x](https://osu.ppy.sh/users/136385), [ZaveryK](https://osu.ppy.sh/users/10913397), [Kenrit-San](https://osu.ppy.sh/users/13054150), [-chocoflan-](https://osu.ppy.sh/users/15776151) |
+| ::{ flag=NL }:: | **荷兰** | **[Cookie_Tree](https://osu.ppy.sh/users/502722)**, [StrijkIjzer](https://osu.ppy.sh/users/4130926), [wen294](https://osu.ppy.sh/users/2265974), [lukitsa124](https://osu.ppy.sh/users/8787678), [Boaz](https://osu.ppy.sh/users/13302996) |
+| ::{ flag=NZ }:: | **新西兰** | **[Sparxe](https://osu.ppy.sh/users/5750235)**, [Bwhaa](https://osu.ppy.sh/users/7960435), [arley\_](https://osu.ppy.sh/users/9039824), [Blujae](https://osu.ppy.sh/users/10613885) |
+| ::{ flag=PH }:: | **菲律宾** | **[Pochacco](https://osu.ppy.sh/users/2927742)**, [Fynbi](https://osu.ppy.sh/users/2164993), [jmeh07](https://osu.ppy.sh/users/2852269), [Rimazii](https://osu.ppy.sh/users/3831514), [Aiery](https://osu.ppy.sh/users/10363380) |
+| ::{ flag=PL }:: | **波兰** | **[bernard351](https://osu.ppy.sh/users/9511518)**, [Tetsurio](https://osu.ppy.sh/users/2044810), [boyan](https://osu.ppy.sh/users/2302140), [Eeveelution](https://osu.ppy.sh/users/8438068), [vethreal](https://osu.ppy.sh/users/12067316) |
+| ::{ flag=PT }:: | **葡萄牙** | **[BabySnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [MeovvCAT](https://osu.ppy.sh/users/5905091), [N1tro321](https://osu.ppy.sh/users/7385703), [ninjatory3](https://osu.ppy.sh/users/11429256) |
+| ::{ flag=RU }:: | **俄罗斯** | **[Akonine](https://osu.ppy.sh/users/7774222)**, [Den4ik228](https://osu.ppy.sh/users/7115174), [Nozdormu](https://osu.ppy.sh/users/7169208), [TwinT](https://osu.ppy.sh/users/9976154), [night\_flower](https://osu.ppy.sh/users/11574707) |
+| ::{ flag=SG }:: | **新加坡** | **[Prehistoria](https://osu.ppy.sh/users/8364237)**, [tzechi](https://osu.ppy.sh/users/4662795), [Blerargh](https://osu.ppy.sh/users/7609510), [\_gt](https://osu.ppy.sh/users/8301957), [awdse22](https://osu.ppy.sh/users/8743513) |
+| ::{ flag=KR }:: | **韩国** | **[Peaceful](https://osu.ppy.sh/users/165027)**, [oL0](https://osu.ppy.sh/users/1134683), [5henry](https://osu.ppy.sh/users/3337332), [Jonah](https://osu.ppy.sh/users/5509009), [denaN](https://osu.ppy.sh/users/10894640) |
+| ::{ flag=CH }:: | **瑞士** | **[MC2BP](https://osu.ppy.sh/users/11296097)**, [Zero1519](https://osu.ppy.sh/users/547957), [Upgradefort](https://osu.ppy.sh/users/7184619) |
+| ::{ flag=TW }:: | **台湾** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)**, [b006089010](https://osu.ppy.sh/users/673542), [seanhappy8520](https://osu.ppy.sh/users/949455), [Yuemiao](https://osu.ppy.sh/users/4493348), [CheeseStingy](https://osu.ppy.sh/users/16462012) |
+| ::{ flag=TH }:: | **泰国** | **[Ponamis](https://osu.ppy.sh/users/7897892)**, [ConieSan](https://osu.ppy.sh/users/2035344), [Raytoly](https://osu.ppy.sh/users/8121109), [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), [KappuChinooo](https://osu.ppy.sh/users/9582525) |
+| ::{ flag=TR }:: | **土耳其** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)**, [NeuralG](https://osu.ppy.sh/users/13811400) |
+| ::{ flag=GB }:: | **英国** | **[Horiiizon](https://osu.ppy.sh/users/8071438)**, [\_DUSK\_](https://osu.ppy.sh/users/6092181), [Teezel](https://osu.ppy.sh/users/7528639), [B0tch3d](https://osu.ppy.sh/users/9864847), [Daniels](https://osu.ppy.sh/users/12439209) |
+| ::{ flag=US }:: | **美国** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
+| ::{ flag=VN }:: | **越南** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
 ## 比赛排程：十六强赛
 
@@ -105,19 +105,19 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 | A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
 | --: | :-- | :-: | :-: | :-: |
-| 菲律宾 ![][flag_PH] | ![][flag_KR] 韩国 | **20:00 UTC+08** | 20:00 UTC+08 | 21:00 UTC+09 |
-| 德国 ![][flag_DE] | ![][flag_SG] 新加坡 | **21:00 UTC+08** | 14:00 UTC+01 | 21:00 UTC+08 |
-| 阿根廷 ![][flag_AR] | ![][flag_ID] 印度尼西亚 | **22:00 UTC+08** | 11:00 UTC-03 | 21:00 UTC+07 |
-| 巴西 ![][flag_BR] | ![][flag_MY] 马来西亚 | **23:00 UTC+08** | 12:00 UTC-03 | 23:00 UTC+08 |
+| 菲律宾 ::{ flag=PH }:: | ::{ flag=KR }:: 韩国 | **20:00 UTC+08** | 20:00 UTC+08 | 21:00 UTC+09 |
+| 德国 ::{ flag=DE }:: | ::{ flag=SG }:: 新加坡 | **21:00 UTC+08** | 14:00 UTC+01 | 21:00 UTC+08 |
+| 阿根廷 ::{ flag=AR }:: | ::{ flag=ID }:: 印度尼西亚 | **22:00 UTC+08** | 11:00 UTC-03 | 21:00 UTC+07 |
+| 巴西 ::{ flag=BR }:: | ::{ flag=MY }:: 马来西亚 | **23:00 UTC+08** | 12:00 UTC-03 | 23:00 UTC+08 |
 
 ### 2021 年 3 月 14 日，星期日
 
 | A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
 | --: | :-- | :-: | :-: | :-: |
-| 中国 ![][flag_CN] | ![][flag_CA] 加拿大 | **11:00 UTC+08** | 11:00 UTC+08 | 22:00 (星期六) UTC-05 |
-| 台湾 ![][flag_TW] | ![][flag_US] 美国 | **21:00 UTC+08** | 12:00 UTC+08 | 21:00 (星期六) UTC-07 |
-| 葡萄牙 ![][flag_PT] | ![][flag_JP] 日本 | **21:00 UTC+08** | 13:00 UTC | 22:00 UTC+09 |
-| 意大利 ![][flag_IT] | ![][flag_TH] 泰国 | **23:00 UTC+08** | 16:00 UTC+01 | 22:00 UTC+07 |
+| 中国 ::{ flag=CN }:: | ::{ flag=CA }:: 加拿大 | **11:00 UTC+08** | 11:00 UTC+08 | 22:00 (星期六) UTC-05 |
+| 台湾 ::{ flag=TW }:: | ::{ flag=US }:: 美国 | **21:00 UTC+08** | 12:00 UTC+08 | 21:00 (星期六) UTC-07 |
+| 葡萄牙 ::{ flag=PT }:: | ::{ flag=JP }:: 日本 | **21:00 UTC+08** | 13:00 UTC | 22:00 UTC+09 |
+| 意大利 ::{ flag=IT }:: | ::{ flag=TH }:: 泰国 | **23:00 UTC+08** | 16:00 UTC+01 | 22:00 UTC+07 |
 
 ## 图池
 
@@ -176,59 +176,59 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 | A 队 |  |  | B 队 | MP Link |
 | --: | :-: | :-: | :-- | :-- |
-| **意大利** ![][flag_IT] | **5** | 0 | ![][flag_NZ] 新西兰 | [#1](https://osu.ppy.sh/community/matches/77352667) |
-| **台湾** ![][flag_TW] | **5** | 1 | ![][flag_AU] 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/77354834) |
-| **德国** ![][flag_DE] | **5** | 1 | ![][flag_AU] 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/77358209) |
-| **泰国** ![][flag_TH] | **5** | 0 | ![][flag_PL] 波兰 | [#1](https://osu.ppy.sh/community/matches/77357411) |
-| 法国 ![][flag_FR] | 2 | **5** | ![][flag_CN] **中国** | [#1](https://osu.ppy.sh/community/matches/77357454) |
-| **泰国** ![][flag_TH] | **5** | 3 | ![][flag_TR] 土耳其 | [#1](https://osu.ppy.sh/community/matches/77359879) |
-| **日本** ![][flag_JP] | **5** | 1 | ![][flag_FI] 芬兰 | [#1](https://osu.ppy.sh/community/matches/77360103) |
-| **韩国** ![][flag_KR] | **5** | 2 | ![][flag_ID] 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/77363567) |
-| **荷兰** ![][flag_NL] | **5** | 0 | ![][flag_VN] 越南 | [#1](https://osu.ppy.sh/community/matches/77366593) |
-| **日本** ![][flag_JP] | **5** | 1 | ![][flag_MY] 马来西亚 | [#1](https://osu.ppy.sh/community/matches/77366598) |
-| **印度尼西亚** ![][flag_ID] | **5** | 0 | ![][flag_CO] 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77370481) |
-| 英国 ![][flag_GB] | 3 | **5** | ![][flag_PT] **葡萄牙** | [#1](https://osu.ppy.sh/community/matches/77370473) |
-| **意大利** ![][flag_IT] | **5** | 1 | ![][flag_FR] 法国 | [#1](https://osu.ppy.sh/community/matches/77370179) |
-| **马来西亚** ![][flag_MY] | **5** | 0 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77370451) |
-| **波兰** ![][flag_PL] | **5** | 3 | ![][flag_TR] 土耳其 | [#1](https://osu.ppy.sh/community/matches/77375440) |
-| **德国** ![][flag_DE] | **5** | 0 | ![][flag_AT] 奥地利 | [#1](https://osu.ppy.sh/community/matches/77375081) |
-| **阿根廷** ![][flag_AR] | **5** | 0 | ![][flag_RU] 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/77375851) |
-| **加拿大** ![][flag_CA] | **5** | 0 | ![][flag_TR] 土耳其 | [#1](https://osu.ppy.sh/community/matches/77378963) |
-| **葡萄牙** ![][flag_PT] | **5** | 1 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77378954) |
-| **芬兰** ![][flag_FI] | **5** | 2 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77384108) |
-| **加拿大** ![][flag_CA] | **5** | 0 | ![][flag_PL] 波兰 | [#1](https://osu.ppy.sh/community/matches/77383631) |
-| **巴西** ![][flag_BR] | **5** | 0 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77383848) |
-| **美国** ![][flag_US] | **5** | 0 | ![][flag_NL] 荷兰 | [#1](https://osu.ppy.sh/community/matches/77389214) |
-| **巴西** ![][flag_BR] | **5** | 1 | ![][flag_GB] 英国 | [#1](https://osu.ppy.sh/community/matches/77388556) |
-| **阿根廷** ![][flag_AR] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | *win by default* |
+| **意大利** ::{ flag=IT }:: | **5** | 0 | ::{ flag=NZ }:: 新西兰 | [#1](https://osu.ppy.sh/community/matches/77352667) |
+| **台湾** ::{ flag=TW }:: | **5** | 1 | ::{ flag=AU }:: 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/77354834) |
+| **德国** ::{ flag=DE }:: | **5** | 1 | ::{ flag=AU }:: 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/77358209) |
+| **泰国** ::{ flag=TH }:: | **5** | 0 | ::{ flag=PL }:: 波兰 | [#1](https://osu.ppy.sh/community/matches/77357411) |
+| 法国 ::{ flag=FR }:: | 2 | **5** | ::{ flag=CN }:: **中国** | [#1](https://osu.ppy.sh/community/matches/77357454) |
+| **泰国** ::{ flag=TH }:: | **5** | 3 | ::{ flag=TR }:: 土耳其 | [#1](https://osu.ppy.sh/community/matches/77359879) |
+| **日本** ::{ flag=JP }:: | **5** | 1 | ::{ flag=FI }:: 芬兰 | [#1](https://osu.ppy.sh/community/matches/77360103) |
+| **韩国** ::{ flag=KR }:: | **5** | 2 | ::{ flag=ID }:: 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/77363567) |
+| **荷兰** ::{ flag=NL }:: | **5** | 0 | ::{ flag=VN }:: 越南 | [#1](https://osu.ppy.sh/community/matches/77366593) |
+| **日本** ::{ flag=JP }:: | **5** | 1 | ::{ flag=MY }:: 马来西亚 | [#1](https://osu.ppy.sh/community/matches/77366598) |
+| **印度尼西亚** ::{ flag=ID }:: | **5** | 0 | ::{ flag=CO }:: 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77370481) |
+| 英国 ::{ flag=GB }:: | 3 | **5** | ::{ flag=PT }:: **葡萄牙** | [#1](https://osu.ppy.sh/community/matches/77370473) |
+| **意大利** ::{ flag=IT }:: | **5** | 1 | ::{ flag=FR }:: 法国 | [#1](https://osu.ppy.sh/community/matches/77370179) |
+| **马来西亚** ::{ flag=MY }:: | **5** | 0 | ::{ flag=CL }:: 智利 | [#1](https://osu.ppy.sh/community/matches/77370451) |
+| **波兰** ::{ flag=PL }:: | **5** | 3 | ::{ flag=TR }:: 土耳其 | [#1](https://osu.ppy.sh/community/matches/77375440) |
+| **德国** ::{ flag=DE }:: | **5** | 0 | ::{ flag=AT }:: 奥地利 | [#1](https://osu.ppy.sh/community/matches/77375081) |
+| **阿根廷** ::{ flag=AR }:: | **5** | 0 | ::{ flag=RU }:: 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/77375851) |
+| **加拿大** ::{ flag=CA }:: | **5** | 0 | ::{ flag=TR }:: 土耳其 | [#1](https://osu.ppy.sh/community/matches/77378963) |
+| **葡萄牙** ::{ flag=PT }:: | **5** | 1 | ::{ flag=CH }:: 瑞士 | [#1](https://osu.ppy.sh/community/matches/77378954) |
+| **芬兰** ::{ flag=FI }:: | **5** | 2 | ::{ flag=CL }:: 智利 | [#1](https://osu.ppy.sh/community/matches/77384108) |
+| **加拿大** ::{ flag=CA }:: | **5** | 0 | ::{ flag=PL }:: 波兰 | [#1](https://osu.ppy.sh/community/matches/77383631) |
+| **巴西** ::{ flag=BR }:: | **5** | 0 | ::{ flag=CH }:: 瑞士 | [#1](https://osu.ppy.sh/community/matches/77383848) |
+| **美国** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: 荷兰 | [#1](https://osu.ppy.sh/community/matches/77389214) |
+| **巴西** ::{ flag=BR }:: | **5** | 1 | ::{ flag=GB }:: 英国 | [#1](https://osu.ppy.sh/community/matches/77388556) |
+| **阿根廷** ::{ flag=AR }:: | **5** | 0 | ::{ flag=CR }:: 哥斯达黎加 | *win by default* |
 
 2021 年 3 月 6 日，星期日
 
 | A 队 |  |  | B 队 | MP Link |
 | --: | :-: | :-: | :-- | :-- |
-| **墨西哥** ![][flag_MX] | **5** | 4 | ![][flag_CO] 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77416885) |
-| **韩国** ![][flag_KR] | **5** | 0 | ![][flag_CO] 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77421221) |
-| **韩国** ![][flag_KR] | **5** | 0 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/77423460) |
-| **加拿大** ![][flag_CA] | **5** | 1 | ![][flag_TH] 泰国 | [#1](https://osu.ppy.sh/community/matches/77423467) |
-| **菲律宾** ![][flag_PH] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77423390) |
-| **美国** ![][flag_US] | **5** | 0 | ![][flag_SG] 新加坡 | [#1](https://osu.ppy.sh/community/matches/77423469) |
-| **印度尼西亚** ![][flag_ID] | **5** | 0 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/77427027) |
-| **美国** ![][flag_US] | **5** | 0 | ![][flag_VN] 越南 | [#1](https://osu.ppy.sh/community/matches/77427193) |
-| **法国** ![][flag_FR] | **5** | 0 | ![][flag_NZ] 新西兰 | [#1](https://osu.ppy.sh/community/matches/77441249) |
-| **澳大利亚** ![][flag_AU] | **5** | 4 | ![][flag_AT] 奥地利 | [#1](https://osu.ppy.sh/community/matches/77443299) |
-| **新加坡** ![][flag_SG] | **5** | 0 | ![][flag_VN] 越南 | [#1](https://osu.ppy.sh/community/matches/77443362) |
-| **中国** ![][flag_CN] | **5** | 0 | ![][flag_NZ] 新西兰 | [#1](https://osu.ppy.sh/community/matches/77443288) |
-| **台湾** ![][flag_TW] | **5** | 0 | ![][flag_AT] 奥地利 | [#1](https://osu.ppy.sh/community/matches/77448564) |
-| **意大利** ![][flag_IT] | **5** | 1 | ![][flag_CN] 中国 | [#1](https://osu.ppy.sh/community/matches/77448610) |
-| **菲律宾** ![][flag_PH] | **5** | 2 | ![][flag_RU] 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/77448327) |
-| **新加坡** ![][flag_SG] | **5** | 0 | ![][flag_NL] 荷兰 | [#1](https://osu.ppy.sh/community/matches/77451684) |
-| **德国** ![][flag_DE] | **5** | 1 | ![][flag_TW] 台湾 | [#1](https://osu.ppy.sh/community/matches/77455069) |
-| **巴西** ![][flag_BR] | **5** | 1 | ![][flag_PT] 葡萄牙 | [#1](https://osu.ppy.sh/community/matches/77455070) |
-| **马来西亚** ![][flag_MY] | **5** | 3 | ![][flag_FI] 芬兰 | [#1](https://osu.ppy.sh/community/matches/77455016) |
-| **阿根廷** ![][flag_AR] | **5** | 3 | ![][flag_PH] 菲律宾 | [#1](https://osu.ppy.sh/community/matches/77454922) |
-| **英国** ![][flag_GB] | **5** | 1 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77455105) |
-| **俄罗斯** ![][flag_RU] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77454888) |
-| **日本** ![][flag_JP] | **5** | 0 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77458452) |
+| **墨西哥** ::{ flag=MX }:: | **5** | 4 | ::{ flag=CO }:: 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77416885) |
+| **韩国** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CO }:: 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77421221) |
+| **韩国** ::{ flag=KR }:: | **5** | 0 | ::{ flag=MX }:: 墨西哥 | [#1](https://osu.ppy.sh/community/matches/77423460) |
+| **加拿大** ::{ flag=CA }:: | **5** | 1 | ::{ flag=TH }:: 泰国 | [#1](https://osu.ppy.sh/community/matches/77423467) |
+| **菲律宾** ::{ flag=PH }:: | **5** | 0 | ::{ flag=CR }:: 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77423390) |
+| **美国** ::{ flag=US }:: | **5** | 0 | ::{ flag=SG }:: 新加坡 | [#1](https://osu.ppy.sh/community/matches/77423469) |
+| **印度尼西亚** ::{ flag=ID }:: | **5** | 0 | ::{ flag=MX }:: 墨西哥 | [#1](https://osu.ppy.sh/community/matches/77427027) |
+| **美国** ::{ flag=US }:: | **5** | 0 | ::{ flag=VN }:: 越南 | [#1](https://osu.ppy.sh/community/matches/77427193) |
+| **法国** ::{ flag=FR }:: | **5** | 0 | ::{ flag=NZ }:: 新西兰 | [#1](https://osu.ppy.sh/community/matches/77441249) |
+| **澳大利亚** ::{ flag=AU }:: | **5** | 4 | ::{ flag=AT }:: 奥地利 | [#1](https://osu.ppy.sh/community/matches/77443299) |
+| **新加坡** ::{ flag=SG }:: | **5** | 0 | ::{ flag=VN }:: 越南 | [#1](https://osu.ppy.sh/community/matches/77443362) |
+| **中国** ::{ flag=CN }:: | **5** | 0 | ::{ flag=NZ }:: 新西兰 | [#1](https://osu.ppy.sh/community/matches/77443288) |
+| **台湾** ::{ flag=TW }:: | **5** | 0 | ::{ flag=AT }:: 奥地利 | [#1](https://osu.ppy.sh/community/matches/77448564) |
+| **意大利** ::{ flag=IT }:: | **5** | 1 | ::{ flag=CN }:: 中国 | [#1](https://osu.ppy.sh/community/matches/77448610) |
+| **菲律宾** ::{ flag=PH }:: | **5** | 2 | ::{ flag=RU }:: 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/77448327) |
+| **新加坡** ::{ flag=SG }:: | **5** | 0 | ::{ flag=NL }:: 荷兰 | [#1](https://osu.ppy.sh/community/matches/77451684) |
+| **德国** ::{ flag=DE }:: | **5** | 1 | ::{ flag=TW }:: 台湾 | [#1](https://osu.ppy.sh/community/matches/77455069) |
+| **巴西** ::{ flag=BR }:: | **5** | 1 | ::{ flag=PT }:: 葡萄牙 | [#1](https://osu.ppy.sh/community/matches/77455070) |
+| **马来西亚** ::{ flag=MY }:: | **5** | 3 | ::{ flag=FI }:: 芬兰 | [#1](https://osu.ppy.sh/community/matches/77455016) |
+| **阿根廷** ::{ flag=AR }:: | **5** | 3 | ::{ flag=PH }:: 菲律宾 | [#1](https://osu.ppy.sh/community/matches/77454922) |
+| **英国** ::{ flag=GB }:: | **5** | 1 | ::{ flag=CH }:: 瑞士 | [#1](https://osu.ppy.sh/community/matches/77455105) |
+| **俄罗斯** ::{ flag=RU }:: | **5** | 0 | ::{ flag=CR }:: 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77454888) |
+| **日本** ::{ flag=JP }:: | **5** | 0 | ::{ flag=CL }:: 智利 | [#1](https://osu.ppy.sh/community/matches/77458452) |
 
 ## 规则
 
@@ -239,7 +239,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 2. 分数计算基于 Score V2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
    - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。
-   - 图池包含 [Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 以及 Freemod
+   - 图池包含 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 以及 Freemod
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
 6. Failed 的分数不会算入队伍得分中。
@@ -335,7 +335,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 1. 小组赛，十六强赛，四分之一决赛，半决赛以及决赛都会使用他们各自的图池。
    - 其中总决赛和决赛使用相同图池。
-2. 图池包含五组: NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 和 FreeMod。
+2. 图池包含五组: NoMod，[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 和 FreeMod。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 TB（Tiebreaker）。
 5. NoMod 图池不能使用任何 Mod。
@@ -346,7 +346,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 8. TB 为 Freemod。
    - 在 Tiebreaker 时，没有 Mod 要求。
 9. 在小组赛图池中 NoMod 谱面的数量为 4，十六强赛图池中为 5，半决赛、决赛以及总决赛则为 6.
-10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 谱面各两张。
+10. 所有阶段图池中都包含[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 谱面各两张。
 11. 所有阶段图池中都包含三张 Freemod 谱面。
 
 ### 排程说明
@@ -360,37 +360,3 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 6. **只有队长才能申请重新排程。**
    - **除非绝对必要，否则不要申请重新排程。比赛管理团队仍有权拒绝该请求。**
 7. 队长有权负责队伍的可用性，以确保每个队伍可以在每场比赛上场至少四名队员。如果队伍无法提供两名队员参加比赛，则该比赛将被视为弃权。
-
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
-[flag_CO]: /wiki/shared/flag/CO.gif "哥伦比亚"
-[flag_CR]: /wiki/shared/flag/CR.gif "哥斯达黎加"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
-[flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
-[flag_IT]: /wiki/shared/flag/IT.gif "意大利"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_PT]: /wiki/shared/flag/PT.gif "葡萄牙"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
-[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
-[flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
-[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
-[flag_US]: /wiki/shared/flag/US.gif "美国"
-[flag_VN]: /wiki/shared/flag/VN.gif "越南"

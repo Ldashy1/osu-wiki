@@ -7,14 +7,14 @@ osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna 
 ![Chat Console](img/Chatconsole1.png "Sohbet Konsolu")
 
 - Sekmeler şu anda kullanılabilir kanalları listeler. Bir kanala geçmek için sadece sekmesine tıklamanız yeterlidir. Katılacak yeni kanalların listesini görüntülemek için `Yeni` tuşuna tıklayın.
-- Kullanıcı adlarının renkleri farklı anlamlar taşır. 
+- Kullanıcı adlarının renkleri farklı anlamlar taşır.
 
 | Renk | Kim? |
 | :-- | :-- |
 | **Beyaz** | Siz |
 | **Soluk** | osu!supporter olmayanlar |
 | **Sarı** | [osu!supporter](/wiki/osu!supporter) |
-| **Kırmızı** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ya da [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) üyesi |
+| **Kırmızı** | [Global Moderation Team](/wiki/People/Global_Moderation_Team) ya da [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) üyesi |
 | **Yeşil** | Satır, adınızı veya [highlight](Highlight) tetiklemek için eklediğiniz belirli anahtar kelimeleri içerir. İletinin bir kopyası, tüm bu satırları içeren özel bir kanal olan `#highlight` kanalında da görünür. |
 | **Mavi** | Özel Mesaj |
 | **Camgöbeği** | [peppy](https://osu.ppy.sh/users/2), osu!'nun yaratıcısı! |
@@ -26,7 +26,7 @@ osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna 
 
 ## Genişletilmiş Sohbet Konsolu
 
-*[osu!academy](/wiki/Community/Video_series/osu!academy) bu sayfayı [Çok oyunculu](/wiki/Gameplay/Multiplayer) ile birlikte [Episode 6(6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) videosunda ele aldı.*
+*[osu!academy](/wiki/Community/Video_series/osu!academy) bu sayfayı [Çok oyunculu](/wiki/Client/Interface/Multiplayer) ile birlikte [Episode 6(6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) videosunda ele aldı.*
 
 osu!'daki pek çok ekranda `F9` tuşuna ya da Intro Ekranı'nın sağ altındaki `Online Users` butonuna basarak Genişletilmiş Sohbet Konsolu'na erişebilirsiniz. Genişletilmiş Sohbet, Sohbet Konsoluna ek olarak ekranın geri kalan üçte ikisini kaplayarak şu anda osu'da oturum açmış olan kullanıcılar hakkında bilgi verir!
 
@@ -80,14 +80,13 @@ Etkinleştirmek için numarayı tıklatın veya çubuğu tıklatın:
 | `/delfriend [kullanıcı]` | Arkadaş listenizden `[kullanıcı]` kaldırın. | `/delfriend Amigo` | Artık Amigo ile arkadaş değilsiniz. |
 | `/away [mesaj]` | Bir dışarıda iletisi ayarlar (Size PM gönderen kullanıcılara gönderilir). İptal etmek için iletiyi boş bırakın. | `/away Ben John Smith.` | You have been marked as being away: Ben John Smith. Amigo size /msg John Neredesin~? dediğinde BanchoBot: Ben John Smith. |
 | `/bb` | BanchoBot'a `!stats [kullanıcı]` gibi bir komutu doğrudan göndermenizi sağlar. | `/bb !stats Uan` | \[15/11/12] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [kullanıcı]` | Belirtilen kullanıcıyla yeni bir sohbet sekmesi açın. | `/chat Amigo` | (Amigo sekmesi açıldı) |
+| `/chat [kullanıcı]` veya `/msg [kullanıcı]` veya `/query [kullanıcı]` | Belirtilen kullanıcıyla yeni bir sohbet sekmesi açın. | `/chat Amigo` | (Amigo sekmesi açıldı) |
 | `/clear` | Geçerli sohbet penceresini temizler. | '/clear' | (Geçerli sekmede aşağı yukarı her şeyi temizler) |
 | `/ignore [kullanıcı][@chp]` | Bu oturum için belirtilen kullanıcıdan gelen tüm iletileri yoksayın. Bir @ ekledikten sonra ardından c, h ve/veya p harfi eklerseniz, onları sohbette (chat), [vurgulamalarda (highlight)](Highlight) ve özel mesajlarda (Private message) susturabilirsiniz. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Sohbet konsolunuz artık Amigo'dan gelen herhangi bir sohbet mesajı \[c], Amigo tarafından yapılan herhangi bir vurgulamayı \[h], ve Amigo tarafından gönderilen herhangi özel mesajı \[p], dikkate almamak için ayarlandı. |
 | `/j [kanal]` veya `/join [kanal]` | Belirtilen kanala katılır | `/join #lobby` | (#lobby sekmesi açıldı) |
 | `/p` veya `/part` | Ayrıldığınız veya bıraktığınız geçerli kanalı kapatır. | `/part` | n/a |
 | `/unignore [kullanıcı]` | Bu oturum için bu kullanıcıyı yoksaymayı durdurun. | `/unignore Amigo` | Şu anda Amigo adlı kullanıcıdan mesaj alabilirsin. (Sohbet konsolunuz, Amigo tarafından yapılan herhangi bir gönderiye izin verir) |
 | `/me [eylem]` | Üçüncü kişi bir eylemi gerçekleştirin. | `/me evde` | * John evde |
-| `/msg [kullanıcı] [mesaj]` | Belirtilen `[kullanıcıya]` özel bir mesaj gönderir. | `/msg Amigo Ben evde hastayım.` | (Amigo sekmesinde) Ben evde hastayım. |
 | `/np` | Dinlediğiniz veya çaldığınız geçerli şarkıyı sohbete yazdırır. | `/np` | (Oynuyorsanız) * John is listening to [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` ya da `/r` | Son alınan özel mesajı yanıtlayın. | `/r İyi bir doktor tanıyor musunuz?` | (Amigo sekmesinde) \[Önceki yorumlar] John: Evde hastayım. Amigo: Gerçekten mi? John: İyi bir doktor tanıyor musun? |
 | `/savelog` | Geçerli sohbet sekmesini bir metin dosyasına kaydeder. | `/savelog` | (osu! dizininde "Chat" adlı gelecekteki bütün sohbet kayıtlarının saklanacağı bir klasör oluşturulur. |

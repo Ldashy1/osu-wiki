@@ -9,7 +9,7 @@ tags:
 
 # Bot account
 
-A **bot account** is a special type of osu! account run by an automated service instead of a real person. On the website, they have a white group badge labelled `BOT`, and only the `me!` section of their profile is visible. Bot accounts are most commonly used to host "chat bots" that offer various functionalities to the community through [multiplayer](/wiki/Gameplay/Multiplayer) lobby channels or private messages.
+A **bot account** is a special type of osu! account run by an automated service instead of a real person. On the website, they have a white group badge labelled `BOT`, and only the `me!` section of their profile is visible. Bot accounts are most commonly used to host "chat bots" that offer various functionalities to the community through [multiplayer](/wiki/Client/Interface/Multiplayer) lobby channels or private messages.
 
 Bot accounts can only be created via an [application process](#creating-a-bot-account). An attempt to create a bot account by registering normally is considered multi-accounting and is against the [community rules](/wiki/Rules#community-rules).
 
@@ -52,14 +52,11 @@ The body of the email should contain the following:
 - A link to the source code and documentation
 - A short summary of what your bot does
 
-The [account support team](/wiki/People/The_Team/Account_support_team) will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
+The [account support team](/wiki/People/Account_support_team) will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 
 ## Trivia
 
 - The `BOT` group badge is shown on accounts with a primary group of `Chat Bots` (group #29). The group's listing is not public.
-- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) and ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). This setup is no longer offered, and new bots entering the group will always be given an exclusive account.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
+- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) and ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). This setup is no longer offered, and new bots entering the group will always be given an exclusive account.

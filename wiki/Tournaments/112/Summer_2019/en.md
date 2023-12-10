@@ -9,7 +9,7 @@ tags:
 
 ![112ST2019 logo](img/logo.png)
 
-The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth instalment of 112's Tournaments series.
+The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) and ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -37,14 +37,14 @@ The 112's Summer Tournament 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Mappool selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) |
-| Referee | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521) |
-| Streamer | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo\_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849) |
-| Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [bigbirb-](https://osu.ppy.sh/users/11285985), ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_NL] [goeo\_](https://osu.ppy.sh/users/6832107) |
-| Designer | ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Statistician | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) |
-| Wiki editor | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| Organizer | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Mappool selector | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=TR }:: [sentez](https://osu.ppy.sh/users/8816305) |
+| Referee | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=NL }:: [goeo_](https://osu.ppy.sh/users/6832107), ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=TR }:: [ozge1907](https://osu.ppy.sh/users/6511453), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
+| Streamer | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=NL }:: [goeo\_](https://osu.ppy.sh/users/6832107), ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849) |
+| Commentator | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [bigbirb-](https://osu.ppy.sh/users/11285985), ::{ flag=TR }:: [Ekin](https://osu.ppy.sh/users/2947405), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [Lxran](https://osu.ppy.sh/users/3651081), ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859), ::{ flag=NL }:: [goeo\_](https://osu.ppy.sh/users/6832107) |
+| Designer | ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Statistician | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) |
+| Wiki editor | ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) |
 
 ## Links
 
@@ -59,27 +59,27 @@ The 112's Summer Tournament 2019 was run by various community members.
 
 | Seed ranking | Players | Qualifier points |
 | :-- | :-- | :-- |
-| #1 | ![][flag_DE] [-Kanzaki](https://osu.ppy.sh/users/1652478) | 1.6 |
-| #2 | ![][flag_TR] [egemenbsrms](https://osu.ppy.sh/users/4520477) | 2 |
-| #3 | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) | 5.4 |
-| #4 | ![][flag_TR] [AkashiDagara](https://osu.ppy.sh/users/6118485) | 6.2 |
-| #5 | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771) | 7.6 |
-| #6 | ![][flag_TR] [star1322](https://osu.ppy.sh/users/8128670) | 8.2 |
-| #7 | ![][flag_TR] [KaraElmas](https://osu.ppy.sh/users/9300293) | 8.8 |
-| #8 | ![][flag_TR] [Iron Man](https://osu.ppy.sh/users/4242381) | 9.2 |
-| #9 | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690) | 9.6 |
-| #10 | ![][flag_TR] [exporage](https://osu.ppy.sh/users/5573525) | 10.8 |
-| #11 | ![][flag_TR] [Ruushin](https://osu.ppy.sh/users/4696304) | 11 |
-| #12 | ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405) | 11 |
-| #13 | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027) | 13 |
-| #14 | ![][flag_TR] [huckmen444](https://osu.ppy.sh/users/5019334) | 13.2 |
-| #15 | ![][flag_TR] [Mr\_Ege](https://osu.ppy.sh/users/9542170) | 13.8 |
-| #16 | ![][flag_TR] [Valiente](https://osu.ppy.sh/users/2617985) | 15.2 |
-| E | ![][flag_TR] [Aga Kalk Sahur](https://osu.ppy.sh/users/8212609) | 15.2 |
-| E | ![][flag_TR] [Duoquote](https://osu.ppy.sh/users/4920617) | 15.4 |
-| E | ![][flag_TR] [SusKuN](https://osu.ppy.sh/users/9723526) | 16.8 |
-| E | ![][flag_TR] [KaanKorkmaz](https://osu.ppy.sh/users/4906401) | 18.2 |
-| E | ![][flag_TR] [cqyc](https://osu.ppy.sh/users/6748059) | 18.8 |
+| #1 | ::{ flag=DE }:: [-Kanzaki](https://osu.ppy.sh/users/1652478) | 1.6 |
+| #2 | ::{ flag=TR }:: [egemenbsrms](https://osu.ppy.sh/users/4520477) | 2 |
+| #3 | ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) | 5.4 |
+| #4 | ::{ flag=TR }:: [AkashiDagara](https://osu.ppy.sh/users/6118485) | 6.2 |
+| #5 | ::{ flag=TR }:: [edizberkserbest](https://osu.ppy.sh/users/9256771) | 7.6 |
+| #6 | ::{ flag=TR }:: [star1322](https://osu.ppy.sh/users/8128670) | 8.2 |
+| #7 | ::{ flag=TR }:: [KaraElmas](https://osu.ppy.sh/users/9300293) | 8.8 |
+| #8 | ::{ flag=TR }:: [Iron Man](https://osu.ppy.sh/users/4242381) | 9.2 |
+| #9 | ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690) | 9.6 |
+| #10 | ::{ flag=TR }:: [exporage](https://osu.ppy.sh/users/5573525) | 10.8 |
+| #11 | ::{ flag=TR }:: [Ruushin](https://osu.ppy.sh/users/4696304) | 11 |
+| #12 | ::{ flag=TR }:: [Ekin](https://osu.ppy.sh/users/2947405) | 11 |
+| #13 | ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027) | 13 |
+| #14 | ::{ flag=TR }:: [huckmen444](https://osu.ppy.sh/users/5019334) | 13.2 |
+| #15 | ::{ flag=TR }:: [Mr\_Ege](https://osu.ppy.sh/users/9542170) | 13.8 |
+| #16 | ::{ flag=TR }:: [Valiente](https://osu.ppy.sh/users/2617985) | 15.2 |
+| E | ::{ flag=TR }:: [Aga Kalk Sahur](https://osu.ppy.sh/users/8212609) | 15.2 |
+| E | ::{ flag=TR }:: [Duoquote](https://osu.ppy.sh/users/4920617) | 15.4 |
+| E | ::{ flag=TR }:: [SusKuN](https://osu.ppy.sh/users/9723526) | 16.8 |
+| E | ::{ flag=TR }:: [KaanKorkmaz](https://osu.ppy.sh/users/4906401) | 18.2 |
+| E | ::{ flag=TR }:: [cqyc](https://osu.ppy.sh/users/6748059) | 18.8 |
 
 \*E: Eliminated
 
@@ -87,24 +87,24 @@ The 112's Summer Tournament 2019 was run by various community members.
 
 | Seed ranking | Players | Qualifier points |
 | :-- | :-- | :-- |
-| #1 | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849) | 2 |
-| #2 | ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859) | 2.6 |
-| #3 | ![][flag_TR] [Fequin](https://osu.ppy.sh/users/11665593) | 3.6 |
-| #4 | ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) | 4.8 |
-| #5 | ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) | 5.4 |
-| #6 | ![][flag_TR] [Purple_Glasses](https://osu.ppy.sh/users/9045874) | 6 |
-| #7 | ![][flag_TR] [withmystyle](https://osu.ppy.sh/users/7953720) | 8.2 |
-| #8 | ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) | 9 |
-| #9 | ![][flag_TR] [emptypudding](https://osu.ppy.sh/users/11003085) | 9.4 |
-| #10 | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545) | 10.8 |
-| #11 | ![][flag_TR] [sezaiemre](https://osu.ppy.sh/users/10807430) | 11.4 |
-| #12 | ![][flag_TR] [aimlessplayr](https://osu.ppy.sh/users/4903088) | 11.4 |
-| #13 | ![][flag_TR] [HayunGuys](https://osu.ppy.sh/users/9693852) | 13.4 |
-| #14 | ![][flag_TR] [amdinstartor](https://osu.ppy.sh/users/10505284) | 13.4 |
-| #15 | ![][flag_TR] [karyuunatsu](https://osu.ppy.sh/users/12575190) | 14 |
-| #16 | ![][flag_TR] [Horoz](https://osu.ppy.sh/users/11614447) | 14 |
-| E | ![][flag_TR] [L Lones](https://osu.ppy.sh/users/4954493) | 14.6 |
-| E | ![][flag_TR] [Mikazu](https://osu.ppy.sh/users/12474487) | 17 |
+| #1 | ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849) | 2 |
+| #2 | ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859) | 2.6 |
+| #3 | ::{ flag=TR }:: [Fequin](https://osu.ppy.sh/users/11665593) | 3.6 |
+| #4 | ::{ flag=TR }:: [Tsuda-](https://osu.ppy.sh/users/6713666) | 4.8 |
+| #5 | ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) | 5.4 |
+| #6 | ::{ flag=TR }:: [Purple_Glasses](https://osu.ppy.sh/users/9045874) | 6 |
+| #7 | ::{ flag=TR }:: [withmystyle](https://osu.ppy.sh/users/7953720) | 8.2 |
+| #8 | ::{ flag=TR }:: [empirasu](https://osu.ppy.sh/users/12500084) | 9 |
+| #9 | ::{ flag=TR }:: [emptypudding](https://osu.ppy.sh/users/11003085) | 9.4 |
+| #10 | ::{ flag=TR }:: [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545) | 10.8 |
+| #11 | ::{ flag=TR }:: [sezaiemre](https://osu.ppy.sh/users/10807430) | 11.4 |
+| #12 | ::{ flag=TR }:: [aimlessplayr](https://osu.ppy.sh/users/4903088) | 11.4 |
+| #13 | ::{ flag=TR }:: [HayunGuys](https://osu.ppy.sh/users/9693852) | 13.4 |
+| #14 | ::{ flag=TR }:: [amdinstartor](https://osu.ppy.sh/users/10505284) | 13.4 |
+| #15 | ::{ flag=TR }:: [karyuunatsu](https://osu.ppy.sh/users/12575190) | 14 |
+| #16 | ::{ flag=TR }:: [Horoz](https://osu.ppy.sh/users/11614447) | 14 |
+| E | ::{ flag=TR }:: [L Lones](https://osu.ppy.sh/users/4954493) | 14.6 |
+| E | ::{ flag=TR }:: [Mikazu](https://osu.ppy.sh/users/12474487) | 17 |
 
 \*E: Eliminated
 
@@ -116,14 +116,14 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 | Team | 1 - 15K seed | 15K+ seed |
 | :-: | :-- | :-- |
-| KaFein | ![][flag_DE] [-Kanzaki](https://osu.ppy.sh/users/1652478) | ![][flag_TR] [Fequin](https://osu.ppy.sh/users/11665593) |
-| bum patladın | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) | ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| Kwk Yelleri | ![][flag_TR] [KaraElmas](https://osu.ppy.sh/users/9300293) | ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859) |
-| KFC Managers | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690) | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849) |
-| eTi dasmjasdk | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771) | ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) |
-| egemen ve aimless | ![][flag_TR] [egemenbsrms](https://osu.ppy.sh/users/4520477) | ![][flag_TR] [aimlessplayr](https://osu.ppy.sh/users/4903088) |
-| İsim bulamadık pingleme artık | ![][flag_TR] [AkashiDagara](https://osu.ppy.sh/users/6118485) | ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) |
-| Yürü baba fingo | ![][flag_TR] [Iron Man](https://osu.ppy.sh/users/4242381) | ![][flag_TR] [emptypudding](https://osu.ppy.sh/users/11003085) |
+| KaFein | ::{ flag=DE }:: [-Kanzaki](https://osu.ppy.sh/users/1652478) | ::{ flag=TR }:: [Fequin](https://osu.ppy.sh/users/11665593) |
+| bum patladın | ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) | ::{ flag=TR }:: [Tsuda-](https://osu.ppy.sh/users/6713666) |
+| Kwk Yelleri | ::{ flag=TR }:: [KaraElmas](https://osu.ppy.sh/users/9300293) | ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859) |
+| KFC Managers | ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690) | ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849) |
+| eTi dasmjasdk | ::{ flag=TR }:: [edizberkserbest](https://osu.ppy.sh/users/9256771) | ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) |
+| egemen ve aimless | ::{ flag=TR }:: [egemenbsrms](https://osu.ppy.sh/users/4520477) | ::{ flag=TR }:: [aimlessplayr](https://osu.ppy.sh/users/4903088) |
+| İsim bulamadık pingleme artık | ::{ flag=TR }:: [AkashiDagara](https://osu.ppy.sh/users/6118485) | ::{ flag=TR }:: [empirasu](https://osu.ppy.sh/users/12500084) |
+| Yürü baba fingo | ::{ flag=TR }:: [Iron Man](https://osu.ppy.sh/users/4242381) | ::{ flag=TR }:: [emptypudding](https://osu.ppy.sh/users/11003085) |
 
 ## Podium
 
@@ -512,14 +512,14 @@ Monday, 22 July 2019:
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 5 maps. There will be 2 maps under the NoMod bracket and 1 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **twice** at a designated time. Placement results will be calculated according to their best combined scores.
 6. Players will have the option to choose the multiplayer room they wish to play. If a room happens to be too empty, remaining players will be navigated to the other rooms.
 7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others are at.
 8. If no players will join the room, the match will be aborted. No points will be awarded to the absent players.
-9. First 16 players from each seed with the highest overall score will be divided into groups of 4 players based on their points. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
+9. First 16 players from each seed with the highest overall score will be divided into groups of 4 players based on their points. If there will be more participants than the predicted number, player(s) placed the last will be eliminated.
 10. Following the Qualifiers, Group stages will be played. During Group stages, players of each group will match against one another. 2 players of each group with highest points will get through the Group stage, the rest will be eliminated.
 11. There will be 2 separate mappools for the Group stages, each of them will contain 13 maps: 4 maps under the NoMod bracket, 2 maps each for the other mod brackets and 1 will be played as Tiebreaker.
 12. Before the Double Elimination stages, players will have to form 2-player teams with the other seeders upon agreement of both parties.
@@ -551,7 +551,7 @@ Monday, 22 July 2019:
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
@@ -572,9 +572,3 @@ Monday, 22 July 2019:
 4. Reschedules will only be considered if both players/teams agree to a time at least 24 hours before the first match in that particular stage.
    - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
 5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"

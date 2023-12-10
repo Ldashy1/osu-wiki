@@ -37,7 +37,7 @@ osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니
 - `P`: 플레이 메뉴
 - `P`, `P`: 싱글플레이
   - 다른 키: `E`, `P`, `P`
-- `P`, `M`: [멀티플레이](/wiki/Gameplay/Multiplayer)
+- `P`, `M`: [멀티플레이](/wiki/Client/Interface/Multiplayer)
   - 다른 키: `E`, `P`, `M`
 - `P`, `E`: 편집 모드
 - `D`: osu!direct ([osu!supporter](/wiki/osu!supporter) 전용)
@@ -62,11 +62,11 @@ osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니
 
 ## 곡 선택
 
-Note: [멀티플레이](/wiki/Gameplay/Multiplayer) 곡 선택 화면에서는 일부 키가 동작하지 않습니다.
+Note: [멀티플레이](/wiki/Client/Interface/Multiplayer) 곡 선택 화면에서는 일부 키가 동작하지 않습니다.
 
 - `Alt` + `Arrow Up`: 사운드 불륨 증가
 - `Alt` + `Arrow Down`: 사운드 불륨 감소
-- `F1`: [모드](/wiki/Game_modifier) 선택 메뉴
+- `F1`: [모드](/wiki/Gameplay/Game_modifier) 선택 메뉴
 - `F2`: 랜덤으로 맵 선택
 - `Shift` + `F2`: 랜덤 맵 선택 이전의 곡으로 돌아가기
 - `F3`: 비트맵 옵션
@@ -76,8 +76,8 @@ Note: [멀티플레이](/wiki/Gameplay/Multiplayer) 곡 선택 화면에서는 �
 - `Ctrl` + `2`: [osu!taiko](/wiki/Game_mode/osu!taiko) 모드로 전환
 - `Ctrl` + `3`: [osu!catch](/wiki/Game_mode/osu!catch) 모드로 전환
 - `Ctrl` + `4`: [osu!mania](/wiki/Game_mode/osu!mania) 모드로 전환
-- `Ctrl` + `Enter`: 현재 맵을 [Auto](/wiki/Game_modifier/Auto) 모드로 플레이
-- `Ctrl` + `Shift` + `Enter`: 현재 맵을 [Cinema](/wiki/Game_modifier/Cinema) 모드로 플레이
+- `Ctrl` + `Enter`: 현재 맵을 [Auto](/wiki/Gameplay/Game_modifier/Auto) 모드로 플레이
+- `Ctrl` + `Shift` + `Enter`: 현재 맵을 [Cinema](/wiki/Gameplay/Game_modifier/Cinema) 모드로 플레이
 - `Ctrl` + `A`: Auto 모드 활성화/비활성화
 - `Ctrl` + `F3`: osu!mania 속도 증가 (osu!mania 모드 전용)
   - 다른 키: `Ctrl` + `+`
@@ -97,45 +97,45 @@ Note: [멀티플레이](/wiki/Gameplay/Multiplayer) 곡 선택 화면에서는 �
 
 ### Game Modifiers
 
-*Main Page: [Game Modifiers](/wiki/Game_modifier)*
+*Main Page: [Game Modifiers](/wiki/Gameplay/Game_modifier)*
 
 **Notes:**
 
 - 아래 단축키들은 플레이어가 아무런 모드도 걸지 않았을 때의 기준입니다.
 - 일부 모드를 선택하려면 키를 두 번 눌러야 할 수도 있습니다.
-- `Q`: [Easy](/wiki/Game_modifier/Easy)
-- `W`: [No Fail](/wiki/Game_modifier/No_Fail)
-- `E`: [Half Time](/wiki/Game_modifier/Half_Time)
+- `Q`: [Easy](/wiki/Gameplay/Game_modifier/Easy)
+- `W`: [No Fail](/wiki/Gameplay/Game_modifier/No_Fail)
+- `E`: [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)
 
 ---
 
-- `A`: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
-- `S`: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
-- `S`, `S`: [Perfect](/wiki/Game_modifier/Perfect)
-- `D`: [Double Time](/wiki/Game_modifier/Double_Time)
-- `D`, `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
-- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, osu!catch)
-  - [Fade In](/wiki/Game_modifier/Fade_In) (osu!mania)
-- `F`, `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!mania 전용)
-- `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
+- `A`: [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
+- `S`, `S`: [Perfect](/wiki/Gameplay/Game_modifier/Perfect)
+- `D`: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
+- `D`, `D`: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
+- `F`: [Hidden](/wiki/Gameplay/Game_modifier/Hidden) (osu!, osu!taiko, osu!catch)
+  - [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) (osu!mania)
+- `F`, `F`: [Hidden](/wiki/Gameplay/Game_modifier/Hidden) (osu!mania 전용)
+- `G`: [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)
 
 ---
 
-- `X`: [Relax](/wiki/Game_modifier/Relax)
-- `C`: [Auto Pilot](/wiki/Game_modifier/Autopilot)
-- `V`: [Spun Out](/wiki/Game_modifier/Spun_Out)
+- `X`: [Relax](/wiki/Gameplay/Game_modifier/Relax)
+- `C`: [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot)
+- `V`: [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 - `B`: Auto
 - `B`, `B`: Cinema
 
 ---
 
-- `3`: [3K](/wiki/Game_modifier/xK) (osu!mania 전용)
-- `4`: [4K](/wiki/Game_modifier/xK) (osu!mania 전용)
-- `5`: [5K](/wiki/Game_modifier/xK) (osu!mania 전용)
-- `6`: [6K](/wiki/Game_modifier/xK) (osu!mania 전용)
-- `7`: [7K](/wiki/Game_modifier/xK) (osu!mania 전용)
-- `8`: [8K](/wiki/Game_modifier/xK) (osu!mania 전용)
-- `9`: [9K](/wiki/Game_modifier/xK) (osu!mania 전용)
+- `3`: [3K](/wiki/Gameplay/Game_modifier/xK) (osu!mania 전용)
+- `4`: [4K](/wiki/Gameplay/Game_modifier/xK) (osu!mania 전용)
+- `5`: [5K](/wiki/Gameplay/Game_modifier/xK) (osu!mania 전용)
+- `6`: [6K](/wiki/Gameplay/Game_modifier/xK) (osu!mania 전용)
+- `7`: [7K](/wiki/Gameplay/Game_modifier/xK) (osu!mania 전용)
+- `8`: [8K](/wiki/Gameplay/Game_modifier/xK) (osu!mania 전용)
+- `9`: [9K](/wiki/Gameplay/Game_modifier/xK) (osu!mania 전용)
 
 ## 게임 플레이
 
@@ -179,7 +179,7 @@ Note: [멀티플레이](/wiki/Gameplay/Multiplayer) 곡 선택 화면에서는 �
 - `F1`: [compose](/wiki/Client/Beatmap_editor/Compose) 모드로 변경
 - `F2`: [design](/wiki/Client/Beatmap_editor/Design) 모드로 변경
 - `F3`: [timing](/wiki/Client/Beatmap_editor/Timing) 모드로 변경
-- `F4`: [곡 설정](/wiki/Client/Beatmap_editor/Song_Setup) 창 열기
+- `F4`: [곡 설정](/wiki/Client/Beatmap_editor/Song_setup) 창 열기
 - `F5`: 비트맵 테스트
 - `F6`: 타이밍 설정 창 열기
 
@@ -244,7 +244,7 @@ Note: [멀티플레이](/wiki/Gameplay/Multiplayer) 곡 선택 화면에서는 �
 
 #### 타임라인
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: [비트 배치 나눗수](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) 변경 (1/1, 1/2, 1/3, 1/4, 1/6, 1/8)
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: [비트 배치 나눗수](/wiki/Client/Beatmap_editor/Beat_snap_divisor) 변경 (1/1, 1/2, 1/3, 1/4, 1/6, 1/8)
 - `Shift` 누르면서 서클 이동 (타임라인에서): 시간 그리드를 무시하고 배치 (osu!mania에서는 작동하지 않음)
 - `J`: 서클을 앞쪽 시간으로 이동
 - `K`: 서클을 뒤쪽 시간으로 이동
@@ -263,7 +263,7 @@ Note: [멀티플레이](/wiki/Gameplay/Multiplayer) 곡 선택 화면에서는 �
 
 ### Timing
 
-- `T`: 키를 눌러서 [BPM](/wiki/Beatmapping/Beats_per_minute)과 offset 설정
+- `T`: 키를 눌러서 [BPM](/wiki/Music_theory/Tempo)과 offset 설정
   - 일정하게 키를 눌러야 정확한 값을 얻을 수 있습니다.
 - `Shift` 누른 채로 BPM/offset 조절: 4배로 증가/감소
 - `Ctrl` + `B`: 현재 타이밍 포인트 초기화

@@ -1,29 +1,37 @@
 # osu!stream
 
+*Pour la liste des musiques incluses dans le jeu, voir : [Liste des musiques d'osu!stream](/wiki/osu!stream/Song_List)*
+
 ![](img/Os-Logo.jpg "logo d'osu!stream")
 
-**osu!stream** est une version d'osu! créée de toutes pièces et spécialement conçue pour les appareils tactiles. Elle est actuellement disponible uniquement sur la plateforme [iOS](https://fr.wikipedia.org/wiki/IOS) d'Apple. Un portage [Android](https://fr.wikipedia.org/wiki/Android) était prévu et presque terminé, mais il n'a pas été publié en raison de problèmes de latence audio dans Android, qui rendaient le jeu peu agréable.
+**osu!stream** est une version spéciale d'osu! créée pour les appareils portables [iOS](http://en.wikipedia.org/wiki/IOS) et [Android](http://en.wikipedia.org/wiki/Android_(operating_system)). Elle peut être téléchargée gratuitement sur l'[App Store](https://apps.apple.com/us/app/osu-stream/id436952197) (iOS) et le [Play Store](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) (Android).
 
-Il a introduit un tout nouveau système de jeu, avec de nouveaux éléments de jeu tels que des hold circles et des connected beats. Il ne prend pas en charge les beatmaps classiques d'osu! sans conversion manuelle. Les beatmaps ont été créées par une équipe spéciale de mappeurs afin de tirer parti des nouveaux éléments et de respecter un [niveau de normes plus strict](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Contrairement à osu!, osu!stream propose un système de jeu entièrement nouveau avec des éléments uniques tels que les hold circle et les connected beats. Il ne prend pas en charge les beatmaps classiques d'osu! sans conversion manuelle. Les beatmaps sont créées par une équipe spéciale de mappeurs afin de tirer parti des nouveaux éléments et de respecter un [niveau de normes plus strict](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-[osu!stream a été élaboré dans osu!monthly \#5 après une interview](https://osu.ppy.sh/community/forums/topics/59924)
+## Histoire
 
-Le développement de cette version s'est terminé en 2020. Pour plus d'informations, lisez le [billet de blog](https://blog.ppy.sh/osu-stream-2020-release/) sur sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream) pour les curieux, et toutes les beatmaps précédemment payantes sont désormais disponibles gratuitement dans la "boutique" du jeu.
+Le développement d'osu!stream a commencé en 2011 dans le but de présenter une version d'osu! pouvant être jouée en déplacement, suite au projet [osu! iPhone](https://github.com/ppy/osu-iPhone) précédemment abandonné. À l'origine, il s'agissait d'une application exclusive à iOS, car l'infrastructure d'Android à l'époque rendait inévitables les problèmes de latence audio sur cette plateforme.
+
+Le jeu a été présenté pour la première fois dans [une vidéo YouTube cryptique](https://www.youtube.com/watch?v=6Jyzgm_-joM) en juin 2011. Après sa sortie publique quelques mois plus tard, les coulisses du jeu ont été détaillées dans l'[osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) ainsi qu'une interview de peppy.
+
+Le développement de base d'osu!stream a cessé en 2020. Pour plus d'informations, lisez le [post du blog](https://blog.ppy.sh/osu-stream-2020-release/) concernant sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream), et toutes les beatmaps précédemment payantes sont désormais disponibles gratuitement dans la "Boutique" du jeu.
+
+En 2023, douze ans après sa sortie initiale, osu!stream a finalement été [implémenté sur Android](https://twitter.com/ppy/status/1613460209703456769) grâce aux efforts de ::{ flag=FR }: : [ThePooN](https://osu.ppy.sh/users/718454) et d'autres contributeurs open-source.
 
 ## Installation
 
-![](img/Os-Devices.jpg "osu!stream dans iDevice")
+![](img/Os-Devices.jpg "osu!stream sur les appareils iOS")
 
-### Méthode de l'App Store de l'iDevice (recommandé)
+### Méthode de l'App Store des appareils iOS (recommandé)
 
-**Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
+**Assurez-vous que l'appareil iOS peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
-- Allez sur l'"App Store" depuis votre iDevice.
+- Allez sur l'"App Store" depuis votre appareil iOS.
 - Recherchez osu!stream
 - Appuyez et installez osu!stream
   - Si vous êtes invité à saisir votre identifiant Apple et votre mot de passe, faites-le.
 - osu!stream peut être joué une fois le téléchargement et l'auto-installation terminés.
-  - Il est suggéré de lire également la section "Ajouter des beatmaps" pour obtenir le dernier pack de musiques gratuites. Le téléchargement actuel ne contient que 2 musiques.
+  - Il est suggéré de lire également la section [Ajouter des beatmaps](#ajouter-des-beatmaps) pour obtenir le dernier pack de musiques gratuites. Le téléchargement actuel ne contient que 2 musiques.
 
 ### Méthode USB
 
@@ -31,13 +39,13 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 - Allez sur [ce lien](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8) et téléchargez osu!stream
   - Si l'on vous demande votre identifiant Apple, saisissez votre identifiant Apple et votre mot de passe.
-- Branchez l'iDevice sur l'appareil (qui a osu!stream).
+- Branchez l'appareil iOS sur l'appareil (qui a osu!stream).
 - Transférez les fichiers osu!stream en utilisant iTunes.
-- Débranchez l'iDevice et osu!stream pourra être lancé.
+- Débranchez l'appareil iOS et osu!stream pourra être lancé.
 
 ## Ajouter des beatmaps
 
-**Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
+**Assurez-vous que l'appareil iOS peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
 - Ouvrez osu!stream.
 - Appuyez sur le symbole d'osu! et vous devriez être redirigé vers le menu principal (ou le tutoriel si c'est la première fois).
@@ -92,7 +100,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
   - Si le cercle a été relâché avant qu'il n'explose, le multiplicateur de combo sera remis à 0, mais le Hold circle n'entraînera pas un miss à partir du moment où le joueur l'a touché.
   - Si le joueur n'a pas tenu le cercle, les HP seront pris tant que le cercle n'a pas explosé.
 
-### De nouveaux modes pour remplacer la difficulté  
+### De nouveaux modes pour remplacer la difficulté
 
 ---
 
@@ -116,7 +124,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulté : Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Difficulté : Easy + [NoFail](/wiki/Gameplay/Game_modifier/No_Fail)**
 
 Le mode Easy permet aux nouveaux joueur de s'habituer au gameplay d'osu!stream. Le jeu est considérablement plus lent pour que les nouveaux joueurs comprennent le déroulement et le timing des frappes. Il n'y a pas de barre de vie et le mode Easy ne débloque pas le mode Expert.
 
@@ -215,10 +223,6 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 ![](img/Os-O2.png "Écran des options 2")
 
 ---
-
-## Liste des musiques
-
-***[Cliquez ici pour une liste complète](Song_List)***
 
 ## Score
 
@@ -331,10 +335,10 @@ En **Stream Mode**, le joueur dispose de trois barres de vie et le joueur commen
 
 En **Mode Expert, une seule barre de vie complète est utilisée à la place**.
 
-Ce qui suit remplit la barre de vie : 
+Ce qui suit remplit la barre de vie :
 
-- Compléter les spinners et les Hold Bubbles.
-- Obtenir un osu!, gold good!, green good!, 300, ou un 100, 
+- Compléter les spinners et les hold circles.
+- Obtenir un osu!, gold good!, green good!, 300, ou un 100,
   - Pour les cercles, les meilleurs jugements remplissent davantage la barre de vie. Le dernier cercle touché d'une combinaison de couleurs donne plus de vie.
   - Pour les sliders, la barre de vie est remplie en fonction du nombre de parties touchées, une fois le slider terminé.
 
@@ -343,7 +347,7 @@ Ce qui suit vide la barre de vie :
 - Recevoir un 50.
 - Manquer un objet ou un slider.
 - Ne pas rester dans le follow circle d'un slider.
-- Ne pas tenir une Hold Bubble jusqu'à ce qu'elle explose.
+- Ne pas tenir un hold circle jusqu'à ce qu'il explose.
 - Ne pas faire tourner un spinner.
 - Ne pas terminer un spinner avec le message "Clear".
 

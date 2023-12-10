@@ -1,6 +1,6 @@
 # Résumé des modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*\
+*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
 *Note : Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.*
 
 | Mod | Nom (Abréviation) | Multiplicateur | Légende |
@@ -28,7 +28,7 @@
 | ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Try the future scoring system. ** UNRANKED **` |
 | ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | • ![][osu!]: 1.00x |  |
 
-## Multiplicateurs de score pour le mod xK 
+## Multiplicateurs de score pour le mod xK
 
 *Attention : Ce tableau n'affecte que les beatmaps convertis d'osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania !*.
 

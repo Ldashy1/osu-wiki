@@ -16,7 +16,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Edição de Áudio](Audio_Editing)
 - [Mudando o Artista ou Título](Changing_the_Artist_or_Title)
 - [Mudando o texto do Título](/wiki/Beatmap/Title_text#changing-title-text)
-- [Informação de Collab](Collab_Information)
 - [Compactando Arquivos](Compressing_files)
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)
 - [Sobreposição de Amostra Customizado](Custom_Sample_Overrides)
@@ -37,7 +36,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 - [Tutorial de Iniciante](Beginner's_Tutorial)
 - [Como utilizar o Offset Wizard](How_to_Use_the_Offset_Wizard)
-- [Pesquisando e Baixando Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Compra de Tablet](Tablet_Purchase)
 
 ## Skinning

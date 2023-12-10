@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a58b8d820cdc30b89ea9c94331df24e523ce7f95
+---
+
 # 本当にpeppyに聞きたいですか？
 
 こんにちは！peppyは、あなたが個人的に連絡を取りたいという気持ちを理解していますが、ここはあなたが彼に助けやサポートを求めたい場所ではないということをまず理解してください。彼はosu！のサポートを個人的なメッセージとは別にしていますし、フォーラムのPMに答えるのはかなり難しいと思っています。そのため、以下のいずれかの方法をとるようにお願いしています。
@@ -8,7 +13,7 @@
 
 ## 一般的なosu!サポート
 
-アカウントに関する問題、支払いに関する問題、BANに関するフォローアップ、トーナメントに関する問い合わせなど、**osu!で助けを必要とするすべてのこと**については、[account support team](/wiki/People/The_Team/Account_support_team)に連絡してください。[accounts@ppy.sh](mailto:accounts@ppy.sh)（アカウントに関する問い合わせ）また[osu@ppy.sh](mailto:osu@ppy.sh)（その他）にメールを送ってください。
+アカウントに関する問題、支払いに関する問題、BANに関するフォローアップ、トーナメントに関する問い合わせなど、**osu!で助けを必要とするすべてのこと**については、[account support team](/wiki/People/Account_support_team)に連絡してください。[accounts@ppy.sh](mailto:accounts@ppy.sh)（アカウントに関する問い合わせ）また[osu@ppy.sh](mailto:osu@ppy.sh)（その他）にメールを送ってください。
 
 ## peppyへの連絡
 
